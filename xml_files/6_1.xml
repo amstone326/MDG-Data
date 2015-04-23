@@ -1,0 +1,2682 @@
+<indicator id="18" name="6.1 HIV prevalence among population aged 15-24 years">
+    <series id="801" name="HIV incidence rate, 15-49 years old, percentage (mid-point)">
+        <country id="4" name="Afghanistan">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="12" name="Algeria">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1,2" />
+            <seriesData year="2001" value="0.01" footnotes="1,2" />
+            <seriesData year="2002" value="0.01" footnotes="1,2" />
+            <seriesData year="2003" value="0.01" footnotes="1,2" />
+            <seriesData year="2004" value="0.01" footnotes="1,2" />
+            <seriesData year="2005" value="0.01" footnotes="1,2" />
+            <seriesData year="2006" value="0.01" footnotes="1,2" />
+            <seriesData year="2007" value="0.01" footnotes="1" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1" />
+            <seriesData year="2011" value="0.01" footnotes="1" />
+            <seriesData year="2012" value="0.01" footnotes="1" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="24" name="Angola">
+            <seriesData year="1990" value="0.10" footnotes="1" />
+            <seriesData year="1991" value="0.16" footnotes="1" />
+            <seriesData year="1992" value="0.20" footnotes="1" />
+            <seriesData year="1993" value="0.23" footnotes="1" />
+            <seriesData year="1994" value="0.25" footnotes="1" />
+            <seriesData year="1995" value="0.27" footnotes="1" />
+            <seriesData year="1996" value="0.29" footnotes="1" />
+            <seriesData year="1997" value="0.31" footnotes="1" />
+            <seriesData year="1998" value="0.24" footnotes="1" />
+            <seriesData year="1999" value="0.24" footnotes="1" />
+            <seriesData year="2000" value="0.24" footnotes="1" />
+            <seriesData year="2001" value="0.24" footnotes="1" />
+            <seriesData year="2002" value="0.25" footnotes="1" />
+            <seriesData year="2003" value="0.25" footnotes="1" />
+            <seriesData year="2004" value="0.24" footnotes="1" />
+            <seriesData year="2005" value="0.25" footnotes="1" />
+            <seriesData year="2006" value="0.25" footnotes="1" />
+            <seriesData year="2007" value="0.24" footnotes="1" />
+            <seriesData year="2008" value="0.25" footnotes="1" />
+            <seriesData year="2009" value="0.25" footnotes="1" />
+            <seriesData year="2010" value="0.26" footnotes="1" />
+            <seriesData year="2011" value="0.28" footnotes="1" />
+            <seriesData year="2012" value="0.28" footnotes="1" />
+            <seriesData year="2013" value="0.28" footnotes="1" />
+        </country>
+        <country id="32" name="Argentina">
+            <seriesData year="1990" value="0.02" footnotes="1" />
+            <seriesData year="1991" value="0.03" footnotes="1" />
+            <seriesData year="1992" value="0.03" footnotes="1" />
+            <seriesData year="1993" value="0.03" footnotes="1" />
+            <seriesData year="1994" value="0.02" footnotes="1" />
+            <seriesData year="1995" value="0.02" footnotes="1" />
+            <seriesData year="1996" value="0.02" footnotes="1" />
+            <seriesData year="1997" value="0.02" footnotes="1" />
+            <seriesData year="1998" value="0.02" footnotes="1" />
+            <seriesData year="1999" value="0.02" footnotes="1" />
+            <seriesData year="2000" value="0.02" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.03" footnotes="1" />
+            <seriesData year="2003" value="0.03" footnotes="1" />
+            <seriesData year="2004" value="0.03" footnotes="1" />
+            <seriesData year="2005" value="0.03" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="44" name="Bahamas">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.20" footnotes="1" />
+        </country>
+        <country id="50" name="Bangladesh">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="52" name="Barbados">
+            <seriesData year="1990" value="0.07" footnotes="1" />
+            <seriesData year="1991" value="0.08" footnotes="1" />
+            <seriesData year="1992" value="0.08" footnotes="1" />
+            <seriesData year="1993" value="0.09" footnotes="1" />
+            <seriesData year="1994" value="0.09" footnotes="1" />
+            <seriesData year="1995" value="0.09" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.09" footnotes="1" />
+            <seriesData year="1998" value="0.09" footnotes="1" />
+            <seriesData year="1999" value="0.09" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.08" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.06" footnotes="1" />
+            <seriesData year="2004" value="0.06" footnotes="1" />
+            <seriesData year="2005" value="0.06" footnotes="1" />
+            <seriesData year="2006" value="0.06" footnotes="1" />
+            <seriesData year="2007" value="0.06" footnotes="1" />
+            <seriesData year="2008" value="0.06" footnotes="1" />
+            <seriesData year="2009" value="0.05" footnotes="1" />
+            <seriesData year="2010" value="0.05" footnotes="1" />
+            <seriesData year="2011" value="0.05" footnotes="1" />
+            <seriesData year="2012" value="0.04" footnotes="1" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="84" name="Belize">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1" />
+            <seriesData year="1993" value="0.03" footnotes="1" />
+            <seriesData year="1994" value="0.06" footnotes="1" />
+            <seriesData year="1995" value="0.12" footnotes="1" />
+            <seriesData year="1996" value="0.23" footnotes="1" />
+            <seriesData year="1997" value="0.38" footnotes="1" />
+            <seriesData year="1998" value="0.48" footnotes="1" />
+            <seriesData year="1999" value="0.47" footnotes="1" />
+            <seriesData year="2000" value="0.35" footnotes="1" />
+            <seriesData year="2001" value="0.22" footnotes="1" />
+            <seriesData year="2002" value="0.14" footnotes="1" />
+            <seriesData year="2003" value="0.11" footnotes="1" />
+            <seriesData year="2004" value="0.11" footnotes="1" />
+            <seriesData year="2005" value="0.11" footnotes="1" />
+            <seriesData year="2006" value="0.10" footnotes="1" />
+            <seriesData year="2007" value="0.11" footnotes="1" />
+            <seriesData year="2008" value="0.11" footnotes="1" />
+            <seriesData year="2009" value="0.11" footnotes="1" />
+            <seriesData year="2010" value="0.09" footnotes="1" />
+            <seriesData year="2011" value="0.09" footnotes="1" />
+            <seriesData year="2012" value="0.09" footnotes="1" />
+            <seriesData year="2013" value="0.09" footnotes="1" />
+        </country>
+        <country id="204" name="Benin">
+            <seriesData year="1990" value="0.09" footnotes="1" />
+            <seriesData year="1991" value="0.13" footnotes="1" />
+            <seriesData year="1992" value="0.17" footnotes="1" />
+            <seriesData year="1993" value="0.21" footnotes="1" />
+            <seriesData year="1994" value="0.24" footnotes="1" />
+            <seriesData year="1995" value="0.27" footnotes="1" />
+            <seriesData year="1996" value="0.27" footnotes="1" />
+            <seriesData year="1997" value="0.26" footnotes="1" />
+            <seriesData year="1998" value="0.24" footnotes="1" />
+            <seriesData year="1999" value="0.21" footnotes="1" />
+            <seriesData year="2000" value="0.18" footnotes="1" />
+            <seriesData year="2001" value="0.15" footnotes="1" />
+            <seriesData year="2002" value="0.13" footnotes="1" />
+            <seriesData year="2003" value="0.11" footnotes="1" />
+            <seriesData year="2004" value="0.10" footnotes="1" />
+            <seriesData year="2005" value="0.10" footnotes="1" />
+            <seriesData year="2006" value="0.09" footnotes="1" />
+            <seriesData year="2007" value="0.09" footnotes="1" />
+            <seriesData year="2008" value="0.09" footnotes="1" />
+            <seriesData year="2009" value="0.09" footnotes="1" />
+            <seriesData year="2010" value="0.09" footnotes="1" />
+            <seriesData year="2011" value="0.10" footnotes="1" />
+            <seriesData year="2012" value="0.08" footnotes="1" />
+            <seriesData year="2013" value="0.07" footnotes="1" />
+        </country>
+        <country id="64" name="Bhutan">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="68" name="Bolivia">
+            <seriesData year="1990" value="0.06" footnotes="1" />
+            <seriesData year="1991" value="0.07" footnotes="1" />
+            <seriesData year="1992" value="0.08" footnotes="1" />
+            <seriesData year="1993" value="0.09" footnotes="1" />
+            <seriesData year="1994" value="0.10" footnotes="1" />
+            <seriesData year="1995" value="0.11" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.07" footnotes="1" />
+            <seriesData year="1998" value="0.06" footnotes="1" />
+            <seriesData year="1999" value="0.06" footnotes="1" />
+            <seriesData year="2000" value="0.05" footnotes="1" />
+            <seriesData year="2001" value="0.04" footnotes="1" />
+            <seriesData year="2002" value="0.03" footnotes="1" />
+            <seriesData year="2003" value="0.03" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="72" name="Botswana">
+            <seriesData year="1990" value="1.92" footnotes="1" />
+            <seriesData year="1991" value="2.69" footnotes="1" />
+            <seriesData year="1992" value="3.59" footnotes="1" />
+            <seriesData year="1993" value="4.45" footnotes="1" />
+            <seriesData year="1994" value="5.13" footnotes="1" />
+            <seriesData year="1995" value="5.52" footnotes="1" />
+            <seriesData year="1996" value="5.53" footnotes="1" />
+            <seriesData year="1997" value="5.29" footnotes="1" />
+            <seriesData year="1998" value="4.89" footnotes="1" />
+            <seriesData year="1999" value="4.37" footnotes="1" />
+            <seriesData year="2000" value="3.83" footnotes="1" />
+            <seriesData year="2001" value="3.33" footnotes="1" />
+            <seriesData year="2002" value="2.89" footnotes="1" />
+            <seriesData year="2003" value="2.47" footnotes="1" />
+            <seriesData year="2004" value="2.13" footnotes="1" />
+            <seriesData year="2005" value="1.86" footnotes="1" />
+            <seriesData year="2006" value="1.70" footnotes="1" />
+            <seriesData year="2007" value="1.57" footnotes="1" />
+            <seriesData year="2008" value="1.51" footnotes="1" />
+            <seriesData year="2009" value="1.35" footnotes="1" />
+            <seriesData year="2010" value="1.20" footnotes="1" />
+            <seriesData year="2011" value="1.15" footnotes="1" />
+            <seriesData year="2012" value="1.06" footnotes="1" />
+            <seriesData year="2013" value="0.93" footnotes="1" />
+        </country>
+        <country id="76" name="Brazil">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="854" name="Burkina Faso">
+            <seriesData year="1990" value="0.72" footnotes="1" />
+            <seriesData year="1991" value="0.67" footnotes="1" />
+            <seriesData year="1992" value="0.60" footnotes="1" />
+            <seriesData year="1993" value="0.52" footnotes="1" />
+            <seriesData year="1994" value="0.43" footnotes="1" />
+            <seriesData year="1995" value="0.33" footnotes="1" />
+            <seriesData year="1996" value="0.26" footnotes="1" />
+            <seriesData year="1997" value="0.18" footnotes="1" />
+            <seriesData year="1998" value="0.13" footnotes="1" />
+            <seriesData year="1999" value="0.10" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.06" footnotes="1" />
+            <seriesData year="2003" value="0.06" footnotes="1" />
+            <seriesData year="2004" value="0.06" footnotes="1" />
+            <seriesData year="2005" value="0.06" footnotes="1" />
+            <seriesData year="2006" value="0.06" footnotes="1" />
+            <seriesData year="2007" value="0.07" footnotes="1" />
+            <seriesData year="2008" value="0.06" footnotes="1" />
+            <seriesData year="2009" value="0.07" footnotes="1" />
+            <seriesData year="2010" value="0.07" footnotes="1" />
+            <seriesData year="2011" value="0.06" footnotes="1" />
+            <seriesData year="2012" value="0.06" footnotes="1" />
+            <seriesData year="2013" value="0.06" footnotes="1" />
+        </country>
+        <country id="108" name="Burundi">
+            <seriesData year="1990" value="0.10" footnotes="1" />
+            <seriesData year="1991" value="0.14" footnotes="1" />
+            <seriesData year="1992" value="0.18" footnotes="1" />
+            <seriesData year="1993" value="0.24" footnotes="1" />
+            <seriesData year="1994" value="0.30" footnotes="1" />
+            <seriesData year="1995" value="0.35" footnotes="1" />
+            <seriesData year="1996" value="0.40" footnotes="1" />
+            <seriesData year="1997" value="0.43" footnotes="1" />
+            <seriesData year="1998" value="0.44" footnotes="1" />
+            <seriesData year="1999" value="0.42" footnotes="1" />
+            <seriesData year="2000" value="0.39" footnotes="1" />
+            <seriesData year="2001" value="0.34" footnotes="1" />
+            <seriesData year="2002" value="0.27" footnotes="1" />
+            <seriesData year="2003" value="0.21" footnotes="1" />
+            <seriesData year="2004" value="0.15" footnotes="1" />
+            <seriesData year="2005" value="0.10" footnotes="1" />
+            <seriesData year="2006" value="0.06" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="116" name="Cambodia">
+            <seriesData year="1990" value="0.02" footnotes="1" />
+            <seriesData year="1991" value="0.08" footnotes="1" />
+            <seriesData year="1992" value="0.20" footnotes="1" />
+            <seriesData year="1993" value="0.35" footnotes="1" />
+            <seriesData year="1994" value="0.44" footnotes="1" />
+            <seriesData year="1995" value="0.42" footnotes="1" />
+            <seriesData year="1996" value="0.34" footnotes="1" />
+            <seriesData year="1997" value="0.22" footnotes="1" />
+            <seriesData year="1998" value="0.17" footnotes="1" />
+            <seriesData year="1999" value="0.13" footnotes="1" />
+            <seriesData year="2000" value="0.10" footnotes="1" />
+            <seriesData year="2001" value="0.08" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.06" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.03" footnotes="1" />
+            <seriesData year="2008" value="0.03" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="120" name="Cameroon">
+            <seriesData year="1990" value="0.41" footnotes="1" />
+            <seriesData year="1991" value="0.48" footnotes="1" />
+            <seriesData year="1992" value="0.57" footnotes="1" />
+            <seriesData year="1993" value="0.66" footnotes="1" />
+            <seriesData year="1994" value="0.74" footnotes="1" />
+            <seriesData year="1995" value="0.80" footnotes="1" />
+            <seriesData year="1996" value="0.84" footnotes="1" />
+            <seriesData year="1997" value="0.84" footnotes="1" />
+            <seriesData year="1998" value="0.84" footnotes="1" />
+            <seriesData year="1999" value="0.82" footnotes="1" />
+            <seriesData year="2000" value="0.78" footnotes="1" />
+            <seriesData year="2001" value="0.76" footnotes="1" />
+            <seriesData year="2002" value="0.71" footnotes="1" />
+            <seriesData year="2003" value="0.67" footnotes="1" />
+            <seriesData year="2004" value="0.62" footnotes="1" />
+            <seriesData year="2005" value="0.58" footnotes="1" />
+            <seriesData year="2006" value="0.52" footnotes="1" />
+            <seriesData year="2007" value="0.49" footnotes="1" />
+            <seriesData year="2008" value="0.47" footnotes="1" />
+            <seriesData year="2009" value="0.43" footnotes="1" />
+            <seriesData year="2010" value="0.41" footnotes="1" />
+            <seriesData year="2011" value="0.39" footnotes="1" />
+            <seriesData year="2012" value="0.37" footnotes="1" />
+            <seriesData year="2013" value="0.34" footnotes="1" />
+        </country>
+        <country id="132" name="Cape Verde">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="140" name="Central African Republic">
+            <seriesData year="1990" value="0.98" footnotes="1" />
+            <seriesData year="1991" value="1.11" footnotes="1" />
+            <seriesData year="1992" value="1.25" footnotes="1" />
+            <seriesData year="1993" value="1.36" footnotes="1" />
+            <seriesData year="1994" value="1.42" footnotes="1" />
+            <seriesData year="1995" value="1.46" footnotes="1" />
+            <seriesData year="1996" value="1.39" footnotes="1" />
+            <seriesData year="1997" value="1.34" footnotes="1" />
+            <seriesData year="1998" value="1.24" footnotes="1" />
+            <seriesData year="1999" value="1.07" footnotes="1" />
+            <seriesData year="2000" value="0.96" footnotes="1" />
+            <seriesData year="2001" value="0.80" footnotes="1" />
+            <seriesData year="2002" value="0.66" footnotes="1" />
+            <seriesData year="2003" value="0.53" footnotes="1" />
+            <seriesData year="2004" value="0.45" footnotes="1" />
+            <seriesData year="2005" value="0.36" footnotes="1" />
+            <seriesData year="2006" value="0.32" footnotes="1" />
+            <seriesData year="2007" value="0.29" footnotes="1" />
+            <seriesData year="2008" value="0.27" footnotes="1" />
+            <seriesData year="2009" value="0.26" footnotes="1" />
+            <seriesData year="2010" value="0.26" footnotes="1" />
+            <seriesData year="2011" value="0.29" footnotes="1" />
+            <seriesData year="2012" value="0.28" footnotes="1" />
+            <seriesData year="2013" value="0.26" footnotes="1" />
+        </country>
+        <country id="148" name="Chad">
+            <seriesData year="1990" value="0.28" footnotes="1" />
+            <seriesData year="1991" value="0.30" footnotes="1" />
+            <seriesData year="1992" value="0.34" footnotes="1" />
+            <seriesData year="1993" value="0.37" footnotes="1" />
+            <seriesData year="1994" value="0.41" footnotes="1" />
+            <seriesData year="1995" value="0.45" footnotes="1" />
+            <seriesData year="1996" value="0.49" footnotes="1" />
+            <seriesData year="1997" value="0.52" footnotes="1" />
+            <seriesData year="1998" value="0.54" footnotes="1" />
+            <seriesData year="1999" value="0.56" footnotes="1" />
+            <seriesData year="2000" value="0.55" footnotes="1" />
+            <seriesData year="2001" value="0.54" footnotes="1" />
+            <seriesData year="2002" value="0.51" footnotes="1" />
+            <seriesData year="2003" value="0.47" footnotes="1" />
+            <seriesData year="2004" value="0.43" footnotes="1" />
+            <seriesData year="2005" value="0.38" footnotes="1" />
+            <seriesData year="2006" value="0.33" footnotes="1" />
+            <seriesData year="2007" value="0.28" footnotes="1" />
+            <seriesData year="2008" value="0.24" footnotes="1" />
+            <seriesData year="2009" value="0.20" footnotes="1" />
+            <seriesData year="2010" value="0.17" footnotes="1" />
+            <seriesData year="2011" value="0.16" footnotes="1" />
+            <seriesData year="2012" value="0.15" footnotes="1" />
+            <seriesData year="2013" value="0.14" footnotes="1" />
+        </country>
+        <country id="152" name="Chile">
+            <seriesData year="1990" value="0.03" footnotes="1" />
+            <seriesData year="1991" value="0.04" footnotes="1" />
+            <seriesData year="1992" value="0.05" footnotes="1" />
+            <seriesData year="1993" value="0.06" footnotes="1" />
+            <seriesData year="1994" value="0.06" footnotes="1" />
+            <seriesData year="1995" value="0.06" footnotes="1" />
+            <seriesData year="1996" value="0.06" footnotes="1" />
+            <seriesData year="1997" value="0.05" footnotes="1" />
+            <seriesData year="1998" value="0.03" footnotes="1" />
+            <seriesData year="1999" value="0.03" footnotes="1" />
+            <seriesData year="2000" value="0.02" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.02" footnotes="1" />
+            <seriesData year="2003" value="0.02" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="156" name="China">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="170" name="Colombia">
+            <seriesData year="1990" value="0.04" footnotes="1" />
+            <seriesData year="1991" value="0.05" footnotes="1" />
+            <seriesData year="1992" value="0.06" footnotes="1" />
+            <seriesData year="1993" value="0.07" footnotes="1" />
+            <seriesData year="1994" value="0.09" footnotes="1" />
+            <seriesData year="1995" value="0.11" footnotes="1" />
+            <seriesData year="1996" value="0.12" footnotes="1" />
+            <seriesData year="1997" value="0.10" footnotes="1" />
+            <seriesData year="1998" value="0.08" footnotes="1" />
+            <seriesData year="1999" value="0.06" footnotes="1" />
+            <seriesData year="2000" value="0.04" footnotes="1" />
+            <seriesData year="2001" value="0.04" footnotes="1" />
+            <seriesData year="2002" value="0.03" footnotes="1" />
+            <seriesData year="2003" value="0.04" footnotes="1" />
+            <seriesData year="2004" value="0.04" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.04" footnotes="1" />
+            <seriesData year="2009" value="0.04" footnotes="1" />
+            <seriesData year="2010" value="0.04" footnotes="1" />
+            <seriesData year="2011" value="0.04" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="178" name="Congo">
+            <seriesData year="1990" value="0.91" footnotes="1" />
+            <seriesData year="1991" value="0.91" footnotes="1" />
+            <seriesData year="1992" value="0.91" footnotes="1" />
+            <seriesData year="1993" value="0.88" footnotes="1" />
+            <seriesData year="1994" value="0.84" footnotes="1" />
+            <seriesData year="1995" value="0.78" footnotes="1" />
+            <seriesData year="1996" value="0.70" footnotes="1" />
+            <seriesData year="1997" value="0.66" footnotes="1" />
+            <seriesData year="1998" value="0.61" footnotes="1" />
+            <seriesData year="1999" value="0.53" footnotes="1" />
+            <seriesData year="2000" value="0.48" footnotes="1" />
+            <seriesData year="2001" value="0.44" footnotes="1" />
+            <seriesData year="2002" value="0.40" footnotes="1" />
+            <seriesData year="2003" value="0.35" footnotes="1" />
+            <seriesData year="2004" value="0.32" footnotes="1" />
+            <seriesData year="2005" value="0.29" footnotes="1" />
+            <seriesData year="2006" value="0.27" footnotes="1" />
+            <seriesData year="2007" value="0.25" footnotes="1" />
+            <seriesData year="2008" value="0.23" footnotes="1" />
+            <seriesData year="2009" value="0.20" footnotes="1" />
+            <seriesData year="2010" value="0.17" footnotes="1" />
+            <seriesData year="2011" value="0.16" footnotes="1" />
+            <seriesData year="2012" value="0.14" footnotes="1" />
+            <seriesData year="2013" value="0.14" footnotes="1" />
+        </country>
+        <country id="188" name="Costa Rica">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="384" name="Cote d'Ivoire">
+            <seriesData year="1990" value="0.82" footnotes="1" />
+            <seriesData year="1991" value="0.90" footnotes="1" />
+            <seriesData year="1992" value="0.96" footnotes="1" />
+            <seriesData year="1993" value="1.01" footnotes="1" />
+            <seriesData year="1994" value="1.03" footnotes="1" />
+            <seriesData year="1995" value="1.03" footnotes="1" />
+            <seriesData year="1996" value="1.03" footnotes="1" />
+            <seriesData year="1997" value="1.00" footnotes="1" />
+            <seriesData year="1998" value="0.90" footnotes="1" />
+            <seriesData year="1999" value="0.81" footnotes="1" />
+            <seriesData year="2000" value="0.71" footnotes="1" />
+            <seriesData year="2001" value="0.60" footnotes="1" />
+            <seriesData year="2002" value="0.49" footnotes="1" />
+            <seriesData year="2003" value="0.40" footnotes="1" />
+            <seriesData year="2004" value="0.32" footnotes="1" />
+            <seriesData year="2005" value="0.24" footnotes="1" />
+            <seriesData year="2006" value="0.18" footnotes="1" />
+            <seriesData year="2007" value="0.14" footnotes="1" />
+            <seriesData year="2008" value="0.12" footnotes="1" />
+            <seriesData year="2009" value="0.13" footnotes="1" />
+            <seriesData year="2010" value="0.14" footnotes="1" />
+            <seriesData year="2011" value="0.14" footnotes="1" />
+            <seriesData year="2012" value="0.15" footnotes="1" />
+            <seriesData year="2013" value="0.14" footnotes="1" />
+        </country>
+        <country id="192" name="Cuba">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="180" name="Democratic Republic of the Congo">
+            <seriesData year="1990" value="0.19" footnotes="1" />
+            <seriesData year="1991" value="0.19" footnotes="1" />
+            <seriesData year="1992" value="0.19" footnotes="1" />
+            <seriesData year="1993" value="0.19" footnotes="1" />
+            <seriesData year="1994" value="0.19" footnotes="1" />
+            <seriesData year="1995" value="0.19" footnotes="1" />
+            <seriesData year="1996" value="0.20" footnotes="1" />
+            <seriesData year="1997" value="0.19" footnotes="1" />
+            <seriesData year="1998" value="0.19" footnotes="1" />
+            <seriesData year="1999" value="0.19" footnotes="1" />
+            <seriesData year="2000" value="0.18" footnotes="1" />
+            <seriesData year="2001" value="0.18" footnotes="1" />
+            <seriesData year="2002" value="0.17" footnotes="1" />
+            <seriesData year="2003" value="0.16" footnotes="1" />
+            <seriesData year="2004" value="0.15" footnotes="1" />
+            <seriesData year="2005" value="0.14" footnotes="1" />
+            <seriesData year="2006" value="0.13" footnotes="1" />
+            <seriesData year="2007" value="0.12" footnotes="1" />
+            <seriesData year="2008" value="0.11" footnotes="1" />
+            <seriesData year="2009" value="0.10" footnotes="1" />
+            <seriesData year="2010" value="0.10" footnotes="1" />
+            <seriesData year="2011" value="0.09" footnotes="1" />
+            <seriesData year="2012" value="0.09" footnotes="1" />
+            <seriesData year="2013" value="0.08" footnotes="1" />
+        </country>
+        <country id="262" name="Djibouti">
+            <seriesData year="1990" value="0.04" footnotes="1" />
+            <seriesData year="1991" value="0.07" footnotes="1" />
+            <seriesData year="1992" value="0.10" footnotes="1" />
+            <seriesData year="1993" value="0.15" footnotes="1" />
+            <seriesData year="1994" value="0.20" footnotes="1" />
+            <seriesData year="1995" value="0.26" footnotes="1" />
+            <seriesData year="1996" value="0.33" footnotes="1" />
+            <seriesData year="1997" value="0.39" footnotes="1" />
+            <seriesData year="1998" value="0.44" footnotes="1" />
+            <seriesData year="1999" value="0.47" footnotes="1" />
+            <seriesData year="2000" value="0.47" footnotes="1" />
+            <seriesData year="2001" value="0.43" footnotes="1" />
+            <seriesData year="2002" value="0.38" footnotes="1" />
+            <seriesData year="2003" value="0.32" footnotes="1" />
+            <seriesData year="2004" value="0.26" footnotes="1" />
+            <seriesData year="2005" value="0.19" footnotes="1" />
+            <seriesData year="2006" value="0.12" footnotes="1" />
+            <seriesData year="2007" value="0.08" footnotes="1" />
+            <seriesData year="2008" value="0.05" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.01" footnotes="1" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="214" name="Dominican Republic">
+            <seriesData year="1990" value="0.14" footnotes="1" />
+            <seriesData year="1991" value="0.17" footnotes="1" />
+            <seriesData year="1992" value="0.19" footnotes="1" />
+            <seriesData year="1993" value="0.21" footnotes="1" />
+            <seriesData year="1994" value="0.23" footnotes="1" />
+            <seriesData year="1995" value="0.23" footnotes="1" />
+            <seriesData year="1996" value="0.23" footnotes="1" />
+            <seriesData year="1997" value="0.22" footnotes="1" />
+            <seriesData year="1998" value="0.20" footnotes="1" />
+            <seriesData year="1999" value="0.17" footnotes="1" />
+            <seriesData year="2000" value="0.14" footnotes="1" />
+            <seriesData year="2001" value="0.11" footnotes="1" />
+            <seriesData year="2002" value="0.09" footnotes="1" />
+            <seriesData year="2003" value="0.07" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.03" footnotes="1" />
+            <seriesData year="2007" value="0.03" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="218" name="Ecuador">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="818" name="Egypt">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1,2" />
+            <seriesData year="2001" value="0.01" footnotes="1,2" />
+            <seriesData year="2002" value="0.01" footnotes="1,2" />
+            <seriesData year="2003" value="0.01" footnotes="1,2" />
+            <seriesData year="2004" value="0.01" footnotes="1,2" />
+            <seriesData year="2005" value="0.01" footnotes="1,2" />
+            <seriesData year="2006" value="0.01" footnotes="1,2" />
+            <seriesData year="2007" value="0.01" footnotes="1,2" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="222" name="El Salvador">
+            <seriesData year="1990" value="0.04" footnotes="1" />
+            <seriesData year="1991" value="0.05" footnotes="1" />
+            <seriesData year="1992" value="0.06" footnotes="1" />
+            <seriesData year="1993" value="0.06" footnotes="1" />
+            <seriesData year="1994" value="0.07" footnotes="1" />
+            <seriesData year="1995" value="0.07" footnotes="1" />
+            <seriesData year="1996" value="0.08" footnotes="1" />
+            <seriesData year="1997" value="0.08" footnotes="1" />
+            <seriesData year="1998" value="0.08" footnotes="1" />
+            <seriesData year="1999" value="0.07" footnotes="1" />
+            <seriesData year="2000" value="0.07" footnotes="1" />
+            <seriesData year="2001" value="0.06" footnotes="1" />
+            <seriesData year="2002" value="0.06" footnotes="1" />
+            <seriesData year="2003" value="0.05" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.04" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="226" name="Equatorial Guinea">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="232" name="Eritrea">
+            <seriesData year="1990" value="0.18" footnotes="1" />
+            <seriesData year="1991" value="0.24" footnotes="1" />
+            <seriesData year="1992" value="0.30" footnotes="1" />
+            <seriesData year="1993" value="0.37" footnotes="1" />
+            <seriesData year="1994" value="0.41" footnotes="1" />
+            <seriesData year="1995" value="0.43" footnotes="1" />
+            <seriesData year="1996" value="0.42" footnotes="1" />
+            <seriesData year="1997" value="0.38" footnotes="1" />
+            <seriesData year="1998" value="0.32" footnotes="1" />
+            <seriesData year="1999" value="0.25" footnotes="1" />
+            <seriesData year="2000" value="0.18" footnotes="1" />
+            <seriesData year="2001" value="0.11" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.04" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.01" footnotes="1" />
+            <seriesData year="2006" value="0.01" footnotes="1" />
+            <seriesData year="2007" value="0.01" footnotes="1,2" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="231" name="Ethiopia">
+            <seriesData year="1990" value="0.35" footnotes="1" />
+            <seriesData year="1991" value="0.44" footnotes="1" />
+            <seriesData year="1992" value="0.55" footnotes="1" />
+            <seriesData year="1993" value="0.64" footnotes="1" />
+            <seriesData year="1994" value="0.71" footnotes="1" />
+            <seriesData year="1995" value="0.74" footnotes="1" />
+            <seriesData year="1996" value="0.72" footnotes="1" />
+            <seriesData year="1997" value="0.66" footnotes="1" />
+            <seriesData year="1998" value="0.57" footnotes="1" />
+            <seriesData year="1999" value="0.46" footnotes="1" />
+            <seriesData year="2000" value="0.35" footnotes="1" />
+            <seriesData year="2001" value="0.26" footnotes="1" />
+            <seriesData year="2002" value="0.18" footnotes="1" />
+            <seriesData year="2003" value="0.11" footnotes="1" />
+            <seriesData year="2004" value="0.07" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="242" name="Fiji">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="266" name="Gabon">
+            <seriesData year="1990" value="0.26" footnotes="1" />
+            <seriesData year="1991" value="0.33" footnotes="1" />
+            <seriesData year="1992" value="0.43" footnotes="1" />
+            <seriesData year="1993" value="0.53" footnotes="1" />
+            <seriesData year="1994" value="0.63" footnotes="1" />
+            <seriesData year="1995" value="0.74" footnotes="1" />
+            <seriesData year="1996" value="0.82" footnotes="1" />
+            <seriesData year="1997" value="0.90" footnotes="1" />
+            <seriesData year="1998" value="0.93" footnotes="1" />
+            <seriesData year="1999" value="0.95" footnotes="1" />
+            <seriesData year="2000" value="0.91" footnotes="1" />
+            <seriesData year="2001" value="0.85" footnotes="1" />
+            <seriesData year="2002" value="0.76" footnotes="1" />
+            <seriesData year="2003" value="0.66" footnotes="1" />
+            <seriesData year="2004" value="0.52" footnotes="1" />
+            <seriesData year="2005" value="0.43" footnotes="1" />
+            <seriesData year="2006" value="0.33" footnotes="1" />
+            <seriesData year="2007" value="0.28" footnotes="1" />
+            <seriesData year="2008" value="0.23" footnotes="1" />
+            <seriesData year="2009" value="0.22" footnotes="1" />
+            <seriesData year="2010" value="0.21" footnotes="1" />
+            <seriesData year="2011" value="0.19" footnotes="1" />
+            <seriesData year="2012" value="0.20" footnotes="1" />
+            <seriesData year="2013" value="0.18" footnotes="1" />
+        </country>
+        <country id="270" name="Gambia">
+            <seriesData year="1990" value="0.03" footnotes="1" />
+            <seriesData year="1991" value="0.04" footnotes="1" />
+            <seriesData year="1992" value="0.05" footnotes="1" />
+            <seriesData year="1993" value="0.06" footnotes="1" />
+            <seriesData year="1994" value="0.07" footnotes="1" />
+            <seriesData year="1995" value="0.09" footnotes="1" />
+            <seriesData year="1996" value="0.11" footnotes="1" />
+            <seriesData year="1997" value="0.13" footnotes="1" />
+            <seriesData year="1998" value="0.15" footnotes="1" />
+            <seriesData year="1999" value="0.17" footnotes="1" />
+            <seriesData year="2000" value="0.19" footnotes="1" />
+            <seriesData year="2001" value="0.20" footnotes="1" />
+            <seriesData year="2002" value="0.21" footnotes="1" />
+            <seriesData year="2003" value="0.21" footnotes="1" />
+            <seriesData year="2004" value="0.20" footnotes="1" />
+            <seriesData year="2005" value="0.19" footnotes="1" />
+            <seriesData year="2006" value="0.17" footnotes="1" />
+            <seriesData year="2007" value="0.15" footnotes="1" />
+            <seriesData year="2008" value="0.14" footnotes="1" />
+            <seriesData year="2009" value="0.12" footnotes="1" />
+            <seriesData year="2010" value="0.10" footnotes="1" />
+            <seriesData year="2011" value="0.08" footnotes="1" />
+            <seriesData year="2012" value="0.06" footnotes="1" />
+            <seriesData year="2013" value="0.06" footnotes="1" />
+        </country>
+        <country id="288" name="Ghana">
+            <seriesData year="1990" value="0.22" footnotes="1" />
+            <seriesData year="1991" value="0.26" footnotes="1" />
+            <seriesData year="1992" value="0.29" footnotes="1" />
+            <seriesData year="1993" value="0.33" footnotes="1" />
+            <seriesData year="1994" value="0.35" footnotes="1" />
+            <seriesData year="1995" value="0.35" footnotes="1" />
+            <seriesData year="1996" value="0.35" footnotes="1" />
+            <seriesData year="1997" value="0.33" footnotes="1" />
+            <seriesData year="1998" value="0.31" footnotes="1" />
+            <seriesData year="1999" value="0.28" footnotes="1" />
+            <seriesData year="2000" value="0.25" footnotes="1" />
+            <seriesData year="2001" value="0.23" footnotes="1" />
+            <seriesData year="2002" value="0.21" footnotes="1" />
+            <seriesData year="2003" value="0.18" footnotes="1" />
+            <seriesData year="2004" value="0.17" footnotes="1" />
+            <seriesData year="2005" value="0.14" footnotes="1" />
+            <seriesData year="2006" value="0.13" footnotes="1" />
+            <seriesData year="2007" value="0.12" footnotes="1" />
+            <seriesData year="2008" value="0.10" footnotes="1" />
+            <seriesData year="2009" value="0.10" footnotes="1" />
+            <seriesData year="2010" value="0.08" footnotes="1" />
+            <seriesData year="2011" value="0.06" footnotes="1" />
+            <seriesData year="2012" value="0.05" footnotes="1" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="320" name="Guatemala">
+            <seriesData year="1990" value="0.05" footnotes="1" />
+            <seriesData year="1991" value="0.05" footnotes="1" />
+            <seriesData year="1992" value="0.05" footnotes="1" />
+            <seriesData year="1993" value="0.06" footnotes="1" />
+            <seriesData year="1994" value="0.06" footnotes="1" />
+            <seriesData year="1995" value="0.06" footnotes="1" />
+            <seriesData year="1996" value="0.06" footnotes="1" />
+            <seriesData year="1997" value="0.06" footnotes="1" />
+            <seriesData year="1998" value="0.06" footnotes="1" />
+            <seriesData year="1999" value="0.07" footnotes="1" />
+            <seriesData year="2000" value="0.07" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.07" footnotes="1" />
+            <seriesData year="2004" value="0.07" footnotes="1" />
+            <seriesData year="2005" value="0.07" footnotes="1" />
+            <seriesData year="2006" value="0.07" footnotes="1" />
+            <seriesData year="2007" value="0.07" footnotes="1" />
+            <seriesData year="2008" value="0.07" footnotes="1" />
+            <seriesData year="2009" value="0.07" footnotes="1" />
+            <seriesData year="2010" value="0.04" footnotes="1" />
+            <seriesData year="2011" value="0.04" footnotes="1" />
+            <seriesData year="2012" value="0.04" footnotes="1" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="324" name="Guinea">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.16" footnotes="1" />
+        </country>
+        <country id="624" name="Guinea-Bissau">
+            <seriesData year="1990" value="0.21" footnotes="1" />
+            <seriesData year="1991" value="0.27" footnotes="1" />
+            <seriesData year="1992" value="0.33" footnotes="1" />
+            <seriesData year="1993" value="0.39" footnotes="1" />
+            <seriesData year="1994" value="0.45" footnotes="1" />
+            <seriesData year="1995" value="0.49" footnotes="1" />
+            <seriesData year="1996" value="0.53" footnotes="1" />
+            <seriesData year="1997" value="0.55" footnotes="1" />
+            <seriesData year="1998" value="0.57" footnotes="1" />
+            <seriesData year="1999" value="0.56" footnotes="1" />
+            <seriesData year="2000" value="0.54" footnotes="1" />
+            <seriesData year="2001" value="0.55" footnotes="1" />
+            <seriesData year="2002" value="0.52" footnotes="1" />
+            <seriesData year="2003" value="0.51" footnotes="1" />
+            <seriesData year="2004" value="0.49" footnotes="1" />
+            <seriesData year="2005" value="0.47" footnotes="1" />
+            <seriesData year="2006" value="0.45" footnotes="1" />
+            <seriesData year="2007" value="0.43" footnotes="1" />
+            <seriesData year="2008" value="0.41" footnotes="1" />
+            <seriesData year="2009" value="0.39" footnotes="1" />
+            <seriesData year="2010" value="0.37" footnotes="1" />
+            <seriesData year="2011" value="0.36" footnotes="1" />
+            <seriesData year="2012" value="0.33" footnotes="1" />
+            <seriesData year="2013" value="0.31" footnotes="1" />
+        </country>
+        <country id="328" name="Guyana">
+            <seriesData year="1990" value="0.03" footnotes="1" />
+            <seriesData year="1991" value="0.04" footnotes="1" />
+            <seriesData year="1992" value="0.05" footnotes="1" />
+            <seriesData year="1993" value="0.06" footnotes="1" />
+            <seriesData year="1994" value="0.07" footnotes="1" />
+            <seriesData year="1995" value="0.08" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.09" footnotes="1" />
+            <seriesData year="1998" value="0.10" footnotes="1" />
+            <seriesData year="1999" value="0.11" footnotes="1" />
+            <seriesData year="2000" value="0.12" footnotes="1" />
+            <seriesData year="2001" value="0.13" footnotes="1" />
+            <seriesData year="2002" value="0.13" footnotes="1" />
+            <seriesData year="2003" value="0.14" footnotes="1" />
+            <seriesData year="2004" value="0.14" footnotes="1" />
+            <seriesData year="2005" value="0.14" footnotes="1" />
+            <seriesData year="2006" value="0.14" footnotes="1" />
+            <seriesData year="2007" value="0.14" footnotes="1" />
+            <seriesData year="2008" value="0.13" footnotes="1" />
+            <seriesData year="2009" value="0.13" footnotes="1" />
+            <seriesData year="2010" value="0.12" footnotes="1" />
+            <seriesData year="2011" value="0.12" footnotes="1" />
+            <seriesData year="2012" value="0.11" footnotes="1" />
+            <seriesData year="2013" value="0.11" footnotes="1" />
+        </country>
+        <country id="332" name="Haiti">
+            <seriesData year="1990" value="0.64" footnotes="1" />
+            <seriesData year="1991" value="0.58" footnotes="1" />
+            <seriesData year="1992" value="0.53" footnotes="1" />
+            <seriesData year="1993" value="0.47" footnotes="1" />
+            <seriesData year="1994" value="0.41" footnotes="1" />
+            <seriesData year="1995" value="0.37" footnotes="1" />
+            <seriesData year="1996" value="0.32" footnotes="1" />
+            <seriesData year="1997" value="0.34" footnotes="1" />
+            <seriesData year="1998" value="0.30" footnotes="1" />
+            <seriesData year="1999" value="0.28" footnotes="1" />
+            <seriesData year="2000" value="0.26" footnotes="1" />
+            <seriesData year="2001" value="0.26" footnotes="1" />
+            <seriesData year="2002" value="0.24" footnotes="1" />
+            <seriesData year="2003" value="0.23" footnotes="1" />
+            <seriesData year="2004" value="0.22" footnotes="1" />
+            <seriesData year="2005" value="0.20" footnotes="1" />
+            <seriesData year="2006" value="0.18" footnotes="1" />
+            <seriesData year="2007" value="0.17" footnotes="1" />
+            <seriesData year="2008" value="0.16" footnotes="1" />
+            <seriesData year="2009" value="0.15" footnotes="1" />
+            <seriesData year="2010" value="0.15" footnotes="1" />
+            <seriesData year="2011" value="0.15" footnotes="1" />
+            <seriesData year="2012" value="0.12" footnotes="1" />
+            <seriesData year="2013" value="0.11" footnotes="1" />
+        </country>
+        <country id="340" name="Honduras">
+            <seriesData year="1990" value="0.26" footnotes="1" />
+            <seriesData year="1991" value="0.28" footnotes="1" />
+            <seriesData year="1992" value="0.25" footnotes="1" />
+            <seriesData year="1993" value="0.23" footnotes="1" />
+            <seriesData year="1994" value="0.22" footnotes="1" />
+            <seriesData year="1995" value="0.20" footnotes="1" />
+            <seriesData year="1996" value="0.18" footnotes="1" />
+            <seriesData year="1997" value="0.16" footnotes="1" />
+            <seriesData year="1998" value="0.13" footnotes="1" />
+            <seriesData year="1999" value="0.10" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.05" footnotes="1" />
+            <seriesData year="2003" value="0.04" footnotes="1" />
+            <seriesData year="2004" value="0.03" footnotes="1" />
+            <seriesData year="2005" value="0.03" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="356" name="India">
+            <seriesData year="1990" value="0.01" footnotes="1" />
+            <seriesData year="1991" value="0.01" footnotes="1" />
+            <seriesData year="1992" value="0.02" footnotes="1" />
+            <seriesData year="1993" value="0.04" footnotes="1" />
+            <seriesData year="1994" value="0.05" footnotes="1" />
+            <seriesData year="1995" value="0.06" footnotes="1" />
+            <seriesData year="1996" value="0.07" footnotes="1" />
+            <seriesData year="1997" value="0.07" footnotes="1" />
+            <seriesData year="1998" value="0.07" footnotes="1" />
+            <seriesData year="1999" value="0.06" footnotes="1" />
+            <seriesData year="2000" value="0.05" footnotes="1" />
+            <seriesData year="2001" value="0.05" footnotes="1" />
+            <seriesData year="2002" value="0.04" footnotes="1" />
+            <seriesData year="2003" value="0.03" footnotes="1" />
+            <seriesData year="2004" value="0.03" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="360" name="Indonesia">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1" />
+            <seriesData year="2000" value="0.02" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.03" footnotes="1" />
+            <seriesData year="2003" value="0.04" footnotes="1" />
+            <seriesData year="2004" value="0.04" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.05" footnotes="1" />
+            <seriesData year="2007" value="0.05" footnotes="1" />
+            <seriesData year="2008" value="0.05" footnotes="1" />
+            <seriesData year="2009" value="0.05" footnotes="1" />
+            <seriesData year="2010" value="0.05" footnotes="1" />
+            <seriesData year="2011" value="0.05" footnotes="1" />
+            <seriesData year="2012" value="0.05" footnotes="1" />
+            <seriesData year="2013" value="0.06" footnotes="1" />
+        </country>
+        <country id="364" name="Iran (Islamic Republic of)">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1" />
+            <seriesData year="2000" value="0.01" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.02" footnotes="1" />
+            <seriesData year="2003" value="0.02" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="388" name="Jamaica">
+            <seriesData year="1990" value="0.36" footnotes="1" />
+            <seriesData year="1991" value="0.40" footnotes="1" />
+            <seriesData year="1992" value="0.36" footnotes="1" />
+            <seriesData year="1993" value="0.32" footnotes="1" />
+            <seriesData year="1994" value="0.32" footnotes="1" />
+            <seriesData year="1995" value="0.32" footnotes="1" />
+            <seriesData year="1996" value="0.31" footnotes="1" />
+            <seriesData year="1997" value="0.29" footnotes="1" />
+            <seriesData year="1998" value="0.27" footnotes="1" />
+            <seriesData year="1999" value="0.25" footnotes="1" />
+            <seriesData year="2000" value="0.23" footnotes="1" />
+            <seriesData year="2001" value="0.21" footnotes="1" />
+            <seriesData year="2002" value="0.21" footnotes="1" />
+            <seriesData year="2003" value="0.19" footnotes="1" />
+            <seriesData year="2004" value="0.18" footnotes="1" />
+            <seriesData year="2005" value="0.17" footnotes="1" />
+            <seriesData year="2006" value="0.15" footnotes="1" />
+            <seriesData year="2007" value="0.15" footnotes="1" />
+            <seriesData year="2008" value="0.13" footnotes="1" />
+            <seriesData year="2009" value="0.12" footnotes="1" />
+            <seriesData year="2010" value="0.12" footnotes="1" />
+            <seriesData year="2011" value="0.12" footnotes="1" />
+            <seriesData year="2012" value="0.10" footnotes="1" />
+            <seriesData year="2013" value="0.09" footnotes="1" />
+        </country>
+        <country id="404" name="Kenya">
+            <seriesData year="1990" value="1.15" footnotes="1" />
+            <seriesData year="1991" value="1.69" footnotes="1" />
+            <seriesData year="1992" value="2.24" footnotes="1" />
+            <seriesData year="1993" value="2.60" footnotes="1" />
+            <seriesData year="1994" value="2.59" footnotes="1" />
+            <seriesData year="1995" value="2.24" footnotes="1" />
+            <seriesData year="1996" value="1.75" footnotes="1" />
+            <seriesData year="1997" value="1.33" footnotes="1" />
+            <seriesData year="1998" value="1.02" footnotes="1" />
+            <seriesData year="1999" value="0.82" footnotes="1" />
+            <seriesData year="2000" value="0.78" footnotes="1" />
+            <seriesData year="2001" value="0.71" footnotes="1" />
+            <seriesData year="2002" value="0.65" footnotes="1" />
+            <seriesData year="2003" value="0.62" footnotes="1" />
+            <seriesData year="2004" value="0.58" footnotes="1" />
+            <seriesData year="2005" value="0.55" footnotes="1" />
+            <seriesData year="2006" value="0.54" footnotes="1" />
+            <seriesData year="2007" value="0.55" footnotes="1" />
+            <seriesData year="2008" value="0.56" footnotes="1" />
+            <seriesData year="2009" value="0.53" footnotes="1" />
+            <seriesData year="2010" value="0.52" footnotes="1" />
+            <seriesData year="2011" value="0.51" footnotes="1" />
+            <seriesData year="2012" value="0.45" footnotes="1" />
+            <seriesData year="2013" value="0.44" footnotes="1" />
+        </country>
+        <country id="408" name="Korea, Democratic People's Republic of">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="410" name="Korea, Republic of">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="418" name="Lao People's Democratic Republic">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="426" name="Lesotho">
+            <seriesData year="1990" value="0.44" footnotes="1" />
+            <seriesData year="1991" value="0.87" footnotes="1" />
+            <seriesData year="1992" value="1.56" footnotes="1" />
+            <seriesData year="1993" value="2.49" footnotes="1" />
+            <seriesData year="1994" value="3.53" footnotes="1" />
+            <seriesData year="1995" value="4.36" footnotes="1" />
+            <seriesData year="1996" value="4.73" footnotes="1" />
+            <seriesData year="1997" value="4.62" footnotes="1" />
+            <seriesData year="1998" value="4.26" footnotes="1" />
+            <seriesData year="1999" value="3.84" footnotes="1" />
+            <seriesData year="2000" value="3.43" footnotes="1" />
+            <seriesData year="2001" value="3.13" footnotes="1" />
+            <seriesData year="2002" value="2.91" footnotes="1" />
+            <seriesData year="2003" value="2.78" footnotes="1" />
+            <seriesData year="2004" value="2.73" footnotes="1" />
+            <seriesData year="2005" value="2.73" footnotes="1" />
+            <seriesData year="2006" value="2.70" footnotes="1" />
+            <seriesData year="2007" value="2.75" footnotes="1" />
+            <seriesData year="2008" value="2.82" footnotes="1" />
+            <seriesData year="2009" value="2.65" footnotes="1" />
+            <seriesData year="2010" value="2.38" footnotes="1" />
+            <seriesData year="2011" value="2.28" footnotes="1" />
+            <seriesData year="2012" value="2.30" footnotes="1" />
+            <seriesData year="2013" value="2.21" footnotes="1" />
+        </country>
+        <country id="430" name="Liberia">
+            <seriesData year="1990" value="0.26" footnotes="1" />
+            <seriesData year="1991" value="0.32" footnotes="1" />
+            <seriesData year="1992" value="0.39" footnotes="1" />
+            <seriesData year="1993" value="0.44" footnotes="1" />
+            <seriesData year="1994" value="0.49" footnotes="1" />
+            <seriesData year="1995" value="0.52" footnotes="1" />
+            <seriesData year="1996" value="0.53" footnotes="1" />
+            <seriesData year="1997" value="0.52" footnotes="1" />
+            <seriesData year="1998" value="0.49" footnotes="1" />
+            <seriesData year="1999" value="0.43" footnotes="1" />
+            <seriesData year="2000" value="0.36" footnotes="1" />
+            <seriesData year="2001" value="0.29" footnotes="1" />
+            <seriesData year="2002" value="0.23" footnotes="1" />
+            <seriesData year="2003" value="0.17" footnotes="1" />
+            <seriesData year="2004" value="0.13" footnotes="1" />
+            <seriesData year="2005" value="0.10" footnotes="1" />
+            <seriesData year="2006" value="0.07" footnotes="1" />
+            <seriesData year="2007" value="0.06" footnotes="1" />
+            <seriesData year="2008" value="0.05" footnotes="1" />
+            <seriesData year="2009" value="0.05" footnotes="1" />
+            <seriesData year="2010" value="0.06" footnotes="1" />
+            <seriesData year="2011" value="0.06" footnotes="1" />
+            <seriesData year="2012" value="0.07" footnotes="1" />
+            <seriesData year="2013" value="0.07" footnotes="1" />
+        </country>
+        <country id="450" name="Madagascar">
+            <seriesData year="1990" value="0.10" footnotes="1" />
+            <seriesData year="1991" value="0.13" footnotes="1" />
+            <seriesData year="1992" value="0.13" footnotes="1" />
+            <seriesData year="1993" value="0.13" footnotes="1" />
+            <seriesData year="1994" value="0.12" footnotes="1" />
+            <seriesData year="1995" value="0.11" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.08" footnotes="1" />
+            <seriesData year="1998" value="0.07" footnotes="1" />
+            <seriesData year="1999" value="0.07" footnotes="1" />
+            <seriesData year="2000" value="0.07" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.08" footnotes="1" />
+            <seriesData year="2003" value="0.08" footnotes="1" />
+            <seriesData year="2004" value="0.08" footnotes="1" />
+            <seriesData year="2005" value="0.07" footnotes="1" />
+            <seriesData year="2006" value="0.06" footnotes="1" />
+            <seriesData year="2007" value="0.05" footnotes="1" />
+            <seriesData year="2008" value="0.04" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="454" name="Malawi">
+            <seriesData year="1990" value="2.32" footnotes="1" />
+            <seriesData year="1991" value="2.30" footnotes="1" />
+            <seriesData year="1992" value="2.29" footnotes="1" />
+            <seriesData year="1993" value="2.32" footnotes="1" />
+            <seriesData year="1994" value="2.35" footnotes="1" />
+            <seriesData year="1995" value="2.40" footnotes="1" />
+            <seriesData year="1996" value="2.43" footnotes="1" />
+            <seriesData year="1997" value="2.43" footnotes="1" />
+            <seriesData year="1998" value="2.41" footnotes="1" />
+            <seriesData year="1999" value="2.36" footnotes="1" />
+            <seriesData year="2000" value="2.27" footnotes="1" />
+            <seriesData year="2001" value="2.14" footnotes="1" />
+            <seriesData year="2002" value="1.98" footnotes="1" />
+            <seriesData year="2003" value="1.80" footnotes="1" />
+            <seriesData year="2004" value="1.61" footnotes="1" />
+            <seriesData year="2005" value="1.41" footnotes="1" />
+            <seriesData year="2006" value="1.21" footnotes="1" />
+            <seriesData year="2007" value="1.03" footnotes="1" />
+            <seriesData year="2008" value="0.87" footnotes="1" />
+            <seriesData year="2009" value="0.74" footnotes="1" />
+            <seriesData year="2010" value="0.63" footnotes="1" />
+            <seriesData year="2011" value="0.55" footnotes="1" />
+            <seriesData year="2012" value="0.48" footnotes="1" />
+            <seriesData year="2013" value="0.41" footnotes="1" />
+        </country>
+        <country id="458" name="Malaysia">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.05" footnotes="1" />
+        </country>
+        <country id="462" name="Maldives">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="466" name="Mali">
+            <seriesData year="1990" value="0.12" footnotes="1" />
+            <seriesData year="1991" value="0.16" footnotes="1" />
+            <seriesData year="1992" value="0.20" footnotes="1" />
+            <seriesData year="1993" value="0.23" footnotes="1" />
+            <seriesData year="1994" value="0.26" footnotes="1" />
+            <seriesData year="1995" value="0.27" footnotes="1" />
+            <seriesData year="1996" value="0.27" footnotes="1" />
+            <seriesData year="1997" value="0.25" footnotes="1" />
+            <seriesData year="1998" value="0.23" footnotes="1" />
+            <seriesData year="1999" value="0.21" footnotes="1" />
+            <seriesData year="2000" value="0.18" footnotes="1" />
+            <seriesData year="2001" value="0.16" footnotes="1" />
+            <seriesData year="2002" value="0.15" footnotes="1" />
+            <seriesData year="2003" value="0.13" footnotes="1" />
+            <seriesData year="2004" value="0.11" footnotes="1" />
+            <seriesData year="2005" value="0.10" footnotes="1" />
+            <seriesData year="2006" value="0.08" footnotes="1" />
+            <seriesData year="2007" value="0.07" footnotes="1" />
+            <seriesData year="2008" value="0.07" footnotes="1" />
+            <seriesData year="2009" value="0.06" footnotes="1" />
+            <seriesData year="2010" value="0.05" footnotes="1" />
+            <seriesData year="2011" value="0.04" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="478" name="Mauritania">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="480" name="Mauritius">
+            <seriesData year="1990" value="0.01" footnotes="1" />
+            <seriesData year="1991" value="0.02" footnotes="1" />
+            <seriesData year="1992" value="0.03" footnotes="1" />
+            <seriesData year="1993" value="0.04" footnotes="1" />
+            <seriesData year="1994" value="0.05" footnotes="1" />
+            <seriesData year="1995" value="0.07" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.11" footnotes="1" />
+            <seriesData year="1998" value="0.13" footnotes="1" />
+            <seriesData year="1999" value="0.15" footnotes="1" />
+            <seriesData year="2000" value="0.16" footnotes="1" />
+            <seriesData year="2001" value="0.17" footnotes="1" />
+            <seriesData year="2002" value="0.17" footnotes="1" />
+            <seriesData year="2003" value="0.17" footnotes="1" />
+            <seriesData year="2004" value="0.18" footnotes="1" />
+            <seriesData year="2005" value="0.21" footnotes="1" />
+            <seriesData year="2006" value="0.22" footnotes="1" />
+            <seriesData year="2007" value="0.12" footnotes="1" />
+            <seriesData year="2008" value="0.10" footnotes="1" />
+            <seriesData year="2009" value="0.11" footnotes="1" />
+            <seriesData year="2010" value="0.10" footnotes="1" />
+            <seriesData year="2011" value="0.10" footnotes="1" />
+            <seriesData year="2012" value="0.05" footnotes="1" />
+            <seriesData year="2013" value="0.05" footnotes="1" />
+        </country>
+        <country id="484" name="Mexico">
+            <seriesData year="1990" value="0.01" footnotes="1" />
+            <seriesData year="1991" value="0.01" footnotes="1" />
+            <seriesData year="1992" value="0.02" footnotes="1" />
+            <seriesData year="1993" value="0.02" footnotes="1" />
+            <seriesData year="1994" value="0.02" footnotes="1" />
+            <seriesData year="1995" value="0.02" footnotes="1" />
+            <seriesData year="1996" value="0.02" footnotes="1" />
+            <seriesData year="1997" value="0.02" footnotes="1" />
+            <seriesData year="1998" value="0.02" footnotes="1" />
+            <seriesData year="1999" value="0.03" footnotes="1" />
+            <seriesData year="2000" value="0.02" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.02" footnotes="1" />
+            <seriesData year="2003" value="0.02" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.03" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="496" name="Mongolia">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="504" name="Morocco">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1" />
+            <seriesData year="2001" value="0.01" footnotes="1" />
+            <seriesData year="2002" value="0.01" footnotes="1" />
+            <seriesData year="2003" value="0.01" footnotes="1" />
+            <seriesData year="2004" value="0.01" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="508" name="Mozambique">
+            <seriesData year="1990" footnotes="1" />
+            <seriesData year="1991" value="0.37" footnotes="1" />
+            <seriesData year="1992" value="0.47" footnotes="1" />
+            <seriesData year="1993" value="0.58" footnotes="1" />
+            <seriesData year="1994" value="0.71" footnotes="1" />
+            <seriesData year="1995" value="0.87" footnotes="1" />
+            <seriesData year="1996" value="1.05" footnotes="1" />
+            <seriesData year="1997" value="1.25" footnotes="1" />
+            <seriesData year="1998" value="1.44" footnotes="1" />
+            <seriesData year="1999" value="1.63" footnotes="1" />
+            <seriesData year="2000" value="1.75" footnotes="1" />
+            <seriesData year="2001" value="1.81" footnotes="1" />
+            <seriesData year="2002" value="1.80" footnotes="1" />
+            <seriesData year="2003" value="1.72" footnotes="1" />
+            <seriesData year="2004" value="1.63" footnotes="1" />
+            <seriesData year="2005" value="1.50" footnotes="1" />
+            <seriesData year="2006" value="1.38" footnotes="1" />
+            <seriesData year="2007" value="1.26" footnotes="1" />
+            <seriesData year="2008" value="1.16" footnotes="1" />
+            <seriesData year="2009" value="1.11" footnotes="1" />
+            <seriesData year="2010" value="1.07" footnotes="1" />
+            <seriesData year="2011" value="1.00" footnotes="1" />
+            <seriesData year="2012" value="1.00" footnotes="1" />
+            <seriesData year="2013" value="0.98" footnotes="1" />
+        </country>
+        <country id="104" name="Myanmar">
+            <seriesData year="1990" value="0.09" footnotes="1" />
+            <seriesData year="1991" value="0.07" footnotes="1" />
+            <seriesData year="1992" value="0.07" footnotes="1" />
+            <seriesData year="1993" value="0.08" footnotes="1" />
+            <seriesData year="1994" value="0.08" footnotes="1" />
+            <seriesData year="1995" value="0.08" footnotes="1" />
+            <seriesData year="1996" value="0.09" footnotes="1" />
+            <seriesData year="1997" value="0.10" footnotes="1" />
+            <seriesData year="1998" value="0.11" footnotes="1" />
+            <seriesData year="1999" value="0.12" footnotes="1" />
+            <seriesData year="2000" value="0.11" footnotes="1" />
+            <seriesData year="2001" value="0.09" footnotes="1" />
+            <seriesData year="2002" value="0.08" footnotes="1" />
+            <seriesData year="2003" value="0.08" footnotes="1" />
+            <seriesData year="2004" value="0.06" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.05" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.03" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="516" name="Namibia">
+            <seriesData year="1990" value="0.51" footnotes="1" />
+            <seriesData year="1991" value="0.79" footnotes="1" />
+            <seriesData year="1992" value="1.16" footnotes="1" />
+            <seriesData year="1993" value="1.59" footnotes="1" />
+            <seriesData year="1994" value="2.06" footnotes="1" />
+            <seriesData year="1995" value="2.49" footnotes="1" />
+            <seriesData year="1996" value="2.83" footnotes="1" />
+            <seriesData year="1997" value="3.01" footnotes="1" />
+            <seriesData year="1998" value="3.03" footnotes="1" />
+            <seriesData year="1999" value="2.95" footnotes="1" />
+            <seriesData year="2000" value="2.72" footnotes="1" />
+            <seriesData year="2001" value="2.45" footnotes="1" />
+            <seriesData year="2002" value="2.19" footnotes="1" />
+            <seriesData year="2003" value="1.92" footnotes="1" />
+            <seriesData year="2004" value="1.68" footnotes="1" />
+            <seriesData year="2005" value="1.47" footnotes="1" />
+            <seriesData year="2006" value="1.22" footnotes="1" />
+            <seriesData year="2007" value="1.08" footnotes="1" />
+            <seriesData year="2008" value="1.00" footnotes="1" />
+            <seriesData year="2009" value="0.95" footnotes="1" />
+            <seriesData year="2010" value="0.91" footnotes="1" />
+            <seriesData year="2011" value="0.94" footnotes="1" />
+            <seriesData year="2012" value="0.96" footnotes="1" />
+            <seriesData year="2013" value="0.91" footnotes="1" />
+        </country>
+        <country id="524" name="Nepal">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1" />
+            <seriesData year="1995" value="0.02" footnotes="1" />
+            <seriesData year="1996" value="0.04" footnotes="1" />
+            <seriesData year="1997" value="0.05" footnotes="1" />
+            <seriesData year="1998" value="0.07" footnotes="1" />
+            <seriesData year="1999" value="0.07" footnotes="1" />
+            <seriesData year="2000" value="0.07" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.06" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.03" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.01" footnotes="1" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="558" name="Nicaragua">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1" />
+            <seriesData year="1994" value="0.02" footnotes="1" />
+            <seriesData year="1995" value="0.02" footnotes="1" />
+            <seriesData year="1996" value="0.02" footnotes="1" />
+            <seriesData year="1997" value="0.02" footnotes="1" />
+            <seriesData year="1998" value="0.02" footnotes="1" />
+            <seriesData year="1999" value="0.02" footnotes="1" />
+            <seriesData year="2000" value="0.02" footnotes="1" />
+            <seriesData year="2001" value="0.02" footnotes="1" />
+            <seriesData year="2002" value="0.02" footnotes="1" />
+            <seriesData year="2003" value="0.02" footnotes="1" />
+            <seriesData year="2004" value="0.02" footnotes="1" />
+            <seriesData year="2005" value="0.02" footnotes="1" />
+            <seriesData year="2006" value="0.02" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="562" name="Niger">
+            <seriesData year="1990" value="0.06" footnotes="1" />
+            <seriesData year="1991" value="0.08" footnotes="1" />
+            <seriesData year="1992" value="0.10" footnotes="1" />
+            <seriesData year="1993" value="0.11" footnotes="1" />
+            <seriesData year="1994" value="0.13" footnotes="1" />
+            <seriesData year="1995" value="0.15" footnotes="1" />
+            <seriesData year="1996" value="0.16" footnotes="1" />
+            <seriesData year="1997" value="0.16" footnotes="1" />
+            <seriesData year="1998" value="0.16" footnotes="1" />
+            <seriesData year="1999" value="0.16" footnotes="1" />
+            <seriesData year="2000" value="0.14" footnotes="1" />
+            <seriesData year="2001" value="0.13" footnotes="1" />
+            <seriesData year="2002" value="0.11" footnotes="1" />
+            <seriesData year="2003" value="0.09" footnotes="1" />
+            <seriesData year="2004" value="0.07" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.03" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.01" footnotes="1" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="566" name="Nigeria">
+            <seriesData year="1990" value="0.26" footnotes="1" />
+            <seriesData year="1991" value="0.31" footnotes="1" />
+            <seriesData year="1992" value="0.36" footnotes="1" />
+            <seriesData year="1993" value="0.41" footnotes="1" />
+            <seriesData year="1994" value="0.45" footnotes="1" />
+            <seriesData year="1995" value="0.48" footnotes="1" />
+            <seriesData year="1996" value="0.53" footnotes="1" />
+            <seriesData year="1997" value="0.53" footnotes="1" />
+            <seriesData year="1998" value="0.52" footnotes="1" />
+            <seriesData year="1999" value="0.53" footnotes="1" />
+            <seriesData year="2000" value="0.54" footnotes="1" />
+            <seriesData year="2001" value="0.51" footnotes="1" />
+            <seriesData year="2002" value="0.47" footnotes="1" />
+            <seriesData year="2003" value="0.46" footnotes="1" />
+            <seriesData year="2004" value="0.43" footnotes="1" />
+            <seriesData year="2005" value="0.42" footnotes="1" />
+            <seriesData year="2006" value="0.38" footnotes="1" />
+            <seriesData year="2007" value="0.37" footnotes="1" />
+            <seriesData year="2008" value="0.35" footnotes="1" />
+            <seriesData year="2009" value="0.31" footnotes="1" />
+            <seriesData year="2010" value="0.30" footnotes="1" />
+            <seriesData year="2011" value="0.28" footnotes="1" />
+            <seriesData year="2012" value="0.23" footnotes="1" />
+            <seriesData year="2013" value="0.21" footnotes="1" />
+        </country>
+        <country id="512" name="Oman">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="586" name="Pakistan">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1,2" />
+            <seriesData year="2001" value="0.01" footnotes="1,2" />
+            <seriesData year="2002" value="0.01" footnotes="1,2" />
+            <seriesData year="2003" value="0.01" footnotes="1,2" />
+            <seriesData year="2004" value="0.01" footnotes="1,2" />
+            <seriesData year="2005" value="0.01" footnotes="1,2" />
+            <seriesData year="2006" value="0.01" footnotes="1,2" />
+            <seriesData year="2007" value="0.01" footnotes="1,2" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1" />
+            <seriesData year="2012" value="0.01" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="591" name="Panama">
+            <seriesData year="1990" value="0.09" footnotes="1" />
+            <seriesData year="1991" value="0.08" footnotes="1" />
+            <seriesData year="1992" value="0.04" footnotes="1" />
+            <seriesData year="1993" value="0.05" footnotes="1" />
+            <seriesData year="1994" value="0.05" footnotes="1" />
+            <seriesData year="1995" value="0.05" footnotes="1" />
+            <seriesData year="1996" value="0.06" footnotes="1" />
+            <seriesData year="1997" value="0.06" footnotes="1" />
+            <seriesData year="1998" value="0.06" footnotes="1" />
+            <seriesData year="1999" value="0.06" footnotes="1" />
+            <seriesData year="2000" value="0.05" footnotes="1" />
+            <seriesData year="2001" value="0.05" footnotes="1" />
+            <seriesData year="2002" value="0.05" footnotes="1" />
+            <seriesData year="2003" value="0.05" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.05" footnotes="1" />
+            <seriesData year="2007" value="0.05" footnotes="1" />
+            <seriesData year="2008" value="0.05" footnotes="1" />
+            <seriesData year="2009" value="0.05" footnotes="1" />
+            <seriesData year="2010" value="0.05" footnotes="1" />
+            <seriesData year="2011" value="0.05" footnotes="1" />
+            <seriesData year="2012" value="0.05" footnotes="1" />
+            <seriesData year="2013" value="0.05" footnotes="1" />
+        </country>
+        <country id="598" name="Papua New Guinea">
+            <seriesData year="1990" value="0.02" footnotes="1" />
+            <seriesData year="1991" value="0.02" footnotes="1" />
+            <seriesData year="1992" value="0.03" footnotes="1" />
+            <seriesData year="1993" value="0.04" footnotes="1" />
+            <seriesData year="1994" value="0.06" footnotes="1" />
+            <seriesData year="1995" value="0.07" footnotes="1" />
+            <seriesData year="1996" value="0.08" footnotes="1" />
+            <seriesData year="1997" value="0.09" footnotes="1" />
+            <seriesData year="1998" value="0.10" footnotes="1" />
+            <seriesData year="1999" value="0.11" footnotes="1" />
+            <seriesData year="2000" value="0.13" footnotes="1" />
+            <seriesData year="2001" value="0.16" footnotes="1" />
+            <seriesData year="2002" value="0.17" footnotes="1" />
+            <seriesData year="2003" value="0.16" footnotes="1" />
+            <seriesData year="2004" value="0.12" footnotes="1" />
+            <seriesData year="2005" value="0.08" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.02" footnotes="1" />
+            <seriesData year="2008" value="0.02" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.05" footnotes="1" />
+            <seriesData year="2012" value="0.05" footnotes="1" />
+            <seriesData year="2013" value="0.05" footnotes="1" />
+        </country>
+        <country id="600" name="Paraguay">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.06" footnotes="1" />
+        </country>
+        <country id="604" name="Peru">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="608" name="Philippines">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="646" name="Rwanda">
+            <seriesData year="1990" value="0.93" footnotes="1" />
+            <seriesData year="1991" value="0.88" footnotes="1" />
+            <seriesData year="1992" value="0.81" footnotes="1" />
+            <seriesData year="1993" value="0.75" footnotes="1" />
+            <seriesData year="1994" value="0.68" footnotes="1" />
+            <seriesData year="1995" value="0.61" footnotes="1" />
+            <seriesData year="1996" value="0.54" footnotes="1" />
+            <seriesData year="1997" value="0.48" footnotes="1" />
+            <seriesData year="1998" value="0.43" footnotes="1" />
+            <seriesData year="1999" value="0.38" footnotes="1" />
+            <seriesData year="2000" value="0.33" footnotes="1" />
+            <seriesData year="2001" value="0.30" footnotes="1" />
+            <seriesData year="2002" value="0.27" footnotes="1" />
+            <seriesData year="2003" value="0.25" footnotes="1" />
+            <seriesData year="2004" value="0.23" footnotes="1" />
+            <seriesData year="2005" value="0.22" footnotes="1" />
+            <seriesData year="2006" value="0.19" footnotes="1" />
+            <seriesData year="2007" value="0.18" footnotes="1" />
+            <seriesData year="2008" value="0.17" footnotes="1" />
+            <seriesData year="2009" value="0.16" footnotes="1" />
+            <seriesData year="2010" value="0.15" footnotes="1" />
+            <seriesData year="2011" value="0.14" footnotes="1" />
+            <seriesData year="2012" value="0.12" footnotes="1" />
+            <seriesData year="2013" value="0.10" footnotes="1" />
+        </country>
+        <country id="678" name="Sao Tome and Principe">
+            <seriesData year="1990" value="0.03" footnotes="1" />
+            <seriesData year="1991" value="0.04" footnotes="1" />
+            <seriesData year="1992" value="0.06" footnotes="1" />
+            <seriesData year="1993" value="0.08" footnotes="1" />
+            <seriesData year="1994" value="0.10" footnotes="1" />
+            <seriesData year="1995" value="0.13" footnotes="1" />
+            <seriesData year="1996" value="0.16" footnotes="1" />
+            <seriesData year="1997" value="0.19" footnotes="1" />
+            <seriesData year="1998" value="0.21" footnotes="1" />
+            <seriesData year="1999" value="0.22" footnotes="1" />
+            <seriesData year="2000" value="0.24" footnotes="1" />
+            <seriesData year="2001" value="0.24" footnotes="1" />
+            <seriesData year="2002" value="0.22" footnotes="1" />
+            <seriesData year="2003" value="0.19" footnotes="1" />
+            <seriesData year="2004" value="0.16" footnotes="1" />
+            <seriesData year="2005" value="0.12" footnotes="1" />
+            <seriesData year="2006" value="0.08" footnotes="1" />
+            <seriesData year="2007" value="0.05" footnotes="1" />
+            <seriesData year="2008" value="0.03" footnotes="1" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="686" name="Senegal">
+            <seriesData year="1990" value="0.03" footnotes="1" />
+            <seriesData year="1991" value="0.03" footnotes="1" />
+            <seriesData year="1992" value="0.04" footnotes="1" />
+            <seriesData year="1993" value="0.05" footnotes="1" />
+            <seriesData year="1994" value="0.05" footnotes="1" />
+            <seriesData year="1995" value="0.06" footnotes="1" />
+            <seriesData year="1996" value="0.07" footnotes="1" />
+            <seriesData year="1997" value="0.08" footnotes="1" />
+            <seriesData year="1998" value="0.06" footnotes="1" />
+            <seriesData year="1999" value="0.07" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.09" footnotes="1" />
+            <seriesData year="2002" value="0.09" footnotes="1" />
+            <seriesData year="2003" value="0.08" footnotes="1" />
+            <seriesData year="2004" value="0.07" footnotes="1" />
+            <seriesData year="2005" value="0.06" footnotes="1" />
+            <seriesData year="2006" value="0.05" footnotes="1" />
+            <seriesData year="2007" value="0.03" footnotes="1" />
+            <seriesData year="2008" value="0.03" footnotes="1" />
+            <seriesData year="2009" value="0.02" footnotes="1" />
+            <seriesData year="2010" value="0.02" footnotes="1" />
+            <seriesData year="2011" value="0.02" footnotes="1" />
+            <seriesData year="2012" value="0.01" footnotes="1" />
+            <seriesData year="2013" value="0.01" footnotes="1" />
+        </country>
+        <country id="694" name="Sierra Leone">
+            <seriesData year="1990" value="0.02" footnotes="1" />
+            <seriesData year="1991" value="0.03" footnotes="1" />
+            <seriesData year="1992" value="0.04" footnotes="1" />
+            <seriesData year="1993" value="0.05" footnotes="1" />
+            <seriesData year="1994" value="0.06" footnotes="1" />
+            <seriesData year="1995" value="0.08" footnotes="1" />
+            <seriesData year="1996" value="0.10" footnotes="1" />
+            <seriesData year="1997" value="0.12" footnotes="1" />
+            <seriesData year="1998" value="0.14" footnotes="1" />
+            <seriesData year="1999" value="0.17" footnotes="1" />
+            <seriesData year="2000" value="0.20" footnotes="1" />
+            <seriesData year="2001" value="0.22" footnotes="1" />
+            <seriesData year="2002" value="0.24" footnotes="1" />
+            <seriesData year="2003" value="0.25" footnotes="1" />
+            <seriesData year="2004" value="0.25" footnotes="1" />
+            <seriesData year="2005" value="0.24" footnotes="1" />
+            <seriesData year="2006" value="0.22" footnotes="1" />
+            <seriesData year="2007" value="0.19" footnotes="1" />
+            <seriesData year="2008" value="0.17" footnotes="1" />
+            <seriesData year="2009" value="0.15" footnotes="1" />
+            <seriesData year="2010" value="0.14" footnotes="1" />
+            <seriesData year="2011" value="0.13" footnotes="1" />
+            <seriesData year="2012" value="0.12" footnotes="1" />
+            <seriesData year="2013" value="0.12" footnotes="1" />
+        </country>
+        <country id="702" name="Singapore">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="706" name="Somalia">
+            <seriesData year="1990" value="0.04" footnotes="1" />
+            <seriesData year="1991" value="0.06" footnotes="1" />
+            <seriesData year="1992" value="0.07" footnotes="1" />
+            <seriesData year="1993" value="0.09" footnotes="1" />
+            <seriesData year="1994" value="0.10" footnotes="1" />
+            <seriesData year="1995" value="0.10" footnotes="1" />
+            <seriesData year="1996" value="0.11" footnotes="1" />
+            <seriesData year="1997" value="0.11" footnotes="1" />
+            <seriesData year="1998" value="0.11" footnotes="1" />
+            <seriesData year="1999" value="0.10" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.07" footnotes="1" />
+            <seriesData year="2003" value="0.07" footnotes="1" />
+            <seriesData year="2004" value="0.07" footnotes="1" />
+            <seriesData year="2005" value="0.06" footnotes="1" />
+            <seriesData year="2006" value="0.06" footnotes="1" />
+            <seriesData year="2007" value="0.06" footnotes="1" />
+            <seriesData year="2008" value="0.06" footnotes="1" />
+            <seriesData year="2009" value="0.06" footnotes="1" />
+            <seriesData year="2010" value="0.06" footnotes="1" />
+            <seriesData year="2011" value="0.06" footnotes="1" />
+            <seriesData year="2012" value="0.06" footnotes="1" />
+            <seriesData year="2013" value="0.06" footnotes="1" />
+        </country>
+        <country id="710" name="South Africa">
+            <seriesData year="1990" value="0.17" footnotes="1" />
+            <seriesData year="1991" value="0.33" footnotes="1" />
+            <seriesData year="1992" value="0.59" footnotes="1" />
+            <seriesData year="1993" value="0.98" footnotes="1" />
+            <seriesData year="1994" value="1.46" footnotes="1" />
+            <seriesData year="1995" value="1.99" footnotes="1" />
+            <seriesData year="1996" value="2.48" footnotes="1" />
+            <seriesData year="1997" value="2.83" footnotes="1" />
+            <seriesData year="1998" value="3.01" footnotes="1" />
+            <seriesData year="1999" value="3.04" footnotes="1" />
+            <seriesData year="2000" value="2.95" footnotes="1" />
+            <seriesData year="2001" value="2.78" footnotes="1" />
+            <seriesData year="2002" value="2.59" footnotes="1" />
+            <seriesData year="2003" value="2.40" footnotes="1" />
+            <seriesData year="2004" value="2.24" footnotes="1" />
+            <seriesData year="2005" value="2.11" footnotes="1" />
+            <seriesData year="2006" value="2.01" footnotes="1" />
+            <seriesData year="2007" value="1.93" footnotes="1" />
+            <seriesData year="2008" value="1.88" footnotes="1" />
+            <seriesData year="2009" value="1.84" footnotes="1" />
+            <seriesData year="2010" value="1.79" footnotes="1" />
+            <seriesData year="2011" value="1.69" footnotes="1" />
+            <seriesData year="2012" value="1.52" footnotes="1" />
+            <seriesData year="2013" value="1.36" footnotes="1" />
+        </country>
+        <country id="144" name="Sri Lanka">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1,2" />
+            <seriesData year="2001" value="0.01" footnotes="1,2" />
+            <seriesData year="2002" value="0.01" footnotes="1,2" />
+            <seriesData year="2003" value="0.01" footnotes="1,2" />
+            <seriesData year="2004" value="0.01" footnotes="1,2" />
+            <seriesData year="2005" value="0.01" footnotes="1,2" />
+            <seriesData year="2006" value="0.01" footnotes="1,2" />
+            <seriesData year="2007" value="0.01" footnotes="1,2" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="740" name="Suriname">
+            <seriesData year="1990" value="0.04" footnotes="1" />
+            <seriesData year="1991" value="0.06" footnotes="1" />
+            <seriesData year="1992" value="0.09" footnotes="1" />
+            <seriesData year="1993" value="0.11" footnotes="1" />
+            <seriesData year="1994" value="0.13" footnotes="1" />
+            <seriesData year="1995" value="0.17" footnotes="1" />
+            <seriesData year="1996" value="0.20" footnotes="1" />
+            <seriesData year="1997" value="0.22" footnotes="1" />
+            <seriesData year="1998" value="0.22" footnotes="1" />
+            <seriesData year="1999" value="0.21" footnotes="1" />
+            <seriesData year="2000" value="0.16" footnotes="1" />
+            <seriesData year="2001" value="0.11" footnotes="1" />
+            <seriesData year="2002" value="0.08" footnotes="1" />
+            <seriesData year="2003" value="0.07" footnotes="1" />
+            <seriesData year="2004" value="0.06" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.05" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.04" footnotes="1" />
+            <seriesData year="2009" value="0.04" footnotes="1" />
+            <seriesData year="2010" value="0.04" footnotes="1" />
+            <seriesData year="2011" value="0.04" footnotes="1" />
+            <seriesData year="2012" value="0.04" footnotes="1" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="748" name="Swaziland">
+            <seriesData year="1990" value="0.79" footnotes="1" />
+            <seriesData year="1991" value="1.39" footnotes="1" />
+            <seriesData year="1992" value="2.18" footnotes="1" />
+            <seriesData year="1993" value="3.06" footnotes="1" />
+            <seriesData year="1994" value="3.86" footnotes="1" />
+            <seriesData year="1995" value="4.50" footnotes="1" />
+            <seriesData year="1996" value="4.91" footnotes="1" />
+            <seriesData year="1997" value="5.05" footnotes="1" />
+            <seriesData year="1998" value="4.96" footnotes="1" />
+            <seriesData year="1999" value="4.74" footnotes="1" />
+            <seriesData year="2000" value="4.42" footnotes="1" />
+            <seriesData year="2001" value="4.12" footnotes="1" />
+            <seriesData year="2002" value="3.83" footnotes="1" />
+            <seriesData year="2003" value="3.66" footnotes="1" />
+            <seriesData year="2004" value="3.59" footnotes="1" />
+            <seriesData year="2005" value="3.49" footnotes="1" />
+            <seriesData year="2006" value="3.39" footnotes="1" />
+            <seriesData year="2007" value="3.27" footnotes="1" />
+            <seriesData year="2008" value="3.22" footnotes="1" />
+            <seriesData year="2009" value="3.12" footnotes="1" />
+            <seriesData year="2010" value="3.11" footnotes="1" />
+            <seriesData year="2011" value="2.89" footnotes="1" />
+            <seriesData year="2012" value="2.41" footnotes="1" />
+            <seriesData year="2013" value="2.18" footnotes="1" />
+        </country>
+        <country id="764" name="Thailand">
+            <seriesData year="1990" value="0.47" footnotes="1" />
+            <seriesData year="1991" value="0.52" footnotes="1" />
+            <seriesData year="1992" value="0.41" footnotes="1" />
+            <seriesData year="1993" value="0.32" footnotes="1" />
+            <seriesData year="1994" value="0.24" footnotes="1" />
+            <seriesData year="1995" value="0.18" footnotes="1" />
+            <seriesData year="1996" value="0.14" footnotes="1" />
+            <seriesData year="1997" value="0.12" footnotes="1" />
+            <seriesData year="1998" value="0.10" footnotes="1" />
+            <seriesData year="1999" value="0.09" footnotes="1" />
+            <seriesData year="2000" value="0.08" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.06" footnotes="1" />
+            <seriesData year="2003" value="0.05" footnotes="1" />
+            <seriesData year="2004" value="0.05" footnotes="1" />
+            <seriesData year="2005" value="0.04" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.03" footnotes="1" />
+            <seriesData year="2008" value="0.03" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.02" footnotes="1" />
+            <seriesData year="2013" value="0.02" footnotes="1" />
+        </country>
+        <country id="768" name="Togo">
+            <seriesData year="1990" value="0.23" footnotes="1" />
+            <seriesData year="1991" value="0.29" footnotes="1" />
+            <seriesData year="1992" value="0.36" footnotes="1" />
+            <seriesData year="1993" value="0.43" footnotes="1" />
+            <seriesData year="1994" value="0.50" footnotes="1" />
+            <seriesData year="1995" value="0.56" footnotes="1" />
+            <seriesData year="1996" value="0.61" footnotes="1" />
+            <seriesData year="1997" value="0.64" footnotes="1" />
+            <seriesData year="1998" value="0.65" footnotes="1" />
+            <seriesData year="1999" value="0.63" footnotes="1" />
+            <seriesData year="2000" value="0.60" footnotes="1" />
+            <seriesData year="2001" value="0.54" footnotes="1" />
+            <seriesData year="2002" value="0.48" footnotes="1" />
+            <seriesData year="2003" value="0.41" footnotes="1" />
+            <seriesData year="2004" value="0.34" footnotes="1" />
+            <seriesData year="2005" value="0.29" footnotes="1" />
+            <seriesData year="2006" value="0.23" footnotes="1" />
+            <seriesData year="2007" value="0.20" footnotes="1" />
+            <seriesData year="2008" value="0.17" footnotes="1" />
+            <seriesData year="2009" value="0.14" footnotes="1" />
+            <seriesData year="2010" value="0.13" footnotes="1" />
+            <seriesData year="2011" value="0.09" footnotes="1" />
+            <seriesData year="2012" value="0.09" footnotes="1" />
+            <seriesData year="2013" value="0.08" footnotes="1" />
+        </country>
+        <country id="780" name="Trinidad and Tobago">
+            <seriesData year="1990" value="0.06" footnotes="1" />
+            <seriesData year="1991" value="0.08" footnotes="1" />
+            <seriesData year="1992" value="0.11" footnotes="1" />
+            <seriesData year="1993" value="0.14" footnotes="1" />
+            <seriesData year="1994" value="0.17" footnotes="1" />
+            <seriesData year="1995" value="0.19" footnotes="1" />
+            <seriesData year="1996" value="0.20" footnotes="1" />
+            <seriesData year="1997" value="0.21" footnotes="1" />
+            <seriesData year="1998" value="0.21" footnotes="1" />
+            <seriesData year="1999" value="0.20" footnotes="1" />
+            <seriesData year="2000" value="0.19" footnotes="1" />
+            <seriesData year="2001" value="0.18" footnotes="1" />
+            <seriesData year="2002" value="0.17" footnotes="1" />
+            <seriesData year="2003" value="0.16" footnotes="1" />
+            <seriesData year="2004" value="0.15" footnotes="1" />
+            <seriesData year="2005" value="0.14" footnotes="1" />
+            <seriesData year="2006" value="0.13" footnotes="1" />
+            <seriesData year="2007" value="0.12" footnotes="1" />
+            <seriesData year="2008" value="0.12" footnotes="1" />
+            <seriesData year="2009" value="0.11" footnotes="1" />
+            <seriesData year="2010" value="0.11" footnotes="1" />
+            <seriesData year="2011" value="0.10" footnotes="1" />
+            <seriesData year="2012" value="0.10" footnotes="1" />
+            <seriesData year="2013" value="0.10" footnotes="1" />
+        </country>
+        <country id="788" name="Tunisia">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1,2" />
+            <seriesData year="1995" value="0.01" footnotes="1,2" />
+            <seriesData year="1996" value="0.01" footnotes="1,2" />
+            <seriesData year="1997" value="0.01" footnotes="1,2" />
+            <seriesData year="1998" value="0.01" footnotes="1,2" />
+            <seriesData year="1999" value="0.01" footnotes="1,2" />
+            <seriesData year="2000" value="0.01" footnotes="1,2" />
+            <seriesData year="2001" value="0.01" footnotes="1,2" />
+            <seriesData year="2002" value="0.01" footnotes="1,2" />
+            <seriesData year="2003" value="0.01" footnotes="1,2" />
+            <seriesData year="2004" value="0.01" footnotes="1,2" />
+            <seriesData year="2005" value="0.01" footnotes="1,2" />
+            <seriesData year="2006" value="0.01" footnotes="1,2" />
+            <seriesData year="2007" value="0.01" footnotes="1,2" />
+            <seriesData year="2008" value="0.01" footnotes="1,2" />
+            <seriesData year="2009" value="0.01" footnotes="1,2" />
+            <seriesData year="2010" value="0.01" footnotes="1,2" />
+            <seriesData year="2011" value="0.01" footnotes="1,2" />
+            <seriesData year="2012" value="0.01" footnotes="1,2" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="792" name="Turkey">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" />
+        </country>
+        <country id="800" name="Uganda">
+            <seriesData year="1990" value="1.95" footnotes="1" />
+            <seriesData year="1991" value="1.60" footnotes="1" />
+            <seriesData year="1992" value="1.34" footnotes="1" />
+            <seriesData year="1993" value="1.09" footnotes="1" />
+            <seriesData year="1994" value="0.89" footnotes="1" />
+            <seriesData year="1995" value="0.74" footnotes="1" />
+            <seriesData year="1996" value="0.60" footnotes="1" />
+            <seriesData year="1997" value="0.58" footnotes="1" />
+            <seriesData year="1998" value="0.54" footnotes="1" />
+            <seriesData year="1999" value="0.54" footnotes="1" />
+            <seriesData year="2000" value="0.56" footnotes="1" />
+            <seriesData year="2001" value="0.61" footnotes="1" />
+            <seriesData year="2002" value="0.63" footnotes="1" />
+            <seriesData year="2003" value="0.67" footnotes="1" />
+            <seriesData year="2004" value="0.72" footnotes="1" />
+            <seriesData year="2005" value="0.76" footnotes="1" />
+            <seriesData year="2006" value="0.80" footnotes="1" />
+            <seriesData year="2007" value="0.86" footnotes="1" />
+            <seriesData year="2008" value="0.89" footnotes="1" />
+            <seriesData year="2009" value="0.89" footnotes="1" />
+            <seriesData year="2010" value="0.91" footnotes="1" />
+            <seriesData year="2011" value="0.94" footnotes="1" />
+            <seriesData year="2012" value="0.88" footnotes="1" />
+            <seriesData year="2013" value="0.80" footnotes="1" />
+        </country>
+        <country id="834" name="United Republic of Tanzania">
+            <seriesData year="1990" value="1.34" footnotes="1" />
+            <seriesData year="1991" value="1.45" footnotes="1" />
+            <seriesData year="1992" value="1.48" footnotes="1" />
+            <seriesData year="1993" value="1.45" footnotes="1" />
+            <seriesData year="1994" value="1.37" footnotes="1" />
+            <seriesData year="1995" value="1.26" footnotes="1" />
+            <seriesData year="1996" value="1.13" footnotes="1" />
+            <seriesData year="1997" value="1.02" footnotes="1" />
+            <seriesData year="1998" value="0.91" footnotes="1" />
+            <seriesData year="1999" value="0.83" footnotes="1" />
+            <seriesData year="2000" value="0.76" footnotes="1" />
+            <seriesData year="2001" value="0.72" footnotes="1" />
+            <seriesData year="2002" value="0.66" footnotes="1" />
+            <seriesData year="2003" value="0.63" footnotes="1" />
+            <seriesData year="2004" value="0.59" footnotes="1" />
+            <seriesData year="2005" value="0.56" footnotes="1" />
+            <seriesData year="2006" value="0.52" footnotes="1" />
+            <seriesData year="2007" value="0.49" footnotes="1" />
+            <seriesData year="2008" value="0.44" footnotes="1" />
+            <seriesData year="2009" value="0.42" footnotes="1" />
+            <seriesData year="2010" value="0.38" footnotes="1" />
+            <seriesData year="2011" value="0.34" footnotes="1" />
+            <seriesData year="2012" value="0.34" footnotes="1" />
+            <seriesData year="2013" value="0.28" footnotes="1" />
+        </country>
+        <country id="858" name="Uruguay">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="862" name="Venezuela">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.04" footnotes="1" />
+        </country>
+        <country id="704" name="Viet Nam">
+            <seriesData year="1990" value="0.01" footnotes="1,2" />
+            <seriesData year="1991" value="0.01" footnotes="1,2" />
+            <seriesData year="1992" value="0.01" footnotes="1,2" />
+            <seriesData year="1993" value="0.01" footnotes="1,2" />
+            <seriesData year="1994" value="0.01" footnotes="1" />
+            <seriesData year="1995" value="0.02" footnotes="1" />
+            <seriesData year="1996" value="0.03" footnotes="1" />
+            <seriesData year="1997" value="0.04" footnotes="1" />
+            <seriesData year="1998" value="0.06" footnotes="1" />
+            <seriesData year="1999" value="0.06" footnotes="1" />
+            <seriesData year="2000" value="0.07" footnotes="1" />
+            <seriesData year="2001" value="0.07" footnotes="1" />
+            <seriesData year="2002" value="0.06" footnotes="1" />
+            <seriesData year="2003" value="0.06" footnotes="1" />
+            <seriesData year="2004" value="0.06" footnotes="1" />
+            <seriesData year="2005" value="0.05" footnotes="1" />
+            <seriesData year="2006" value="0.04" footnotes="1" />
+            <seriesData year="2007" value="0.04" footnotes="1" />
+            <seriesData year="2008" value="0.04" footnotes="1" />
+            <seriesData year="2009" value="0.03" footnotes="1" />
+            <seriesData year="2010" value="0.03" footnotes="1" />
+            <seriesData year="2011" value="0.03" footnotes="1" />
+            <seriesData year="2012" value="0.03" footnotes="1" />
+            <seriesData year="2013" value="0.03" footnotes="1" />
+        </country>
+        <country id="887" name="Yemen">
+            <seriesData year="1990" />
+            <seriesData year="1991" />
+            <seriesData year="1992" />
+            <seriesData year="1993" />
+            <seriesData year="1994" />
+            <seriesData year="1995" />
+            <seriesData year="1996" />
+            <seriesData year="1997" />
+            <seriesData year="1998" />
+            <seriesData year="1999" />
+            <seriesData year="2000" />
+            <seriesData year="2001" />
+            <seriesData year="2002" />
+            <seriesData year="2003" />
+            <seriesData year="2004" />
+            <seriesData year="2005" />
+            <seriesData year="2006" />
+            <seriesData year="2007" />
+            <seriesData year="2008" />
+            <seriesData year="2009" />
+            <seriesData year="2010" />
+            <seriesData year="2011" />
+            <seriesData year="2012" />
+            <seriesData year="2013" value="0.01" footnotes="1,2" />
+        </country>
+        <country id="894" name="Zambia">
+            <seriesData year="1990" value="2.18" footnotes="1" />
+            <seriesData year="1991" value="2.06" footnotes="1" />
+            <seriesData year="1992" value="2.01" footnotes="1" />
+            <seriesData year="1993" value="1.99" footnotes="1" />
+            <seriesData year="1994" value="1.99" footnotes="1" />
+            <seriesData year="1995" value="1.99" footnotes="1" />
+            <seriesData year="1996" value="1.97" footnotes="1" />
+            <seriesData year="1997" value="1.96" footnotes="1" />
+            <seriesData year="1998" value="1.92" footnotes="1" />
+            <seriesData year="1999" value="1.87" footnotes="1" />
+            <seriesData year="2000" value="1.81" footnotes="1" />
+            <seriesData year="2001" value="1.80" footnotes="1" />
+            <seriesData year="2002" value="1.73" footnotes="1" />
+            <seriesData year="2003" value="1.64" footnotes="1" />
+            <seriesData year="2004" value="1.52" footnotes="1" />
+            <seriesData year="2005" value="1.43" footnotes="1" />
+            <seriesData year="2006" value="1.34" footnotes="1" />
+            <seriesData year="2007" value="1.24" footnotes="1" />
+            <seriesData year="2008" value="1.11" footnotes="1" />
+            <seriesData year="2009" value="1.04" footnotes="1" />
+            <seriesData year="2010" value="1.02" footnotes="1" />
+            <seriesData year="2011" value="0.98" footnotes="1" />
+            <seriesData year="2012" value="0.79" footnotes="1" />
+            <seriesData year="2013" value="0.70" footnotes="1" />
+        </country>
+        <country id="716" name="Zimbabwe">
+            <seriesData year="1990" value="4.25" footnotes="1" />
+            <seriesData year="1991" value="5.06" footnotes="1" />
+            <seriesData year="1992" value="5.65" footnotes="1" />
+            <seriesData year="1993" value="5.95" footnotes="1" />
+            <seriesData year="1994" value="5.92" footnotes="1" />
+            <seriesData year="1995" value="5.59" footnotes="1" />
+            <seriesData year="1996" value="5.05" footnotes="1" />
+            <seriesData year="1997" value="4.40" footnotes="1" />
+            <seriesData year="1998" value="3.73" footnotes="1" />
+            <seriesData year="1999" value="3.13" footnotes="1" />
+            <seriesData year="2000" value="2.63" footnotes="1" />
+            <seriesData year="2001" value="2.24" footnotes="1" />
+            <seriesData year="2002" value="1.97" footnotes="1" />
+            <seriesData year="2003" value="1.77" footnotes="1" />
+            <seriesData year="2004" value="1.65" footnotes="1" />
+            <seriesData year="2005" value="1.56" footnotes="1" />
+            <seriesData year="2006" value="1.49" footnotes="1" />
+            <seriesData year="2007" value="1.44" footnotes="1" />
+            <seriesData year="2008" value="1.41" footnotes="1" />
+            <seriesData year="2009" value="1.37" footnotes="1" />
+            <seriesData year="2010" value="1.30" footnotes="1" />
+            <seriesData year="2011" value="1.21" footnotes="1" />
+            <seriesData year="2012" value="1.10" footnotes="1" />
+            <seriesData year="2013" value="0.98" footnotes="1" />
+        </country>
+    </series>
+</indicator>

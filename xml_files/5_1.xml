@@ -1,0 +1,1004 @@
+<indicator id="16" name="5.1 Maternal mortality ratio">
+    <series id="553" name="Maternal mortality ratio per 100,000 live births">
+        <country id="4" name="Afghanistan">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="1200.0" nature="M" />
+            <seriesData year="2000" value="1100.0" nature="M" />
+            <seriesData year="2005" value="730.0" nature="M" />
+            <seriesData year="2010" value="500.0" nature="M" />
+            <seriesData year="2013" value="400.0" nature="M" />
+        </country>
+        <country id="12" name="Algeria">
+            <seriesData year="1990" value="160.0" nature="M" />
+            <seriesData year="1995" value="140.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="100.0" nature="M" />
+            <seriesData year="2010" value="92.0" nature="M" />
+            <seriesData year="2013" value="89.0" nature="M" />
+        </country>
+        <country id="24" name="Angola">
+            <seriesData year="1990" value="1400.0" nature="M" />
+            <seriesData year="1995" value="1400.0" nature="M" />
+            <seriesData year="2000" value="1100.0" nature="M" />
+            <seriesData year="2005" value="750.0" nature="M" />
+            <seriesData year="2010" value="530.0" nature="M" />
+            <seriesData year="2013" value="460.0" nature="M" />
+        </country>
+        <country id="32" name="Argentina">
+            <seriesData year="1990" value="71.0" nature="CA" />
+            <seriesData year="1995" value="60.0" nature="CA" />
+            <seriesData year="2000" value="63.0" nature="CA" />
+            <seriesData year="2005" value="70.0" nature="CA" />
+            <seriesData year="2010" value="76.0" nature="CA" />
+            <seriesData year="2013" value="69.0" nature="CA" />
+        </country>
+        <country id="44" name="Bahamas">
+            <seriesData year="1990" value="43.0" nature="CA" />
+            <seriesData year="1995" value="44.0" nature="CA" />
+            <seriesData year="2000" value="44.0" nature="CA" />
+            <seriesData year="2005" value="40.0" nature="CA" />
+            <seriesData year="2010" value="38.0" nature="CA" />
+            <seriesData year="2013" value="37.0" nature="CA" />
+        </country>
+        <country id="48" name="Bahrain">
+            <seriesData year="1990" value="21.0" nature="CA" />
+            <seriesData year="1995" value="22.0" nature="CA" />
+            <seriesData year="2000" value="27.0" nature="CA" />
+            <seriesData year="2005" value="16.0" nature="CA" />
+            <seriesData year="2010" value="24.0" nature="CA" />
+            <seriesData year="2013" value="22.0" nature="CA" />
+        </country>
+        <country id="50" name="Bangladesh">
+            <seriesData year="1990" value="550.0" nature="M" />
+            <seriesData year="1995" value="440.0" nature="M" />
+            <seriesData year="2000" value="340.0" nature="M" />
+            <seriesData year="2005" value="260.0" nature="M" />
+            <seriesData year="2010" value="200.0" nature="M" />
+            <seriesData year="2013" value="170.0" nature="M" />
+        </country>
+        <country id="52" name="Barbados">
+            <seriesData year="1990" value="120.0" nature="CA" />
+            <seriesData year="1995" value="38.0" nature="CA" />
+            <seriesData year="2000" value="42.0" nature="CA" />
+            <seriesData year="2005" value="33.0" nature="CA" />
+            <seriesData year="2010" value="83.0" nature="CA" />
+            <seriesData year="2013" value="52.0" nature="CA" />
+        </country>
+        <country id="84" name="Belize">
+            <seriesData year="1990" value="75.0" nature="CA" />
+            <seriesData year="1995" value="35.0" nature="CA" />
+            <seriesData year="2000" value="110.0" nature="CA" />
+            <seriesData year="2005" value="79.0" nature="CA" />
+            <seriesData year="2010" value="60.0" nature="CA" />
+            <seriesData year="2013" value="45.0" nature="CA" />
+        </country>
+        <country id="204" name="Benin">
+            <seriesData year="1990" value="600.0" nature="M" />
+            <seriesData year="1995" value="520.0" nature="M" />
+            <seriesData year="2000" value="490.0" nature="M" />
+            <seriesData year="2005" value="420.0" nature="M" />
+            <seriesData year="2010" value="370.0" nature="M" />
+            <seriesData year="2013" value="340.0" nature="M" />
+        </country>
+        <country id="64" name="Bhutan">
+            <seriesData year="1990" value="900.0" nature="M" />
+            <seriesData year="1995" value="610.0" nature="M" />
+            <seriesData year="2000" value="390.0" nature="M" />
+            <seriesData year="2005" value="240.0" nature="M" />
+            <seriesData year="2010" value="140.0" nature="M" />
+            <seriesData year="2013" value="120.0" nature="M" />
+        </country>
+        <country id="68" name="Bolivia">
+            <seriesData year="1990" value="510.0" nature="M" />
+            <seriesData year="1995" value="420.0" nature="M" />
+            <seriesData year="2000" value="330.0" nature="M" />
+            <seriesData year="2005" value="270.0" nature="M" />
+            <seriesData year="2010" value="230.0" nature="M" />
+            <seriesData year="2013" value="200.0" nature="M" />
+        </country>
+        <country id="72" name="Botswana">
+            <seriesData year="1990" value="360.0" nature="M" />
+            <seriesData year="1995" value="370.0" nature="M" />
+            <seriesData year="2000" value="390.0" nature="M" />
+            <seriesData year="2005" value="340.0" nature="M" />
+            <seriesData year="2010" value="210.0" nature="M" />
+            <seriesData year="2013" value="170.0" nature="M" />
+        </country>
+        <country id="76" name="Brazil">
+            <seriesData year="1990" value="120.0" nature="M" />
+            <seriesData year="1995" value="100.0" nature="M" />
+            <seriesData year="2000" value="85.0" nature="M" />
+            <seriesData year="2005" value="73.0" nature="M" />
+            <seriesData year="2010" value="68.0" nature="M" />
+            <seriesData year="2013" value="69.0" nature="M" />
+        </country>
+        <country id="96" name="Brunei Darussalam">
+            <seriesData year="1990" value="26.0" nature="M" />
+            <seriesData year="1995" value="25.0" nature="M" />
+            <seriesData year="2000" value="24.0" nature="M" />
+            <seriesData year="2005" value="25.0" nature="M" />
+            <seriesData year="2010" value="27.0" nature="M" />
+            <seriesData year="2013" value="27.0" nature="M" />
+        </country>
+        <country id="854" name="Burkina Faso">
+            <seriesData year="1990" value="770.0" nature="M" />
+            <seriesData year="1995" value="680.0" nature="M" />
+            <seriesData year="2000" value="580.0" nature="M" />
+            <seriesData year="2005" value="500.0" nature="M" />
+            <seriesData year="2010" value="440.0" nature="M" />
+            <seriesData year="2013" value="400.0" nature="M" />
+        </country>
+        <country id="108" name="Burundi">
+            <seriesData year="1990" value="1300.0" nature="M" />
+            <seriesData year="1995" value="1300.0" nature="M" />
+            <seriesData year="2000" value="1000.0" nature="M" />
+            <seriesData year="2005" value="910.0" nature="M" />
+            <seriesData year="2010" value="820.0" nature="M" />
+            <seriesData year="2013" value="740.0" nature="M" />
+        </country>
+        <country id="116" name="Cambodia">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="860.0" nature="M" />
+            <seriesData year="2000" value="540.0" nature="M" />
+            <seriesData year="2005" value="320.0" nature="M" />
+            <seriesData year="2010" value="200.0" nature="M" />
+            <seriesData year="2013" value="170.0" nature="M" />
+        </country>
+        <country id="120" name="Cameroon">
+            <seriesData year="1990" value="720.0" nature="M" />
+            <seriesData year="1995" value="760.0" nature="M" />
+            <seriesData year="2000" value="740.0" nature="M" />
+            <seriesData year="2005" value="690.0" nature="M" />
+            <seriesData year="2010" value="640.0" nature="M" />
+            <seriesData year="2013" value="590.0" nature="M" />
+        </country>
+        <country id="132" name="Cape Verde">
+            <seriesData year="1990" value="230.0" nature="M" />
+            <seriesData year="1995" value="140.0" nature="M" />
+            <seriesData year="2000" value="84.0" nature="M" />
+            <seriesData year="2005" value="63.0" nature="M" />
+            <seriesData year="2010" value="58.0" nature="M" />
+            <seriesData year="2013" value="53.0" nature="M" />
+        </country>
+        <country id="140" name="Central African Republic">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="1200.0" nature="M" />
+            <seriesData year="2000" value="1200.0" nature="M" />
+            <seriesData year="2005" value="1100.0" nature="M" />
+            <seriesData year="2010" value="960.0" nature="M" />
+            <seriesData year="2013" value="880.0" nature="M" />
+        </country>
+        <country id="148" name="Chad">
+            <seriesData year="1990" value="1700.0" nature="M" />
+            <seriesData year="1995" value="1600.0" nature="M" />
+            <seriesData year="2000" value="1500.0" nature="M" />
+            <seriesData year="2005" value="1200.0" nature="M" />
+            <seriesData year="2010" value="1100.0" nature="M" />
+            <seriesData year="2013" value="980.0" nature="M" />
+        </country>
+        <country id="152" name="Chile">
+            <seriesData year="1990" value="55.0" nature="CA" />
+            <seriesData year="1995" value="40.0" nature="CA" />
+            <seriesData year="2000" value="29.0" nature="CA" />
+            <seriesData year="2005" value="26.0" nature="CA" />
+            <seriesData year="2010" value="24.0" nature="CA" />
+            <seriesData year="2013" value="22.0" nature="CA" />
+        </country>
+        <country id="156" name="China">
+            <seriesData year="1990" value="97.0" nature="M" />
+            <seriesData year="1995" value="76.0" nature="M" />
+            <seriesData year="2000" value="63.0" nature="M" />
+            <seriesData year="2005" value="50.0" nature="M" />
+            <seriesData year="2010" value="36.0" nature="M" />
+            <seriesData year="2013" value="32.0" nature="M" />
+        </country>
+        <country id="170" name="Colombia">
+            <seriesData year="1990" value="100.0" nature="CA" />
+            <seriesData year="1995" value="81.0" nature="CA" />
+            <seriesData year="2000" value="130.0" nature="CA" />
+            <seriesData year="2005" value="97.0" nature="CA" />
+            <seriesData year="2010" value="85.0" nature="CA" />
+            <seriesData year="2013" value="83.0" nature="CA" />
+        </country>
+        <country id="174" name="Comoros">
+            <seriesData year="1990" value="630.0" nature="M" />
+            <seriesData year="1995" value="560.0" nature="M" />
+            <seriesData year="2000" value="480.0" nature="M" />
+            <seriesData year="2005" value="430.0" nature="M" />
+            <seriesData year="2010" value="380.0" nature="M" />
+            <seriesData year="2013" value="350.0" nature="M" />
+        </country>
+        <country id="178" name="Congo">
+            <seriesData year="1990" value="670.0" nature="M" />
+            <seriesData year="1995" value="650.0" nature="M" />
+            <seriesData year="2000" value="610.0" nature="M" />
+            <seriesData year="2005" value="530.0" nature="M" />
+            <seriesData year="2010" value="450.0" nature="M" />
+            <seriesData year="2013" value="410.0" nature="M" />
+        </country>
+        <country id="188" name="Costa Rica">
+            <seriesData year="1990" value="38.0" nature="CA" />
+            <seriesData year="1995" value="45.0" nature="CA" />
+            <seriesData year="2000" value="44.0" nature="CA" />
+            <seriesData year="2005" value="46.0" nature="CA" />
+            <seriesData year="2010" value="33.0" nature="CA" />
+            <seriesData year="2013" value="38.0" nature="CA" />
+        </country>
+        <country id="384" name="Cote d'Ivoire">
+            <seriesData year="1990" value="740.0" nature="M" />
+            <seriesData year="1995" value="710.0" nature="M" />
+            <seriesData year="2000" value="670.0" nature="M" />
+            <seriesData year="2005" value="750.0" nature="M" />
+            <seriesData year="2010" value="750.0" nature="M" />
+            <seriesData year="2013" value="720.0" nature="M" />
+        </country>
+        <country id="192" name="Cuba">
+            <seriesData year="1990" value="63.0" nature="CA" />
+            <seriesData year="1995" value="60.0" nature="CA" />
+            <seriesData year="2000" value="63.0" nature="CA" />
+            <seriesData year="2005" value="67.0" nature="CA" />
+            <seriesData year="2010" value="80.0" nature="CA" />
+            <seriesData year="2013" value="80.0" nature="CA" />
+        </country>
+        <country id="180" name="Democratic Republic of the Congo">
+            <seriesData year="1990" value="1000.0" nature="M" />
+            <seriesData year="1995" value="1100.0" nature="M" />
+            <seriesData year="2000" value="1100.0" nature="M" />
+            <seriesData year="2005" value="930.0" nature="M" />
+            <seriesData year="2010" value="810.0" nature="M" />
+            <seriesData year="2013" value="730.0" nature="M" />
+        </country>
+        <country id="262" name="Djibouti">
+            <seriesData year="1990" value="400.0" nature="M" />
+            <seriesData year="1995" value="390.0" nature="M" />
+            <seriesData year="2000" value="360.0" nature="M" />
+            <seriesData year="2005" value="310.0" nature="M" />
+            <seriesData year="2010" value="250.0" nature="M" />
+            <seriesData year="2013" value="230.0" nature="M" />
+        </country>
+        <country id="214" name="Dominican Republic">
+            <seriesData year="1990" value="240.0" nature="M" />
+            <seriesData year="1995" value="180.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="130.0" nature="M" />
+            <seriesData year="2010" value="130.0" nature="M" />
+            <seriesData year="2013" value="100.0" nature="M" />
+        </country>
+        <country id="218" name="Ecuador">
+            <seriesData year="1990" value="160.0" nature="M" />
+            <seriesData year="1995" value="130.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="98.0" nature="M" />
+            <seriesData year="2010" value="90.0" nature="M" />
+            <seriesData year="2013" value="87.0" nature="M" />
+        </country>
+        <country id="818" name="Egypt">
+            <seriesData year="1990" value="120.0" nature="M" />
+            <seriesData year="1995" value="96.0" nature="M" />
+            <seriesData year="2000" value="75.0" nature="M" />
+            <seriesData year="2005" value="62.0" nature="M" />
+            <seriesData year="2010" value="50.0" nature="M" />
+            <seriesData year="2013" value="45.0" nature="M" />
+        </country>
+        <country id="222" name="El Salvador">
+            <seriesData year="1990" value="110.0" nature="M" />
+            <seriesData year="1995" value="96.0" nature="M" />
+            <seriesData year="2000" value="80.0" nature="M" />
+            <seriesData year="2005" value="72.0" nature="M" />
+            <seriesData year="2010" value="71.0" nature="M" />
+            <seriesData year="2013" value="69.0" nature="M" />
+        </country>
+        <country id="226" name="Equatorial Guinea">
+            <seriesData year="1990" value="1600.0" nature="M" />
+            <seriesData year="1995" value="1300.0" nature="M" />
+            <seriesData year="2000" value="790.0" nature="M" />
+            <seriesData year="2005" value="480.0" nature="M" />
+            <seriesData year="2010" value="330.0" nature="M" />
+            <seriesData year="2013" value="290.0" nature="M" />
+        </country>
+        <country id="232" name="Eritrea">
+            <seriesData year="1990" value="1700.0" nature="M" />
+            <seriesData year="1995" value="1000.0" nature="M" />
+            <seriesData year="2000" value="670.0" nature="M" />
+            <seriesData year="2005" value="530.0" nature="M" />
+            <seriesData year="2010" value="450.0" nature="M" />
+            <seriesData year="2013" value="380.0" nature="M" />
+        </country>
+        <country id="231" name="Ethiopia">
+            <seriesData year="1990" value="1400.0" nature="M" />
+            <seriesData year="1995" value="1200.0" nature="M" />
+            <seriesData year="2000" value="990.0" nature="M" />
+            <seriesData year="2005" value="740.0" nature="M" />
+            <seriesData year="2010" value="500.0" nature="M" />
+            <seriesData year="2013" value="420.0" nature="M" />
+        </country>
+        <country id="242" name="Fiji">
+            <seriesData year="1990" value="89.0" nature="M" />
+            <seriesData year="1995" value="79.0" nature="M" />
+            <seriesData year="2000" value="72.0" nature="M" />
+            <seriesData year="2005" value="69.0" nature="M" />
+            <seriesData year="2010" value="62.0" nature="M" />
+            <seriesData year="2013" value="59.0" nature="M" />
+        </country>
+        <country id="266" name="Gabon">
+            <seriesData year="1990" value="380.0" nature="M" />
+            <seriesData year="1995" value="340.0" nature="M" />
+            <seriesData year="2000" value="330.0" nature="M" />
+            <seriesData year="2005" value="300.0" nature="M" />
+            <seriesData year="2010" value="260.0" nature="M" />
+            <seriesData year="2013" value="240.0" nature="M" />
+        </country>
+        <country id="270" name="Gambia">
+            <seriesData year="1990" value="710.0" nature="M" />
+            <seriesData year="1995" value="660.0" nature="M" />
+            <seriesData year="2000" value="580.0" nature="M" />
+            <seriesData year="2005" value="510.0" nature="M" />
+            <seriesData year="2010" value="460.0" nature="M" />
+            <seriesData year="2013" value="430.0" nature="M" />
+        </country>
+        <country id="288" name="Ghana">
+            <seriesData year="1990" value="760.0" nature="M" />
+            <seriesData year="1995" value="650.0" nature="M" />
+            <seriesData year="2000" value="570.0" nature="M" />
+            <seriesData year="2005" value="470.0" nature="M" />
+            <seriesData year="2010" value="410.0" nature="M" />
+            <seriesData year="2013" value="380.0" nature="M" />
+        </country>
+        <country id="308" name="Grenada">
+            <seriesData year="1990" value="34.0" nature="M" />
+            <seriesData year="1995" value="33.0" nature="M" />
+            <seriesData year="2000" value="29.0" nature="M" />
+            <seriesData year="2005" value="25.0" nature="M" />
+            <seriesData year="2010" value="23.0" nature="M" />
+            <seriesData year="2013" value="23.0" nature="M" />
+        </country>
+        <country id="320" name="Guatemala">
+            <seriesData year="1990" value="270.0" nature="CA" />
+            <seriesData year="1995" value="220.0" nature="CA" />
+            <seriesData year="2000" value="160.0" nature="CA" />
+            <seriesData year="2005" value="140.0" nature="CA" />
+            <seriesData year="2010" value="140.0" nature="CA" />
+            <seriesData year="2013" value="140.0" nature="CA" />
+        </country>
+        <country id="324" name="Guinea">
+            <seriesData year="1990" value="1100.0" nature="M" />
+            <seriesData year="1995" value="1000.0" nature="M" />
+            <seriesData year="2000" value="950.0" nature="M" />
+            <seriesData year="2005" value="800.0" nature="M" />
+            <seriesData year="2010" value="690.0" nature="M" />
+            <seriesData year="2013" value="650.0" nature="M" />
+        </country>
+        <country id="624" name="Guinea-Bissau">
+            <seriesData year="1990" value="930.0" nature="M" />
+            <seriesData year="1995" value="790.0" nature="M" />
+            <seriesData year="2000" value="840.0" nature="M" />
+            <seriesData year="2005" value="760.0" nature="M" />
+            <seriesData year="2010" value="600.0" nature="M" />
+            <seriesData year="2013" value="560.0" nature="M" />
+        </country>
+        <country id="328" name="Guyana">
+            <seriesData year="1990" value="210.0" nature="M" />
+            <seriesData year="1995" value="230.0" nature="M" />
+            <seriesData year="2000" value="240.0" nature="M" />
+            <seriesData year="2005" value="240.0" nature="M" />
+            <seriesData year="2010" value="230.0" nature="M" />
+            <seriesData year="2013" value="250.0" nature="M" />
+        </country>
+        <country id="332" name="Haiti">
+            <seriesData year="1990" value="670.0" nature="M" />
+            <seriesData year="1995" value="580.0" nature="M" />
+            <seriesData year="2000" value="510.0" nature="M" />
+            <seriesData year="2005" value="470.0" nature="M" />
+            <seriesData year="2010" value="420.0" nature="M" />
+            <seriesData year="2013" value="380.0" nature="M" />
+        </country>
+        <country id="340" name="Honduras">
+            <seriesData year="1990" value="290.0" nature="M" />
+            <seriesData year="1995" value="200.0" nature="M" />
+            <seriesData year="2000" value="150.0" nature="M" />
+            <seriesData year="2005" value="130.0" nature="M" />
+            <seriesData year="2010" value="120.0" nature="M" />
+            <seriesData year="2013" value="120.0" nature="M" />
+        </country>
+        <country id="356" name="India">
+            <seriesData year="1990" value="560.0" nature="M" />
+            <seriesData year="1995" value="460.0" nature="M" />
+            <seriesData year="2000" value="370.0" nature="M" />
+            <seriesData year="2005" value="280.0" nature="M" />
+            <seriesData year="2010" value="220.0" nature="M" />
+            <seriesData year="2013" value="190.0" nature="M" />
+        </country>
+        <country id="360" name="Indonesia">
+            <seriesData year="1990" value="430.0" nature="M" />
+            <seriesData year="1995" value="360.0" nature="M" />
+            <seriesData year="2000" value="310.0" nature="M" />
+            <seriesData year="2005" value="250.0" nature="M" />
+            <seriesData year="2010" value="210.0" nature="M" />
+            <seriesData year="2013" value="190.0" nature="M" />
+        </country>
+        <country id="364" name="Iran (Islamic Republic of)">
+            <seriesData year="1990" value="83.0" nature="M" />
+            <seriesData year="1995" value="60.0" nature="M" />
+            <seriesData year="2000" value="44.0" nature="M" />
+            <seriesData year="2005" value="31.0" nature="M" />
+            <seriesData year="2010" value="25.0" nature="M" />
+            <seriesData year="2013" value="23.0" nature="M" />
+        </country>
+        <country id="368" name="Iraq">
+            <seriesData year="1990" value="110.0" nature="M" />
+            <seriesData year="1995" value="84.0" nature="M" />
+            <seriesData year="2000" value="71.0" nature="M" />
+            <seriesData year="2005" value="77.0" nature="M" />
+            <seriesData year="2010" value="73.0" nature="M" />
+            <seriesData year="2013" value="67.0" nature="M" />
+        </country>
+        <country id="388" name="Jamaica">
+            <seriesData year="1990" value="98.0" nature="M" />
+            <seriesData year="1995" value="89.0" nature="M" />
+            <seriesData year="2000" value="88.0" nature="M" />
+            <seriesData year="2005" value="85.0" nature="M" />
+            <seriesData year="2010" value="82.0" nature="M" />
+            <seriesData year="2013" value="80.0" nature="M" />
+        </country>
+        <country id="400" name="Jordan">
+            <seriesData year="1990" value="86.0" nature="M" />
+            <seriesData year="1995" value="73.0" nature="M" />
+            <seriesData year="2000" value="65.0" nature="M" />
+            <seriesData year="2005" value="58.0" nature="M" />
+            <seriesData year="2010" value="53.0" nature="M" />
+            <seriesData year="2013" value="50.0" nature="M" />
+        </country>
+        <country id="404" name="Kenya">
+            <seriesData year="1990" value="490.0" nature="M" />
+            <seriesData year="1995" value="530.0" nature="M" />
+            <seriesData year="2000" value="570.0" nature="M" />
+            <seriesData year="2005" value="550.0" nature="M" />
+            <seriesData year="2010" value="460.0" nature="M" />
+            <seriesData year="2013" value="400.0" nature="M" />
+        </country>
+        <country id="296" name="Kiribati">
+            <seriesData year="1990" value="250.0" nature="M" />
+            <seriesData year="1995" value="240.0" nature="M" />
+            <seriesData year="2000" value="200.0" nature="M" />
+            <seriesData year="2005" value="170.0" nature="M" />
+            <seriesData year="2010" value="140.0" nature="M" />
+            <seriesData year="2013" value="130.0" nature="M" />
+        </country>
+        <country id="408" name="Korea, Democratic People's Republic of">
+            <seriesData year="1990" value="85.0" nature="M" />
+            <seriesData year="1995" value="83.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="110.0" nature="M" />
+            <seriesData year="2010" value="98.0" nature="M" />
+            <seriesData year="2013" value="87.0" nature="M" />
+        </country>
+        <country id="410" name="Korea, Republic of">
+            <seriesData year="1990" value="18.0" nature="CA" />
+            <seriesData year="1995" value="18.0" nature="CA" />
+            <seriesData year="2000" value="19.0" nature="CA" />
+            <seriesData year="2005" value="18.0" nature="CA" />
+            <seriesData year="2010" value="21.0" nature="CA" />
+            <seriesData year="2013" value="27.0" nature="CA" />
+        </country>
+        <country id="414" name="Kuwait">
+            <seriesData year="1990" value="12.0" nature="CA" />
+            <seriesData year="1995" value="10.0" nature="CA" />
+            <seriesData year="2000" value="8.0" nature="CA" />
+            <seriesData year="2005" value="6.0" nature="CA" />
+            <seriesData year="2010" value="13.0" nature="CA" />
+            <seriesData year="2013" value="14.0" nature="CA" />
+        </country>
+        <country id="418" name="Lao People's Democratic Republic">
+            <seriesData year="1990" value="1100.0" nature="M" />
+            <seriesData year="1995" value="830.0" nature="M" />
+            <seriesData year="2000" value="600.0" nature="M" />
+            <seriesData year="2005" value="410.0" nature="M" />
+            <seriesData year="2010" value="270.0" nature="M" />
+            <seriesData year="2013" value="220.0" nature="M" />
+        </country>
+        <country id="422" name="Lebanon">
+            <seriesData year="1990" value="64.0" nature="M" />
+            <seriesData year="1995" value="47.0" nature="M" />
+            <seriesData year="2000" value="37.0" nature="M" />
+            <seriesData year="2005" value="26.0" nature="M" />
+            <seriesData year="2010" value="18.0" nature="M" />
+            <seriesData year="2013" value="16.0" nature="M" />
+        </country>
+        <country id="426" name="Lesotho">
+            <seriesData year="1990" value="720.0" nature="M" />
+            <seriesData year="1995" value="630.0" nature="M" />
+            <seriesData year="2000" value="680.0" nature="M" />
+            <seriesData year="2005" value="670.0" nature="M" />
+            <seriesData year="2010" value="540.0" nature="M" />
+            <seriesData year="2013" value="490.0" nature="M" />
+        </country>
+        <country id="430" name="Liberia">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="1600.0" nature="M" />
+            <seriesData year="2000" value="1100.0" nature="M" />
+            <seriesData year="2005" value="880.0" nature="M" />
+            <seriesData year="2010" value="680.0" nature="M" />
+            <seriesData year="2013" value="640.0" nature="M" />
+        </country>
+        <country id="434" name="Libyan Arab Jamahiriya">
+            <seriesData year="1990" value="31.0" nature="M" />
+            <seriesData year="1995" value="25.0" nature="M" />
+            <seriesData year="2000" value="21.0" nature="M" />
+            <seriesData year="2005" value="17.0" nature="M" />
+            <seriesData year="2010" value="15.0" nature="M" />
+            <seriesData year="2013" value="15.0" nature="M" />
+        </country>
+        <country id="450" name="Madagascar">
+            <seriesData year="1990" value="740.0" nature="M" />
+            <seriesData year="1995" value="640.0" nature="M" />
+            <seriesData year="2000" value="550.0" nature="M" />
+            <seriesData year="2005" value="530.0" nature="M" />
+            <seriesData year="2010" value="480.0" nature="M" />
+            <seriesData year="2013" value="440.0" nature="M" />
+        </country>
+        <country id="454" name="Malawi">
+            <seriesData year="1990" value="1100.0" nature="M" />
+            <seriesData year="1995" value="870.0" nature="M" />
+            <seriesData year="2000" value="750.0" nature="M" />
+            <seriesData year="2005" value="570.0" nature="M" />
+            <seriesData year="2010" value="540.0" nature="M" />
+            <seriesData year="2013" value="510.0" nature="M" />
+        </country>
+        <country id="458" name="Malaysia">
+            <seriesData year="1990" value="56.0" nature="M" />
+            <seriesData year="1995" value="45.0" nature="M" />
+            <seriesData year="2000" value="40.0" nature="M" />
+            <seriesData year="2005" value="36.0" nature="M" />
+            <seriesData year="2010" value="31.0" nature="M" />
+            <seriesData year="2013" value="29.0" nature="M" />
+        </country>
+        <country id="462" name="Maldives">
+            <seriesData year="1990" value="430.0" nature="M" />
+            <seriesData year="1995" value="210.0" nature="M" />
+            <seriesData year="2000" value="110.0" nature="M" />
+            <seriesData year="2005" value="57.0" nature="M" />
+            <seriesData year="2010" value="38.0" nature="M" />
+            <seriesData year="2013" value="31.0" nature="M" />
+        </country>
+        <country id="466" name="Mali">
+            <seriesData year="1990" value="1100.0" nature="M" />
+            <seriesData year="1995" value="1000.0" nature="M" />
+            <seriesData year="2000" value="860.0" nature="M" />
+            <seriesData year="2005" value="710.0" nature="M" />
+            <seriesData year="2010" value="600.0" nature="M" />
+            <seriesData year="2013" value="550.0" nature="M" />
+        </country>
+        <country id="478" name="Mauritania">
+            <seriesData year="1990" value="630.0" nature="M" />
+            <seriesData year="1995" value="550.0" nature="M" />
+            <seriesData year="2000" value="480.0" nature="M" />
+            <seriesData year="2005" value="400.0" nature="M" />
+            <seriesData year="2010" value="360.0" nature="M" />
+            <seriesData year="2013" value="320.0" nature="M" />
+        </country>
+        <country id="480" name="Mauritius">
+            <seriesData year="1990" value="70.0" nature="CA" />
+            <seriesData year="1995" value="68.0" nature="CA" />
+            <seriesData year="2000" value="28.0" nature="CA" />
+            <seriesData year="2005" value="35.0" nature="CA" />
+            <seriesData year="2010" value="72.0" nature="CA" />
+            <seriesData year="2013" value="73.0" nature="CA" />
+        </country>
+        <country id="484" name="Mexico">
+            <seriesData year="1990" value="88.0" nature="CA" />
+            <seriesData year="1995" value="77.0" nature="CA" />
+            <seriesData year="2000" value="67.0" nature="CA" />
+            <seriesData year="2005" value="50.0" nature="CA" />
+            <seriesData year="2010" value="47.0" nature="CA" />
+            <seriesData year="2013" value="49.0" nature="CA" />
+        </country>
+        <country id="583" name="Micronesia, Federated States of">
+            <seriesData year="1990" value="170.0" nature="M" />
+            <seriesData year="1995" value="140.0" nature="M" />
+            <seriesData year="2000" value="130.0" nature="M" />
+            <seriesData year="2005" value="120.0" nature="M" />
+            <seriesData year="2010" value="100.0" nature="M" />
+            <seriesData year="2013" value="96.0" nature="M" />
+        </country>
+        <country id="496" name="Mongolia">
+            <seriesData year="1990" value="100.0" nature="M" />
+            <seriesData year="1995" value="120.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="89.0" nature="M" />
+            <seriesData year="2010" value="74.0" nature="M" />
+            <seriesData year="2013" value="68.0" nature="M" />
+        </country>
+        <country id="504" name="Morocco">
+            <seriesData year="1990" value="310.0" nature="M" />
+            <seriesData year="1995" value="240.0" nature="M" />
+            <seriesData year="2000" value="200.0" nature="M" />
+            <seriesData year="2005" value="160.0" nature="M" />
+            <seriesData year="2010" value="130.0" nature="M" />
+            <seriesData year="2013" value="120.0" nature="M" />
+        </country>
+        <country id="508" name="Mozambique">
+            <seriesData year="1990" value="1300.0" nature="M" />
+            <seriesData year="1995" value="1100.0" nature="M" />
+            <seriesData year="2000" value="870.0" nature="M" />
+            <seriesData year="2005" value="680.0" nature="M" />
+            <seriesData year="2010" value="540.0" nature="M" />
+            <seriesData year="2013" value="480.0" nature="M" />
+        </country>
+        <country id="104" name="Myanmar">
+            <seriesData year="1990" value="580.0" nature="M" />
+            <seriesData year="1995" value="470.0" nature="M" />
+            <seriesData year="2000" value="360.0" nature="M" />
+            <seriesData year="2005" value="260.0" nature="M" />
+            <seriesData year="2010" value="220.0" nature="M" />
+            <seriesData year="2013" value="200.0" nature="M" />
+        </country>
+        <country id="516" name="Namibia">
+            <seriesData year="1990" value="320.0" nature="M" />
+            <seriesData year="1995" value="280.0" nature="M" />
+            <seriesData year="2000" value="270.0" nature="M" />
+            <seriesData year="2005" value="250.0" nature="M" />
+            <seriesData year="2010" value="160.0" nature="M" />
+            <seriesData year="2013" value="130.0" nature="M" />
+        </country>
+        <country id="524" name="Nepal">
+            <seriesData year="1990" value="790.0" nature="M" />
+            <seriesData year="1995" value="580.0" nature="M" />
+            <seriesData year="2000" value="430.0" nature="M" />
+            <seriesData year="2005" value="310.0" nature="M" />
+            <seriesData year="2010" value="220.0" nature="M" />
+            <seriesData year="2013" value="190.0" nature="M" />
+        </country>
+        <country id="558" name="Nicaragua">
+            <seriesData year="1990" value="170.0" nature="M" />
+            <seriesData year="1995" value="160.0" nature="M" />
+            <seriesData year="2000" value="140.0" nature="M" />
+            <seriesData year="2005" value="120.0" nature="M" />
+            <seriesData year="2010" value="110.0" nature="M" />
+            <seriesData year="2013" value="100.0" nature="M" />
+        </country>
+        <country id="562" name="Niger">
+            <seriesData year="1990" value="1000.0" nature="M" />
+            <seriesData year="1995" value="920.0" nature="M" />
+            <seriesData year="2000" value="850.0" nature="M" />
+            <seriesData year="2005" value="760.0" nature="M" />
+            <seriesData year="2010" value="690.0" nature="M" />
+            <seriesData year="2013" value="630.0" nature="M" />
+        </country>
+        <country id="566" name="Nigeria">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="1100.0" nature="M" />
+            <seriesData year="2000" value="950.0" nature="M" />
+            <seriesData year="2005" value="740.0" nature="M" />
+            <seriesData year="2010" value="610.0" nature="M" />
+            <seriesData year="2013" value="560.0" nature="M" />
+        </country>
+        <country id="512" name="Oman">
+            <seriesData year="1990" value="48.0" nature="M" />
+            <seriesData year="1995" value="32.0" nature="M" />
+            <seriesData year="2000" value="22.0" nature="M" />
+            <seriesData year="2005" value="16.0" nature="M" />
+            <seriesData year="2010" value="12.0" nature="M" />
+            <seriesData year="2013" value="11.0" nature="M" />
+        </country>
+        <country id="586" name="Pakistan">
+            <seriesData year="1990" value="400.0" nature="M" />
+            <seriesData year="1995" value="330.0" nature="M" />
+            <seriesData year="2000" value="280.0" nature="M" />
+            <seriesData year="2005" value="230.0" nature="M" />
+            <seriesData year="2010" value="190.0" nature="M" />
+            <seriesData year="2013" value="170.0" nature="M" />
+        </country>
+        <country id="591" name="Panama">
+            <seriesData year="1990" value="98.0" nature="CA" />
+            <seriesData year="1995" value="91.0" nature="CA" />
+            <seriesData year="2000" value="79.0" nature="CA" />
+            <seriesData year="2005" value="83.0" nature="CA" />
+            <seriesData year="2010" value="82.0" nature="CA" />
+            <seriesData year="2013" value="85.0" nature="CA" />
+        </country>
+        <country id="598" name="Papua New Guinea">
+            <seriesData year="1990" value="470.0" nature="M" />
+            <seriesData year="1995" value="370.0" nature="M" />
+            <seriesData year="2000" value="340.0" nature="M" />
+            <seriesData year="2005" value="280.0" nature="M" />
+            <seriesData year="2010" value="240.0" nature="M" />
+            <seriesData year="2013" value="220.0" nature="M" />
+        </country>
+        <country id="600" name="Paraguay">
+            <seriesData year="1990" value="130.0" nature="M" />
+            <seriesData year="1995" value="130.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="130.0" nature="M" />
+            <seriesData year="2010" value="110.0" nature="M" />
+            <seriesData year="2013" value="110.0" nature="M" />
+        </country>
+        <country id="604" name="Peru">
+            <seriesData year="1990" value="250.0" nature="M" />
+            <seriesData year="1995" value="220.0" nature="M" />
+            <seriesData year="2000" value="160.0" nature="M" />
+            <seriesData year="2005" value="120.0" nature="M" />
+            <seriesData year="2010" value="100.0" nature="M" />
+            <seriesData year="2013" value="89.0" nature="M" />
+        </country>
+        <country id="608" name="Philippines">
+            <seriesData year="1990" value="110.0" nature="CA" />
+            <seriesData year="1995" value="130.0" nature="CA" />
+            <seriesData year="2000" value="120.0" nature="CA" />
+            <seriesData year="2005" value="130.0" nature="CA" />
+            <seriesData year="2010" value="120.0" nature="CA" />
+            <seriesData year="2013" value="120.0" nature="CA" />
+        </country>
+        <country id="634" name="Qatar">
+            <seriesData year="1990" value="11.0" nature="M" />
+            <seriesData year="1995" value="11.0" nature="M" />
+            <seriesData year="2000" value="9.0" nature="M" />
+            <seriesData year="2005" value="8.0" nature="M" />
+            <seriesData year="2010" value="7.0" nature="M" />
+            <seriesData year="2013" value="6.0" nature="M" />
+        </country>
+        <country id="646" name="Rwanda">
+            <seriesData year="1990" value="1400.0" nature="M" />
+            <seriesData year="1995" value="1400.0" nature="M" />
+            <seriesData year="2000" value="1000.0" nature="M" />
+            <seriesData year="2005" value="610.0" nature="M" />
+            <seriesData year="2010" value="390.0" nature="M" />
+            <seriesData year="2013" value="320.0" nature="M" />
+        </country>
+        <country id="662" name="Saint Lucia">
+            <seriesData year="1990" value="60.0" nature="CA" />
+            <seriesData year="1995" value="52.0" nature="CA" />
+            <seriesData year="2000" value="44.0" nature="CA" />
+            <seriesData year="2005" value="39.0" nature="CA" />
+            <seriesData year="2010" value="35.0" nature="CA" />
+            <seriesData year="2013" value="34.0" nature="CA" />
+        </country>
+        <country id="670" name="Saint Vincent and the Grenadines">
+            <seriesData year="1990" value="48.0" nature="CA" />
+            <seriesData year="1995" value="72.0" nature="CA" />
+            <seriesData year="2000" value="75.0" nature="CA" />
+            <seriesData year="2005" value="55.0" nature="CA" />
+            <seriesData year="2010" value="47.0" nature="CA" />
+            <seriesData year="2013" value="45.0" nature="CA" />
+        </country>
+        <country id="882" name="Samoa">
+            <seriesData year="1990" value="150.0" nature="M" />
+            <seriesData year="1995" value="110.0" nature="M" />
+            <seriesData year="2000" value="89.0" nature="M" />
+            <seriesData year="2005" value="73.0" nature="M" />
+            <seriesData year="2010" value="62.0" nature="M" />
+            <seriesData year="2013" value="58.0" nature="M" />
+        </country>
+        <country id="678" name="Sao Tome and Principe">
+            <seriesData year="1990" value="410.0" nature="M" />
+            <seriesData year="1995" value="360.0" nature="M" />
+            <seriesData year="2000" value="300.0" nature="M" />
+            <seriesData year="2005" value="260.0" nature="M" />
+            <seriesData year="2010" value="230.0" nature="M" />
+            <seriesData year="2013" value="210.0" nature="M" />
+        </country>
+        <country id="682" name="Saudi Arabia">
+            <seriesData year="1990" value="41.0" nature="M" />
+            <seriesData year="1995" value="31.0" nature="M" />
+            <seriesData year="2000" value="24.0" nature="M" />
+            <seriesData year="2005" value="19.0" nature="M" />
+            <seriesData year="2010" value="16.0" nature="M" />
+            <seriesData year="2013" value="16.0" nature="M" />
+        </country>
+        <country id="686" name="Senegal">
+            <seriesData year="1990" value="530.0" nature="M" />
+            <seriesData year="1995" value="510.0" nature="M" />
+            <seriesData year="2000" value="480.0" nature="M" />
+            <seriesData year="2005" value="420.0" nature="M" />
+            <seriesData year="2010" value="360.0" nature="M" />
+            <seriesData year="2013" value="320.0" nature="M" />
+        </country>
+        <country id="694" name="Sierra Leone">
+            <seriesData year="1990" value="2300.0" nature="M" />
+            <seriesData year="1995" value="2400.0" nature="M" />
+            <seriesData year="2000" value="2200.0" nature="M" />
+            <seriesData year="2005" value="1600.0" nature="M" />
+            <seriesData year="2010" value="1200.0" nature="M" />
+            <seriesData year="2013" value="1100.0" nature="M" />
+        </country>
+        <country id="702" name="Singapore">
+            <seriesData year="1990" value="8.0" nature="CA" />
+            <seriesData year="1995" value="8.0" nature="CA" />
+            <seriesData year="2000" value="19.0" nature="CA" />
+            <seriesData year="2005" value="10.0" nature="CA" />
+            <seriesData year="2010" value="4.0" nature="CA" />
+            <seriesData year="2013" value="6.0" nature="CA" />
+        </country>
+        <country id="90" name="Solomon Islands">
+            <seriesData year="1990" value="320.0" nature="M" />
+            <seriesData year="1995" value="250.0" nature="M" />
+            <seriesData year="2000" value="210.0" nature="M" />
+            <seriesData year="2005" value="170.0" nature="M" />
+            <seriesData year="2010" value="140.0" nature="M" />
+            <seriesData year="2013" value="130.0" nature="M" />
+        </country>
+        <country id="706" name="Somalia">
+            <seriesData year="1990" value="1300.0" nature="M" />
+            <seriesData year="1995" value="1300.0" nature="M" />
+            <seriesData year="2000" value="1200.0" nature="M" />
+            <seriesData year="2005" value="1100.0" nature="M" />
+            <seriesData year="2010" value="930.0" nature="M" />
+            <seriesData year="2013" value="850.0" nature="M" />
+        </country>
+        <country id="710" name="South Africa">
+            <seriesData year="1990" value="150.0" nature="M" />
+            <seriesData year="1995" value="140.0" nature="M" />
+            <seriesData year="2000" value="150.0" nature="M" />
+            <seriesData year="2005" value="160.0" nature="M" />
+            <seriesData year="2010" value="140.0" nature="M" />
+            <seriesData year="2013" value="140.0" nature="M" />
+        </country>
+        <country id="144" name="Sri Lanka">
+            <seriesData year="1990" value="49.0" nature="M" />
+            <seriesData year="1995" value="71.0" nature="M" />
+            <seriesData year="2000" value="55.0" nature="M" />
+            <seriesData year="2005" value="41.0" nature="M" />
+            <seriesData year="2010" value="32.0" nature="M" />
+            <seriesData year="2013" value="29.0" nature="M" />
+        </country>
+        <country id="740" name="Suriname">
+            <seriesData year="1990" value="84.0" nature="CA" />
+            <seriesData year="1995" value="39.0" nature="CA" />
+            <seriesData year="2000" value="120.0" nature="CA" />
+            <seriesData year="2005" value="110.0" nature="CA" />
+            <seriesData year="2010" value="150.0" nature="CA" />
+            <seriesData year="2013" value="130.0" nature="CA" />
+        </country>
+        <country id="748" name="Swaziland">
+            <seriesData year="1990" value="550.0" nature="M" />
+            <seriesData year="1995" value="480.0" nature="M" />
+            <seriesData year="2000" value="520.0" nature="M" />
+            <seriesData year="2005" value="480.0" nature="M" />
+            <seriesData year="2010" value="350.0" nature="M" />
+            <seriesData year="2013" value="310.0" nature="M" />
+        </country>
+        <country id="760" name="Syrian Arab Republic">
+            <seriesData year="1990" value="130.0" nature="M" />
+            <seriesData year="1995" value="94.0" nature="M" />
+            <seriesData year="2000" value="75.0" nature="M" />
+            <seriesData year="2005" value="58.0" nature="M" />
+            <seriesData year="2010" value="50.0" nature="M" />
+            <seriesData year="2013" value="49.0" nature="M" />
+        </country>
+        <country id="764" name="Thailand">
+            <seriesData year="1990" value="42.0" nature="M" />
+            <seriesData year="1995" value="37.0" nature="M" />
+            <seriesData year="2000" value="40.0" nature="M" />
+            <seriesData year="2005" value="34.0" nature="M" />
+            <seriesData year="2010" value="28.0" nature="M" />
+            <seriesData year="2013" value="26.0" nature="M" />
+        </country>
+        <country id="626" name="Timor-Leste">
+            <seriesData year="1990" value="1200.0" nature="M" />
+            <seriesData year="1995" value="1000.0" nature="M" />
+            <seriesData year="2000" value="680.0" nature="M" />
+            <seriesData year="2005" value="500.0" nature="M" />
+            <seriesData year="2010" value="330.0" nature="M" />
+            <seriesData year="2013" value="270.0" nature="M" />
+        </country>
+        <country id="768" name="Togo">
+            <seriesData year="1990" value="660.0" nature="M" />
+            <seriesData year="1995" value="660.0" nature="M" />
+            <seriesData year="2000" value="580.0" nature="M" />
+            <seriesData year="2005" value="510.0" nature="M" />
+            <seriesData year="2010" value="480.0" nature="M" />
+            <seriesData year="2013" value="450.0" nature="M" />
+        </country>
+        <country id="776" name="Tonga">
+            <seriesData year="1990" value="71.0" nature="M" />
+            <seriesData year="1995" value="89.0" nature="M" />
+            <seriesData year="2000" value="91.0" nature="M" />
+            <seriesData year="2005" value="100.0" nature="M" />
+            <seriesData year="2010" value="120.0" nature="M" />
+            <seriesData year="2013" value="120.0" nature="M" />
+        </country>
+        <country id="780" name="Trinidad and Tobago">
+            <seriesData year="1990" value="89.0" nature="CA" />
+            <seriesData year="1995" value="91.0" nature="CA" />
+            <seriesData year="2000" value="59.0" nature="CA" />
+            <seriesData year="2005" value="58.0" nature="CA" />
+            <seriesData year="2010" value="82.0" nature="CA" />
+            <seriesData year="2013" value="84.0" nature="CA" />
+        </country>
+        <country id="788" name="Tunisia">
+            <seriesData year="1990" value="91.0" nature="M" />
+            <seriesData year="1995" value="81.0" nature="M" />
+            <seriesData year="2000" value="65.0" nature="M" />
+            <seriesData year="2005" value="55.0" nature="M" />
+            <seriesData year="2010" value="48.0" nature="M" />
+            <seriesData year="2013" value="46.0" nature="M" />
+        </country>
+        <country id="792" name="Turkey">
+            <seriesData year="1990" value="48.0" nature="M" />
+            <seriesData year="1995" value="39.0" nature="M" />
+            <seriesData year="2000" value="33.0" nature="M" />
+            <seriesData year="2005" value="27.0" nature="M" />
+            <seriesData year="2010" value="22.0" nature="M" />
+            <seriesData year="2013" value="20.0" nature="M" />
+        </country>
+        <country id="800" name="Uganda">
+            <seriesData year="1990" value="780.0" nature="M" />
+            <seriesData year="1995" value="740.0" nature="M" />
+            <seriesData year="2000" value="650.0" nature="M" />
+            <seriesData year="2005" value="510.0" nature="M" />
+            <seriesData year="2010" value="410.0" nature="M" />
+            <seriesData year="2013" value="360.0" nature="M" />
+        </country>
+        <country id="784" name="United Arab Emirates">
+            <seriesData year="1990" value="16.0" nature="M" />
+            <seriesData year="1995" value="13.0" nature="M" />
+            <seriesData year="2000" value="11.0" nature="M" />
+            <seriesData year="2005" value="8.0" nature="M" />
+            <seriesData year="2010" value="8.0" nature="M" />
+            <seriesData year="2013" value="8.0" nature="M" />
+        </country>
+        <country id="834" name="United Republic of Tanzania">
+            <seriesData year="1990" value="910.0" nature="M" />
+            <seriesData year="1995" value="890.0" nature="M" />
+            <seriesData year="2000" value="770.0" nature="M" />
+            <seriesData year="2005" value="610.0" nature="M" />
+            <seriesData year="2010" value="460.0" nature="M" />
+            <seriesData year="2013" value="410.0" nature="M" />
+        </country>
+        <country id="858" name="Uruguay">
+            <seriesData year="1990" value="42.0" nature="CA" />
+            <seriesData year="1995" value="34.0" nature="CA" />
+            <seriesData year="2000" value="35.0" nature="CA" />
+            <seriesData year="2005" value="32.0" nature="CA" />
+            <seriesData year="2010" value="23.0" nature="CA" />
+            <seriesData year="2013" value="14.0" nature="CA" />
+        </country>
+        <country id="548" name="Vanuatu">
+            <seriesData year="1990" value="170.0" nature="M" />
+            <seriesData year="1995" value="140.0" nature="M" />
+            <seriesData year="2000" value="120.0" nature="M" />
+            <seriesData year="2005" value="100.0" nature="M" />
+            <seriesData year="2010" value="90.0" nature="M" />
+            <seriesData year="2013" value="86.0" nature="M" />
+        </country>
+        <country id="862" name="Venezuela">
+            <seriesData year="1990" value="93.0" nature="CA" />
+            <seriesData year="1995" value="98.0" nature="CA" />
+            <seriesData year="2000" value="91.0" nature="CA" />
+            <seriesData year="2005" value="94.0" nature="CA" />
+            <seriesData year="2010" value="110.0" nature="CA" />
+            <seriesData year="2013" value="110.0" nature="CA" />
+        </country>
+        <country id="704" name="Viet Nam">
+            <seriesData year="1990" value="140.0" nature="M" />
+            <seriesData year="1995" value="110.0" nature="M" />
+            <seriesData year="2000" value="82.0" nature="M" />
+            <seriesData year="2005" value="60.0" nature="M" />
+            <seriesData year="2010" value="51.0" nature="M" />
+            <seriesData year="2013" value="49.0" nature="M" />
+        </country>
+        <country id="887" name="Yemen">
+            <seriesData year="1990" value="460.0" nature="M" />
+            <seriesData year="1995" value="420.0" nature="M" />
+            <seriesData year="2000" value="370.0" nature="M" />
+            <seriesData year="2005" value="330.0" nature="M" />
+            <seriesData year="2010" value="290.0" nature="M" />
+            <seriesData year="2013" value="270.0" nature="M" />
+        </country>
+        <country id="894" name="Zambia">
+            <seriesData year="1990" value="580.0" nature="M" />
+            <seriesData year="1995" value="630.0" nature="M" />
+            <seriesData year="2000" value="610.0" nature="M" />
+            <seriesData year="2005" value="430.0" nature="M" />
+            <seriesData year="2010" value="320.0" nature="M" />
+            <seriesData year="2013" value="280.0" nature="M" />
+        </country>
+        <country id="716" name="Zimbabwe">
+            <seriesData year="1990" value="520.0" nature="M" />
+            <seriesData year="1995" value="550.0" nature="M" />
+            <seriesData year="2000" value="680.0" nature="M" />
+            <seriesData year="2005" value="740.0" nature="M" />
+            <seriesData year="2010" value="610.0" nature="M" />
+            <seriesData year="2013" value="470.0" nature="M" />
+        </country>
+    </series>
+</indicator>

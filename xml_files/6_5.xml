@@ -1,0 +1,494 @@
+<indicator id="206" name="6.5 Proportion of population with advanced HIV infection with access to antiretroviral drugs">
+    <series id="765" name="Antiretroviral therapy coverage among people with advanced HIV infection, percentage">
+        <country id="12" name="Algeria">
+            <seriesData year="2009" nature="E" footnotes="3" />
+            <seriesData year="2010" nature="E" footnotes="3" />
+            <seriesData year="2011" nature="E" footnotes="3" />
+        </country>
+        <country id="24" name="Angola">
+            <seriesData year="2009" value="29.2" nature="E" />
+            <seriesData year="2010" value="34.5" nature="E" />
+            <seriesData year="2011" value="38.3" nature="E" />
+        </country>
+        <country id="32" name="Argentina">
+            <seriesData year="2009" value="80.5" nature="E" />
+            <seriesData year="2010" value="77.2" nature="E" />
+            <seriesData year="2011" value="78.6" nature="E" />
+        </country>
+        <country id="50" name="Bangladesh">
+            <seriesData year="2009" value="21.6" nature="E" />
+            <seriesData year="2010" value="24.4" nature="E" />
+            <seriesData year="2011" value="31.0" nature="E" />
+        </country>
+        <country id="84" name="Belize">
+            <seriesData year="2009" value="45.0" nature="E" />
+            <seriesData year="2010" value="51.2" nature="E" />
+            <seriesData year="2011" value="61.9" nature="E" />
+        </country>
+        <country id="204" name="Benin">
+            <seriesData year="2009" value="53.4" nature="E" />
+            <seriesData year="2010" value="58.0" nature="E" />
+            <seriesData year="2011" value="60.5" nature="E" />
+        </country>
+        <country id="64" name="Bhutan">
+            <seriesData year="2009" value="19.5" nature="E" />
+            <seriesData year="2010" value="27.3" nature="E" />
+            <seriesData year="2011" value="23.7" nature="E" />
+        </country>
+        <country id="68" name="Bolivia">
+            <seriesData year="2009" value="12.7" nature="E" />
+            <seriesData year="2010" value="15.0" nature="E" />
+            <seriesData year="2011" value="15.3" nature="E" />
+        </country>
+        <country id="72" name="Botswana">
+            <seriesData year="2009" value="90.3" nature="E" />
+            <seriesData year="2010" value="92.5" nature="E" />
+            <seriesData year="2011" value="95.0" nature="E" footnotes="1" />
+        </country>
+        <country id="76" name="Brazil">
+            <seriesData year="2009" value="84.1" nature="E" />
+            <seriesData year="2010" value="90.7" nature="E" />
+            <seriesData year="2011" value="95.0" nature="E" footnotes="1" />
+        </country>
+        <country id="854" name="Burkina Faso">
+            <seriesData year="2009" value="43.7" nature="E" />
+            <seriesData year="2010" value="50.0" nature="E" />
+            <seriesData year="2011" value="56.6" nature="E" />
+        </country>
+        <country id="108" name="Burundi">
+            <seriesData year="2009" value="35.3" nature="E" />
+            <seriesData year="2010" value="44.6" nature="E" />
+            <seriesData year="2011" value="53.5" nature="E" />
+        </country>
+        <country id="116" name="Cambodia">
+            <seriesData year="2009" value="91.1" nature="E" />
+            <seriesData year="2010" value="95.0" nature="E" footnotes="1" />
+            <seriesData year="2011" value="95.0" nature="E" footnotes="1" />
+        </country>
+        <country id="120" name="Cameroon">
+            <seriesData year="2009" value="32.7" nature="E" />
+            <seriesData year="2010" value="35.8" nature="E" />
+            <seriesData year="2011" value="40.8" nature="E" />
+        </country>
+        <country id="140" name="Central African Republic">
+            <seriesData year="2009" value="23.1" nature="E" />
+            <seriesData year="2010" value="23.5" nature="E" />
+            <seriesData year="2011" value="22.3" nature="E" />
+        </country>
+        <country id="148" name="Chad">
+            <seriesData year="2009" value="39.2" nature="E" />
+            <seriesData year="2010" value="35.7" nature="E" />
+            <seriesData year="2011" value="34.2" nature="E" />
+        </country>
+        <country id="152" name="Chile">
+            <seriesData year="2009" value="59.3" nature="E" />
+            <seriesData year="2010" value="63.7" nature="E" />
+            <seriesData year="2011" value="66.4" nature="E" />
+        </country>
+        <country id="156" name="China">
+            <seriesData year="2009" nature="E" footnotes="3" />
+            <seriesData year="2010" nature="E" footnotes="3" />
+            <seriesData year="2011" nature="E" footnotes="3" />
+        </country>
+        <country id="170" name="Colombia">
+            <seriesData year="2009" value="25.2" nature="E" />
+            <seriesData year="2010" value="45.1" nature="E" />
+            <seriesData year="2011" value="45.8" nature="E" />
+        </country>
+        <country id="174" name="Comoros">
+            <seriesData year="2009" value="15.0" nature="E" />
+            <seriesData year="2010" value="18.7" nature="E" />
+            <seriesData year="2011" value="19.0" nature="E" />
+        </country>
+        <country id="178" name="Congo">
+            <seriesData year="2009" value="24.2" nature="E" />
+            <seriesData year="2010" value="41.0" nature="E" />
+            <seriesData year="2011" value="44.3" nature="E" />
+        </country>
+        <country id="188" name="Costa Rica">
+            <seriesData year="2009" nature="E" footnotes="3" />
+            <seriesData year="2010" nature="E" footnotes="3" />
+            <seriesData year="2011" nature="E" footnotes="3" />
+        </country>
+        <country id="384" name="Cote d'Ivoire">
+            <seriesData year="2009" value="36.8" nature="E" />
+            <seriesData year="2010" value="37.4" nature="E" />
+            <seriesData year="2011" value="41.1" nature="E" />
+        </country>
+        <country id="192" name="Cuba">
+            <seriesData year="2009" value="95.0" nature="E" footnotes="1" />
+            <seriesData year="2010" value="95.0" nature="E" footnotes="1" />
+            <seriesData year="2011" value="95.0" nature="E" footnotes="1" />
+        </country>
+        <country id="180" name="Democratic Republic of the Congo">
+            <seriesData year="2009" nature="E" footnotes="3" />
+            <seriesData year="2010" nature="E" footnotes="3" />
+            <seriesData year="2011" nature="E" footnotes="3" />
+        </country>
+        <country id="262" name="Djibouti">
+            <seriesData year="2009" value="18.6" nature="E" />
+            <seriesData year="2010" value="20.2" nature="E" />
+            <seriesData year="2011" value="27.1" nature="E" />
+        </country>
+        <country id="214" name="Dominican Republic">
+            <seriesData year="2009" value="60.4" nature="E" />
+            <seriesData year="2010" value="70.3" nature="E" />
+            <seriesData year="2011" value="80.1" nature="E" />
+        </country>
+        <country id="218" name="Ecuador">
+            <seriesData year="2009" value="36.0" nature="E" />
+            <seriesData year="2010" value="56.5" nature="E" />
+            <seriesData year="2011" value="68.1" nature="E" />
+        </country>
+        <country id="818" name="Egypt">
+            <seriesData year="2009" value="10.0" nature="E" />
+            <seriesData year="2010" value="14.7" nature="E" />
+            <seriesData year="2011" value="21.2" nature="E" />
+        </country>
+        <country id="222" name="El Salvador">
+            <seriesData year="2009" nature="E" footnotes="2" />
+            <seriesData year="2010" value="68.2" nature="E" />
+            <seriesData year="2011" value="72.1" nature="E" />
+        </country>
+        <country id="226" name="Equatorial Guinea">
+            <seriesData year="2009" nature="E" />
+            <seriesData year="2010" nature="E" />
+            <seriesData year="2011" nature="E" />
+        </country>
+        <country id="232" name="Eritrea">
+            <seriesData year="2009" value="42.9" nature="E" />
+            <seriesData year="2010" value="43.0" nature="E" />
+            <seriesData year="2011" value="48.5" nature="E" />
+        </country>
+        <country id="231" name="Ethiopia">
+            <seriesData year="2009" value="36.4" nature="E" />
+            <seriesData year="2010" value="46.7" nature="E" />
+            <seriesData year="2011" value="56.5" nature="E" />
+        </country>
+        <country id="242" name="Fiji">
+            <seriesData year="2009" value="92.9" nature="E" />
+            <seriesData year="2010" value="82.9" nature="E" />
+            <seriesData year="2011" value="87.1" nature="E" />
+        </country>
+        <country id="266" name="Gabon">
+            <seriesData year="2009" value="48.5" nature="E" />
+            <seriesData year="2010" value="52.1" nature="E" />
+            <seriesData year="2011" value="53.2" nature="E" />
+        </country>
+        <country id="270" name="Gambia">
+            <seriesData year="2009" value="21.3" nature="E" />
+            <seriesData year="2010" value="37.9" nature="E" />
+            <seriesData year="2011" value="54.3" nature="E" />
+        </country>
+        <country id="288" name="Ghana">
+            <seriesData year="2009" value="27.9" nature="E" />
+            <seriesData year="2010" value="35.6" nature="E" />
+            <seriesData year="2011" value="47.4" nature="E" />
+        </country>
+        <country id="320" name="Guatemala">
+            <seriesData year="2009" value="55.1" nature="E" />
+            <seriesData year="2010" value="56.0" nature="E" />
+            <seriesData year="2011" value="56.4" nature="E" />
+        </country>
+        <country id="324" name="Guinea">
+            <seriesData year="2009" value="43.2" nature="E" />
+            <seriesData year="2010" value="53.8" nature="E" />
+            <seriesData year="2011" value="57.9" nature="E" />
+        </country>
+        <country id="624" name="Guinea-Bissau">
+            <seriesData year="2009" value="40.5" nature="E" />
+            <seriesData year="2010" value="46.5" nature="E" />
+            <seriesData year="2011" value="56.4" nature="E" />
+        </country>
+        <country id="328" name="Guyana">
+            <seriesData year="2009" value="72.5" nature="E" />
+            <seriesData year="2010" value="74.7" nature="E" />
+            <seriesData year="2011" value="82.1" nature="E" />
+        </country>
+        <country id="332" name="Haiti">
+            <seriesData year="2009" value="48.3" nature="E" />
+            <seriesData year="2010" value="50.4" nature="E" />
+            <seriesData year="2011" value="58.3" nature="E" />
+        </country>
+        <country id="340" name="Honduras">
+            <seriesData year="2009" value="32.4" nature="E" />
+            <seriesData year="2010" value="36.6" nature="E" />
+            <seriesData year="2011" value="41.0" nature="E" />
+        </country>
+        <country id="356" name="India">
+            <seriesData year="2009" nature="E" footnotes="3" />
+            <seriesData year="2010" nature="E" footnotes="3" />
+            <seriesData year="2011" nature="E" footnotes="3" />
+        </country>
+        <country id="360" name="Indonesia">
+            <seriesData year="2009" value="24.1" nature="E" />
+            <seriesData year="2010" value="23.8" nature="E" />
+            <seriesData year="2011" value="24.3" nature="E" />
+        </country>
+        <country id="364" name="Iran (Islamic Republic of)">
+            <seriesData year="2009" value="4.4" nature="E" />
+            <seriesData year="2010" value="5.1" nature="E" />
+            <seriesData year="2011" value="7.4" nature="E" />
+        </country>
+        <country id="388" name="Jamaica">
+            <seriesData year="2009" value="49.8" nature="E" />
+            <seriesData year="2010" value="53.8" nature="E" />
+            <seriesData year="2011" value="59.6" nature="E" />
+        </country>
+        <country id="404" name="Kenya">
+            <seriesData year="2009" value="50.8" nature="E" />
+            <seriesData year="2010" value="60.7" nature="E" />
+            <seriesData year="2011" value="72.3" nature="E" />
+        </country>
+        <country id="408" name="Korea, Democratic People's Republic of">
+            <seriesData year="2009" nature="E" footnotes="2" />
+            <seriesData year="2010" nature="E" footnotes="2" />
+            <seriesData year="2011" nature="E" footnotes="2" />
+        </country>
+        <country id="418" name="Lao People's Democratic Republic">
+            <seriesData year="2009" value="48.2" nature="E" />
+            <seriesData year="2010" value="51.3" nature="E" />
+            <seriesData year="2011" value="53.0" nature="E" />
+        </country>
+        <country id="422" name="Lebanon">
+            <seriesData year="2009" value="34.7" nature="E" />
+            <seriesData year="2010" value="36.9" nature="E" />
+            <seriesData year="2011" value="35.6" nature="E" />
+        </country>
+        <country id="426" name="Lesotho">
+            <seriesData year="2009" value="50.1" nature="E" />
+            <seriesData year="2010" value="55.7" nature="E" />
+            <seriesData year="2011" value="57.5" nature="E" />
+        </country>
+        <country id="430" name="Liberia">
+            <seriesData year="2009" value="18.6" nature="E" />
+            <seriesData year="2010" value="27.5" nature="E" />
+            <seriesData year="2011" value="38.0" nature="E" />
+        </country>
+        <country id="450" name="Madagascar">
+            <seriesData year="2009" value="1.9" nature="E" />
+            <seriesData year="2010" value="2.0" nature="E" />
+            <seriesData year="2011" value="3.0" nature="E" />
+        </country>
+        <country id="454" name="Malawi">
+            <seriesData year="2009" value="47.2" nature="E" />
+            <seriesData year="2010" value="54.4" nature="E" />
+            <seriesData year="2011" value="67.3" nature="E" />
+        </country>
+        <country id="458" name="Malaysia">
+            <seriesData year="2009" value="29.4" nature="E" />
+            <seriesData year="2010" value="38.4" nature="E" />
+            <seriesData year="2011" value="36.6" nature="E" />
+        </country>
+        <country id="462" name="Maldives">
+            <seriesData year="2009" value="21.9" nature="E" />
+            <seriesData year="2010" value="14.4" nature="E" />
+            <seriesData year="2011" value="21.7" nature="E" />
+        </country>
+        <country id="466" name="Mali">
+            <seriesData year="2009" value="42.8" nature="E" />
+            <seriesData year="2010" value="46.7" nature="E" />
+            <seriesData year="2011" value="53.5" nature="E" />
+        </country>
+        <country id="478" name="Mauritania">
+            <seriesData year="2009" value="21.2" nature="E" />
+            <seriesData year="2010" value="22.1" nature="E" />
+            <seriesData year="2011" value="20.9" nature="E" />
+        </country>
+        <country id="480" name="Mauritius">
+            <seriesData year="2009" value="18.6" nature="E" />
+            <seriesData year="2010" value="18.0" nature="E" />
+            <seriesData year="2011" value="37.4" nature="E" />
+        </country>
+        <country id="484" name="Mexico">
+            <seriesData year="2009" value="80.3" nature="E" />
+            <seriesData year="2010" value="79.4" nature="E" />
+            <seriesData year="2011" value="83.6" nature="E" />
+        </country>
+        <country id="496" name="Mongolia">
+            <seriesData year="2009" value="14.7" nature="E" />
+            <seriesData year="2010" value="28.0" nature="E" />
+            <seriesData year="2011" value="27.0" nature="E" />
+        </country>
+        <country id="504" name="Morocco">
+            <seriesData year="2009" value="30.5" nature="E" />
+            <seriesData year="2010" value="32.7" nature="E" />
+            <seriesData year="2011" value="37.2" nature="E" />
+        </country>
+        <country id="508" name="Mozambique">
+            <seriesData year="2009" value="34.4" nature="E" />
+            <seriesData year="2010" value="40.9" nature="E" />
+            <seriesData year="2011" value="45.6" nature="E" />
+        </country>
+        <country id="104" name="Myanmar">
+            <seriesData year="2009" value="17.2" nature="E" />
+            <seriesData year="2010" value="24.0" nature="E" />
+            <seriesData year="2011" value="32.1" nature="E" />
+        </country>
+        <country id="516" name="Namibia">
+            <seriesData year="2009" value="77.6" nature="E" />
+            <seriesData year="2010" value="90.3" nature="E" />
+            <seriesData year="2011" value="95.0" nature="E" footnotes="1" />
+        </country>
+        <country id="524" name="Nepal">
+            <seriesData year="2009" value="13.7" nature="E" />
+            <seriesData year="2010" value="18.4" nature="E" />
+            <seriesData year="2011" value="24.5" nature="E" />
+        </country>
+        <country id="558" name="Nicaragua">
+            <seriesData year="2009" value="57.4" nature="E" />
+            <seriesData year="2010" value="57.9" nature="E" />
+            <seriesData year="2011" value="65.2" nature="E" />
+        </country>
+        <country id="562" name="Niger">
+            <seriesData year="2009" value="26.7" nature="E" />
+            <seriesData year="2010" value="29.6" nature="E" />
+            <seriesData year="2011" value="33.8" nature="E" />
+        </country>
+        <country id="566" name="Nigeria">
+            <seriesData year="2009" value="24.6" nature="E" />
+            <seriesData year="2010" value="26.5" nature="E" />
+            <seriesData year="2011" value="30.4" nature="E" />
+        </country>
+        <country id="512" name="Oman">
+            <seriesData year="2009" nature="E" />
+            <seriesData year="2010" nature="E" />
+            <seriesData year="2011" nature="E" />
+        </country>
+        <country id="586" name="Pakistan">
+            <seriesData year="2009" value="8.5" nature="E" />
+            <seriesData year="2010" value="9.4" nature="E" />
+            <seriesData year="2011" value="9.8" nature="E" />
+        </country>
+        <country id="591" name="Panama">
+            <seriesData year="2009" value="42.3" nature="E" />
+            <seriesData year="2010" value="46.4" nature="E" />
+            <seriesData year="2011" value="49.0" nature="E" />
+        </country>
+        <country id="598" name="Papua New Guinea">
+            <seriesData year="2009" value="58.2" nature="E" />
+            <seriesData year="2010" value="58.6" nature="E" />
+            <seriesData year="2011" value="68.3" nature="E" />
+        </country>
+        <country id="600" name="Paraguay">
+            <seriesData year="2009" value="66.3" nature="E" />
+            <seriesData year="2010" value="80.9" nature="E" />
+            <seriesData year="2011" value="69.4" nature="E" />
+        </country>
+        <country id="604" name="Peru">
+            <seriesData year="2009" value="46.2" nature="E" />
+            <seriesData year="2010" value="43.7" nature="E" />
+            <seriesData year="2011" value="60.5" nature="E" />
+        </country>
+        <country id="608" name="Philippines">
+            <seriesData year="2009" value="29.4" nature="E" />
+            <seriesData year="2010" value="40.2" nature="E" />
+            <seriesData year="2011" value="50.9" nature="E" />
+        </country>
+        <country id="646" name="Rwanda">
+            <seriesData year="2009" value="76.9" nature="E" />
+            <seriesData year="2010" value="83.5" nature="E" />
+            <seriesData year="2011" value="81.7" nature="E" />
+        </country>
+        <country id="686" name="Senegal">
+            <seriesData year="2009" value="68.1" nature="E" />
+            <seriesData year="2010" value="60.1" nature="E" />
+            <seriesData year="2011" value="56.5" nature="E" />
+        </country>
+        <country id="694" name="Sierra Leone">
+            <seriesData year="2009" value="22.5" nature="E" />
+            <seriesData year="2010" value="30.5" nature="E" />
+            <seriesData year="2011" value="41.5" nature="E" />
+        </country>
+        <country id="706" name="Somalia">
+            <seriesData year="2009" value="4.0" nature="E" />
+            <seriesData year="2010" value="5.8" nature="E" />
+            <seriesData year="2011" value="7.4" nature="E" />
+        </country>
+        <country id="710" name="South Africa">
+            <seriesData year="2009" value="42.3" nature="E" />
+            <seriesData year="2010" value="56.8" nature="E" />
+            <seriesData year="2011" value="66.3" nature="E" />
+        </country>
+        <country id="144" name="Sri Lanka">
+            <seriesData year="2009" value="16.8" nature="E" />
+            <seriesData year="2010" value="18.8" nature="E" />
+            <seriesData year="2011" value="21.1" nature="E" />
+        </country>
+        <country id="736" name="Sudan (former)">
+            <seriesData year="2009" value="7.6" nature="E" footnotes="4" />
+            <seriesData year="2010" value="7.8" nature="E" footnotes="4" />
+            <seriesData year="2011" />
+        </country>
+        <country id="740" name="Suriname">
+            <seriesData year="2009" value="37.7" nature="E" />
+            <seriesData year="2010" value="44.0" nature="E" />
+            <seriesData year="2011" value="53.1" nature="E" />
+        </country>
+        <country id="748" name="Swaziland">
+            <seriesData year="2009" value="64.0" nature="E" />
+            <seriesData year="2010" value="73.1" nature="E" />
+            <seriesData year="2011" value="82.7" nature="E" />
+        </country>
+        <country id="764" name="Thailand">
+            <seriesData year="2009" value="72.0" nature="E" />
+            <seriesData year="2010" value="67.2" nature="E" />
+            <seriesData year="2011" value="71.1" nature="E" />
+        </country>
+        <country id="768" name="Togo">
+            <seriesData year="2009" value="26.3" nature="E" />
+            <seriesData year="2010" value="36.3" nature="E" />
+            <seriesData year="2011" value="42.2" nature="E" />
+        </country>
+        <country id="788" name="Tunisia">
+            <seriesData year="2009" value="69.8" nature="E" />
+            <seriesData year="2010" value="63.4" nature="E" />
+            <seriesData year="2011" value="67.3" nature="E" />
+        </country>
+        <country id="792" name="Turkey">
+            <seriesData year="2009" value="67.3" nature="E" />
+            <seriesData year="2010" value="56.5" nature="E" />
+            <seriesData year="2011" value="49.6" nature="E" />
+        </country>
+        <country id="800" name="Uganda">
+            <seriesData year="2009" value="41.0" nature="E" />
+            <seriesData year="2010" value="45.3" nature="E" />
+            <seriesData year="2011" value="53.9" nature="E" />
+        </country>
+        <country id="834" name="United Republic of Tanzania">
+            <seriesData year="2009" value="32.1" nature="E" />
+            <seriesData year="2010" value="38.3" nature="E" />
+            <seriesData year="2011" value="39.7" nature="E" />
+        </country>
+        <country id="858" name="Uruguay">
+            <seriesData year="2009" value="39.4" nature="E" />
+            <seriesData year="2010" value="48.8" nature="E" />
+            <seriesData year="2011" value="41.2" nature="E" />
+        </country>
+        <country id="862" name="Venezuela">
+            <seriesData year="2009" value="74.2" nature="E" />
+            <seriesData year="2010" value="79.8" nature="E" />
+            <seriesData year="2011" value="79.0" nature="E" />
+        </country>
+        <country id="704" name="Viet Nam">
+            <seriesData year="2009" value="44.5" nature="E" />
+            <seriesData year="2010" value="51.7" nature="E" />
+            <seriesData year="2011" value="57.7" nature="E" />
+        </country>
+        <country id="887" name="Yemen">
+            <seriesData year="2009" value="4.0" nature="E" />
+            <seriesData year="2010" value="7.0" nature="E" />
+            <seriesData year="2011" value="8.0" nature="E" />
+        </country>
+        <country id="894" name="Zambia">
+            <seriesData year="2009" value="80.8" nature="E" />
+            <seriesData year="2010" value="71.6" nature="E" />
+            <seriesData year="2011" value="82.0" nature="E" />
+        </country>
+        <country id="716" name="Zimbabwe">
+            <seriesData year="2009" value="37.3" nature="E" />
+            <seriesData year="2010" value="53.5" nature="E" />
+            <seriesData year="2011" value="76.9" nature="E" />
+        </country>
+    </series>
+</indicator>
