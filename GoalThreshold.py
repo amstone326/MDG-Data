@@ -1,7 +1,7 @@
 
 class GoalThreshold:
 
-    def __init__(self, goal_type, target_value, directional_bool, max_observed_val):
+    def __init__(self, goal_type, target_value, directional_bool):
         # Will be either EQUALS, GE (>=), or PROPORTION
         self.goal_type = goal_type
 
@@ -12,11 +12,9 @@ class GoalThreshold:
         # True if goal is to increase, False if decrease
         self.increasing_goal = directional_bool
 
-        self.max_observed_val = max_observed_val
-
     # Returns how much progress toward this GoalThreshold is represented by initial_value and final_value,
     # as a percentage (so if the goal is reached, returns value of 1)
-    def compute_absolute_status(self, initial_value, final_value):
+    def compute_absolute_status(self, initial_value, final_value, max_observed_value):
         if self.goal_type == 'EQUALS':
             # If reached target value, return 1
             if final_value == self.target_value:
@@ -26,8 +24,7 @@ class GoalThreshold:
                 return float(final_value) / self.target_value
             # If the goal is to decrease this value, calculate percent to target as progress made toward
             # the desired final value, starting from the max observed value
-            print self.max_observed_val
-            return (self.max_observed_val - final_value) / self.max_observed_val
+            return (max_observed_value - final_value) / max_observed_value
         elif self.goal_type == 'GE':
             if final_value >= self.target_value:
                 return 1.0

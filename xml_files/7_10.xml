@@ -1,0 +1,700 @@
+<indicator id="32" name="7.10 Proportion of urban population living in slums">
+    <series id="710" name="Slum population as percentage of urban, percentage">
+        <country id="24" name="Angola">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="86.5" nature="E" footnotes="2,81" />
+            <seriesData year="2007" value="76.2" nature="E" footnotes="102" />
+            <seriesData year="2009" value="65.8" nature="E" footnotes="103,113" />
+        </country>
+        <country id="32" name="Argentina">
+            <seriesData year="1990" value="30.5" nature="E" footnotes="89,107" />
+            <seriesData year="1995" value="31.7" nature="E" footnotes="89,106" />
+            <seriesData year="2000" value="32.9" nature="E" footnotes="89,106" />
+            <seriesData year="2005" value="26.2" nature="E" footnotes="94" />
+            <seriesData year="2007" value="23.5" nature="E" footnotes="94" />
+            <seriesData year="2009" value="20.8" nature="E" footnotes="94" />
+        </country>
+        <country id="50" name="Bangladesh">
+            <seriesData year="1990" value="87.3" nature="E" footnotes="53" />
+            <seriesData year="1995" value="84.7" nature="E" footnotes="53" />
+            <seriesData year="2000" value="77.8" nature="E" footnotes="53" />
+            <seriesData year="2005" value="70.8" nature="E" footnotes="97,113" />
+            <seriesData year="2007" value="66.2" nature="E" footnotes="104" />
+            <seriesData year="2009" value="61.6" nature="E" footnotes="97,113" />
+        </country>
+        <country id="84" name="Belize">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" />
+            <seriesData year="2007" value="18.7" nature="E" footnotes="111" />
+            <seriesData year="2009" />
+        </country>
+        <country id="204" name="Benin">
+            <seriesData year="1990" value="79.3" nature="E" footnotes="58,113" />
+            <seriesData year="1995" value="76.8" nature="E" footnotes="58,113" />
+            <seriesData year="2000" value="74.3" nature="E" footnotes="58,113" />
+            <seriesData year="2005" value="71.8" nature="E" footnotes="76" />
+            <seriesData year="2007" value="70.8" nature="E" footnotes="76,113" />
+            <seriesData year="2009" value="69.8" nature="E" footnotes="76,113" />
+        </country>
+        <country id="68" name="Bolivia">
+            <seriesData year="1990" value="62.2" nature="E" footnotes="27" />
+            <seriesData year="1995" value="58.2" nature="E" footnotes="27" />
+            <seriesData year="2000" value="54.3" nature="E" footnotes="27" />
+            <seriesData year="2005" value="50.4" nature="E" footnotes="28,109" />
+            <seriesData year="2007" value="48.8" nature="E" footnotes="28,113" />
+            <seriesData year="2009" value="47.3" nature="E" footnotes="28,113" />
+        </country>
+        <country id="76" name="Brazil">
+            <seriesData year="1990" value="36.7" nature="E" footnotes="22" />
+            <seriesData year="1995" value="34.1" nature="E" footnotes="22" />
+            <seriesData year="2000" value="31.5" nature="E" footnotes="22" />
+            <seriesData year="2005" value="29.0" nature="E" footnotes="112" />
+            <seriesData year="2007" value="28.0" nature="E" footnotes="112" />
+            <seriesData year="2009" value="26.9" nature="E" footnotes="112,113" />
+        </country>
+        <country id="854" name="Burkina Faso">
+            <seriesData year="1990" value="78.8" nature="E" footnotes="48,113" />
+            <seriesData year="1995" value="72.4" nature="E" footnotes="48,113" />
+            <seriesData year="2000" value="65.9" nature="E" footnotes="48,113" />
+            <seriesData year="2005" value="59.5" nature="E" footnotes="12,49,87" />
+            <seriesData year="2007" value="59.5" nature="E" footnotes="12,49,87" />
+            <seriesData year="2009" />
+        </country>
+        <country id="108" name="Burundi">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="64.3" nature="E" footnotes="1,81" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="116" name="Cambodia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="78.9" nature="E" footnotes="76" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="120" name="Cameroon">
+            <seriesData year="1990" value="50.8" nature="E" footnotes="33" />
+            <seriesData year="1995" value="49.6" nature="E" footnotes="38,113" />
+            <seriesData year="2000" value="48.4" nature="E" footnotes="38,113" />
+            <seriesData year="2005" value="47.4" nature="E" footnotes="69,113" />
+            <seriesData year="2007" value="46.6" nature="E" footnotes="69,113" />
+            <seriesData year="2009" value="46.1" nature="E" footnotes="69,113" />
+        </country>
+        <country id="140" name="Central African Republic">
+            <seriesData year="1990" value="87.5" nature="E" footnotes="55,113" />
+            <seriesData year="1995" value="89.7" nature="E" footnotes="55,113" />
+            <seriesData year="2000" value="91.9" nature="E" footnotes="92" />
+            <seriesData year="2005" value="94.1" nature="E" footnotes="55,113" />
+            <seriesData year="2007" value="95.0" nature="E" footnotes="55,113" />
+            <seriesData year="2009" value="95.9" nature="E" footnotes="55,113" />
+        </country>
+        <country id="148" name="Chad">
+            <seriesData year="1990" value="98.9" nature="E" footnotes="62" />
+            <seriesData year="1995" value="96.4" nature="E" footnotes="62" />
+            <seriesData year="2000" value="93.9" nature="E" footnotes="62" />
+            <seriesData year="2005" value="91.3" nature="E" footnotes="63,113" />
+            <seriesData year="2007" value="90.3" nature="E" footnotes="63,113" />
+            <seriesData year="2009" value="89.3" nature="E" footnotes="63,113" />
+        </country>
+        <country id="152" name="Chile">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="9.0" nature="E" footnotes="20,93" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="156" name="China">
+            <seriesData year="1990" value="43.6" nature="E" footnotes="89,107" />
+            <seriesData year="1995" value="40.5" nature="E" footnotes="89,107" />
+            <seriesData year="2000" value="37.3" nature="E" footnotes="89,107" />
+            <seriesData year="2005" value="32.9" nature="E" footnotes="96" />
+            <seriesData year="2007" value="31.0" nature="E" footnotes="96" />
+            <seriesData year="2009" value="29.1" nature="E" footnotes="96" />
+        </country>
+        <country id="170" name="Colombia">
+            <seriesData year="1990" value="31.2" nature="E" footnotes="29" />
+            <seriesData year="1995" value="26.8" nature="E" footnotes="90" />
+            <seriesData year="2000" value="22.3" nature="E" footnotes="90" />
+            <seriesData year="2005" value="17.9" nature="E" footnotes="76" />
+            <seriesData year="2007" value="16.1" nature="E" footnotes="76" />
+            <seriesData year="2009" value="14.3" nature="E" footnotes="76,113" />
+        </country>
+        <country id="174" name="Comoros">
+            <seriesData year="1990" value="65.4" nature="E" footnotes="89" />
+            <seriesData year="1995" value="65.4" nature="E" footnotes="89" />
+            <seriesData year="2000" value="65.4" nature="E" footnotes="89" />
+            <seriesData year="2005" value="68.9" nature="E" footnotes="61,113" />
+            <seriesData year="2007" value="68.9" nature="E" footnotes="61,113" />
+            <seriesData year="2009" />
+        </country>
+        <country id="178" name="Congo">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="53.4" nature="E" footnotes="12,76" />
+            <seriesData year="2007" value="51.7" nature="E" footnotes="100,113" />
+            <seriesData year="2009" value="49.9" nature="E" footnotes="105" />
+        </country>
+        <country id="188" name="Costa Rica">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="10.9" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="384" name="Cote d'Ivoire">
+            <seriesData year="1990" value="53.4" nature="E" footnotes="54" />
+            <seriesData year="1995" value="54.3" nature="E" footnotes="54" />
+            <seriesData year="2000" value="55.3" nature="E" footnotes="54" />
+            <seriesData year="2005" value="56.2" nature="E" footnotes="16" />
+            <seriesData year="2007" value="56.6" nature="E" footnotes="16" />
+            <seriesData year="2009" value="57.0" nature="E" footnotes="16,113" />
+        </country>
+        <country id="180" name="Democratic Republic of the Congo">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="76.4" nature="E" footnotes="81,113" />
+            <seriesData year="2007" value="69.1" nature="E" footnotes="104" />
+            <seriesData year="2009" value="61.7" nature="E" footnotes="104,113" />
+        </country>
+        <country id="214" name="Dominican Republic">
+            <seriesData year="1990" value="27.9" nature="E" footnotes="36" />
+            <seriesData year="1995" value="24.4" nature="E" footnotes="36" />
+            <seriesData year="2000" value="21.0" nature="E" footnotes="36" />
+            <seriesData year="2005" value="17.6" nature="E" footnotes="17,37" />
+            <seriesData year="2007" value="16.2" nature="E" footnotes="13,37,113" />
+            <seriesData year="2009" value="14.8" nature="E" footnotes="37,113" />
+        </country>
+        <country id="218" name="Ecuador">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="21.5" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="818" name="Egypt">
+            <seriesData year="1990" value="50.2" nature="E" footnotes="24,113" />
+            <seriesData year="1995" value="39.2" nature="E" footnotes="24,113" />
+            <seriesData year="2000" value="28.1" nature="E" footnotes="72" />
+            <seriesData year="2005" value="17.1" nature="E" footnotes="12,76" />
+            <seriesData year="2007" value="14.4" nature="E" footnotes="99,113" />
+            <seriesData year="2009" value="13.1" nature="E" footnotes="99,113" />
+        </country>
+        <country id="222" name="El Salvador">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="28.9" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="226" name="Equatorial Guinea">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="66.3" nature="E" footnotes="81,113" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="231" name="Ethiopia">
+            <seriesData year="1990" value="95.5" nature="E" footnotes="74" />
+            <seriesData year="1995" value="95.5" nature="E" footnotes="74" />
+            <seriesData year="2000" value="88.6" nature="E" footnotes="74" />
+            <seriesData year="2005" value="81.8" nature="E" footnotes="76" />
+            <seriesData year="2007" value="79.1" nature="E" footnotes="76" />
+            <seriesData year="2009" value="76.4" nature="E" footnotes="76,113" />
+        </country>
+        <country id="254" name="French Guiana">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="10.5" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="266" name="Gabon">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="38.7" nature="E" footnotes="12,74" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="270" name="Gambia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="45.4" nature="E" footnotes="12,81,113" />
+            <seriesData year="2007" value="34.8" nature="E" footnotes="111" />
+            <seriesData year="2009" />
+        </country>
+        <country id="288" name="Ghana">
+            <seriesData year="1990" value="65.5" nature="E" footnotes="48" />
+            <seriesData year="1995" value="58.8" nature="E" footnotes="48" />
+            <seriesData year="2000" value="52.1" nature="E" footnotes="48" />
+            <seriesData year="2005" value="45.4" nature="E" footnotes="12,49,113" />
+            <seriesData year="2007" value="42.8" nature="E" footnotes="49,113" />
+            <seriesData year="2009" value="40.1" nature="E" footnotes="49,113" />
+        </country>
+        <country id="308" name="Grenada">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="6.0" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="312" name="Guadeloupe">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="5.4" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="320" name="Guatemala">
+            <seriesData year="1990" value="58.6" nature="E" footnotes="57" />
+            <seriesData year="1995" value="53.3" nature="E" footnotes="57" />
+            <seriesData year="2000" value="48.1" nature="E" footnotes="57" />
+            <seriesData year="2005" value="42.9" nature="E" footnotes="13,57" />
+            <seriesData year="2007" value="40.8" nature="E" footnotes="57" />
+            <seriesData year="2009" value="38.7" nature="E" footnotes="57,113" />
+        </country>
+        <country id="324" name="Guinea">
+            <seriesData year="1990" value="80.4" nature="E" footnotes="44" />
+            <seriesData year="1995" value="68.8" nature="E" footnotes="44" />
+            <seriesData year="2000" value="57.3" nature="E" footnotes="44" />
+            <seriesData year="2005" value="45.7" nature="E" footnotes="12,76,87" />
+            <seriesData year="2007" value="45.7" nature="E" footnotes="76,87" />
+            <seriesData year="2009" />
+        </country>
+        <country id="624" name="Guinea-Bissau">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="83.1" nature="E" footnotes="81,113" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="328" name="Guyana">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="33.7" nature="E" footnotes="7,81" />
+            <seriesData year="2007" value="33.5" nature="E" footnotes="100" />
+            <seriesData year="2009" value="33.2" nature="E" footnotes="105" />
+        </country>
+        <country id="332" name="Haiti">
+            <seriesData year="1990" value="93.4" nature="E" footnotes="56" />
+            <seriesData year="1995" value="93.4" nature="E" footnotes="56" />
+            <seriesData year="2000" value="93.4" nature="E" footnotes="56" />
+            <seriesData year="2005" value="70.1" nature="E" footnotes="99" />
+            <seriesData year="2007" value="70.1" nature="E" footnotes="99" />
+            <seriesData year="2009" value="70.1" nature="E" footnotes="99" />
+        </country>
+        <country id="340" name="Honduras">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="34.9" nature="E" footnotes="76,78" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="356" name="India">
+            <seriesData year="1990" value="54.9" nature="E" footnotes="52" />
+            <seriesData year="1995" value="48.2" nature="E" footnotes="52" />
+            <seriesData year="2000" value="41.5" nature="E" footnotes="52" />
+            <seriesData year="2005" value="34.8" nature="E" footnotes="14,77" />
+            <seriesData year="2007" value="32.1" nature="E" footnotes="77" />
+            <seriesData year="2009" value="29.4" nature="E" footnotes="77,113" />
+        </country>
+        <country id="360" name="Indonesia">
+            <seriesData year="1990" value="50.8" nature="E" footnotes="34" />
+            <seriesData year="1995" value="42.6" nature="E" footnotes="34" />
+            <seriesData year="2000" value="34.4" nature="E" footnotes="34" />
+            <seriesData year="2005" value="26.3" nature="E" footnotes="21,35" />
+            <seriesData year="2007" value="23.0" nature="E" footnotes="35" />
+            <seriesData year="2009" value="23.0" nature="E" footnotes="35" />
+        </country>
+        <country id="368" name="Iraq">
+            <seriesData year="1990" value="16.9" nature="E" footnotes="89,107" />
+            <seriesData year="1995" value="16.9" nature="E" footnotes="89,107" />
+            <seriesData year="2000" value="16.9" nature="E" footnotes="89,107" />
+            <seriesData year="2005" value="52.8" nature="E" footnotes="79,82" />
+            <seriesData year="2007" value="52.8" nature="E" footnotes="82" />
+            <seriesData year="2009" value="52.8" nature="E" footnotes="82" />
+        </country>
+        <country id="388" name="Jamaica">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="60.5" nature="E" footnotes="8,85" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="400" name="Jordan">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="15.8" nature="E" footnotes="30" />
+            <seriesData year="2007" value="17.7" nature="E" footnotes="100" />
+            <seriesData year="2009" value="19.6" nature="E" footnotes="105" />
+        </country>
+        <country id="404" name="Kenya">
+            <seriesData year="1990" value="54.9" nature="E" footnotes="25" />
+            <seriesData year="1995" value="54.8" nature="E" footnotes="25" />
+            <seriesData year="2000" value="54.8" nature="E" footnotes="25" />
+            <seriesData year="2005" value="54.8" nature="E" footnotes="12,49,113" />
+            <seriesData year="2007" value="54.8" nature="E" footnotes="49,113" />
+            <seriesData year="2009" value="54.7" nature="E" footnotes="49,113" />
+        </country>
+        <country id="418" name="Lao People's Democratic Republic">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="79.3" nature="E" footnotes="6,81" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="422" name="Lebanon">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="53.1" nature="E" footnotes="84" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="426" name="Lesotho">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="35.1" nature="E" footnotes="12,15,75" />
+            <seriesData year="2007" value="44.4" nature="E" footnotes="98,113" />
+            <seriesData year="2009" value="53.7" nature="E" footnotes="105" />
+        </country>
+        <country id="430" name="Liberia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" />
+            <seriesData year="2007" />
+            <seriesData year="2009" value="68.3" nature="E" footnotes="105" />
+        </country>
+        <country id="450" name="Madagascar">
+            <seriesData year="1990" value="93.0" nature="E" footnotes="38" />
+            <seriesData year="1995" value="88.6" nature="E" footnotes="38" />
+            <seriesData year="2000" value="84.1" nature="E" footnotes="38" />
+            <seriesData year="2005" value="80.6" nature="E" footnotes="15,75" />
+            <seriesData year="2007" value="78.0" nature="E" footnotes="75,113" />
+            <seriesData year="2009" value="76.2" nature="E" footnotes="75,113" />
+        </country>
+        <country id="454" name="Malawi">
+            <seriesData year="1990" value="66.4" nature="E" footnotes="45" />
+            <seriesData year="1995" value="66.4" nature="E" footnotes="45" />
+            <seriesData year="2000" value="66.4" nature="E" footnotes="45" />
+            <seriesData year="2005" value="66.4" nature="E" footnotes="12,15,75" />
+            <seriesData year="2007" value="67.7" nature="E" footnotes="75,113" />
+            <seriesData year="2009" value="68.9" nature="E" footnotes="75,113" />
+        </country>
+        <country id="466" name="Mali">
+            <seriesData year="1990" value="94.2" nature="E" footnotes="23" />
+            <seriesData year="1995" value="84.8" nature="E" footnotes="23" />
+            <seriesData year="2000" value="75.4" nature="E" footnotes="23" />
+            <seriesData year="2005" value="65.9" nature="E" footnotes="10,12,59" />
+            <seriesData year="2007" value="65.9" nature="E" footnotes="59,113" />
+            <seriesData year="2009" value="65.9" nature="E" footnotes="59,113" />
+        </country>
+        <country id="484" name="Mexico">
+            <seriesData year="1990" value="23.1" nature="E" footnotes="89,106" />
+            <seriesData year="1995" value="21.5" nature="E" footnotes="89,106" />
+            <seriesData year="2000" value="19.9" nature="E" footnotes="89,106" />
+            <seriesData year="2005" value="14.4" nature="E" footnotes="19" />
+            <seriesData year="2007" value="14.4" nature="E" footnotes="19" />
+            <seriesData year="2009" />
+        </country>
+        <country id="496" name="Mongolia">
+            <seriesData year="1990" value="68.5" nature="E" footnotes="89,107" />
+            <seriesData year="1995" value="66.7" nature="E" footnotes="89,113" />
+            <seriesData year="2000" value="64.9" nature="E" footnotes="89,113" />
+            <seriesData year="2005" value="57.9" nature="E" footnotes="3,83" />
+            <seriesData year="2007" value="57.9" nature="E" footnotes="83,113" />
+            <seriesData year="2009" />
+        </country>
+        <country id="504" name="Morocco">
+            <seriesData year="1990" value="37.4" nature="E" footnotes="24,113" />
+            <seriesData year="1995" value="35.2" nature="E" footnotes="24,113" />
+            <seriesData year="2000" value="24.2" nature="E" footnotes="24,113" />
+            <seriesData year="2005" value="13.1" nature="E" footnotes="12,39,113" />
+            <seriesData year="2007" value="13.1" nature="E" footnotes="39,113" />
+            <seriesData year="2009" value="13.1" nature="E" footnotes="39,113" />
+        </country>
+        <country id="508" name="Mozambique">
+            <seriesData year="1990" value="75.6" nature="E" footnotes="66" />
+            <seriesData year="1995" value="76.9" nature="E" footnotes="66" />
+            <seriesData year="2000" value="78.2" nature="E" footnotes="66" />
+            <seriesData year="2005" value="79.5" nature="E" footnotes="12,66,113" />
+            <seriesData year="2007" value="80.0" nature="E" footnotes="66,113" />
+            <seriesData year="2009" value="80.5" nature="E" footnotes="66,113" />
+        </country>
+        <country id="104" name="Myanmar">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="45.6" nature="E" footnotes="5,81" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="516" name="Namibia">
+            <seriesData year="1990" value="34.4" nature="E" footnotes="45" />
+            <seriesData year="1995" value="34.1" nature="E" footnotes="45" />
+            <seriesData year="2000" value="33.9" nature="E" footnotes="45" />
+            <seriesData year="2005" value="33.9" nature="E" footnotes="45,113" />
+            <seriesData year="2007" value="33.6" nature="E" footnotes="45,113" />
+            <seriesData year="2009" value="33.5" nature="E" footnotes="45,113" />
+        </country>
+        <country id="524" name="Nepal">
+            <seriesData year="1990" value="70.6" nature="E" footnotes="60,80" />
+            <seriesData year="1995" value="67.3" nature="E" footnotes="60,80" />
+            <seriesData year="2000" value="64.0" nature="E" footnotes="60,80" />
+            <seriesData year="2005" value="60.7" nature="E" footnotes="60,80" />
+            <seriesData year="2007" value="59.4" nature="E" footnotes="60,113" />
+            <seriesData year="2009" value="58.1" nature="E" footnotes="60,113" />
+        </country>
+        <country id="558" name="Nicaragua">
+            <seriesData year="1990" value="89.1" nature="E" footnotes="68" />
+            <seriesData year="1995" value="74.5" nature="E" footnotes="68" />
+            <seriesData year="2000" value="60.0" nature="E" footnotes="68" />
+            <seriesData year="2005" value="45.5" nature="E" footnotes="68,110" />
+            <seriesData year="2007" value="45.5" nature="E" footnotes="68" />
+            <seriesData year="2009" />
+        </country>
+        <country id="562" name="Niger">
+            <seriesData year="1990" value="83.6" nature="E" footnotes="38" />
+            <seriesData year="1995" value="83.1" nature="E" footnotes="38" />
+            <seriesData year="2000" value="82.6" nature="E" footnotes="38" />
+            <seriesData year="2005" value="82.1" nature="E" footnotes="108,113" />
+            <seriesData year="2007" value="81.9" nature="E" footnotes="108,113" />
+            <seriesData year="2009" value="81.7" nature="E" footnotes="108,113" />
+        </country>
+        <country id="566" name="Nigeria">
+            <seriesData year="1990" value="77.3" nature="E" footnotes="31" />
+            <seriesData year="1995" value="73.5" nature="E" footnotes="31" />
+            <seriesData year="2000" value="69.6" nature="E" footnotes="31" />
+            <seriesData year="2005" value="65.8" nature="E" footnotes="71,113" />
+            <seriesData year="2007" value="64.2" nature="E" footnotes="71,113" />
+            <seriesData year="2009" value="62.7" nature="E" footnotes="71,113" />
+        </country>
+        <country id="586" name="Pakistan">
+            <seriesData year="1990" value="51.0" nature="E" footnotes="32" />
+            <seriesData year="1995" value="49.8" nature="E" footnotes="32" />
+            <seriesData year="2000" value="48.7" nature="E" footnotes="32" />
+            <seriesData year="2005" value="47.5" nature="E" footnotes="96" />
+            <seriesData year="2007" value="47.0" nature="E" footnotes="96" />
+            <seriesData year="2009" value="46.6" nature="E" footnotes="96,113" />
+        </country>
+        <country id="591" name="Panama">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="23.0" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="600" name="Paraguay">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="17.6" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="604" name="Peru">
+            <seriesData year="1990" value="66.4" nature="E" footnotes="42" />
+            <seriesData year="1995" value="56.3" nature="E" footnotes="42" />
+            <seriesData year="2000" value="46.2" nature="E" footnotes="42" />
+            <seriesData year="2005" value="36.1" nature="E" footnotes="73,88" />
+            <seriesData year="2007" value="36.1" nature="E" footnotes="73" />
+            <seriesData year="2009" />
+        </country>
+        <country id="608" name="Philippines">
+            <seriesData year="1990" value="54.3" nature="E" footnotes="50" />
+            <seriesData year="1995" value="50.8" nature="E" footnotes="50" />
+            <seriesData year="2000" value="47.2" nature="E" footnotes="50" />
+            <seriesData year="2005" value="43.7" nature="E" footnotes="11,51" />
+            <seriesData year="2007" value="42.3" nature="E" footnotes="51,113" />
+            <seriesData year="2009" value="40.9" nature="E" footnotes="51,113" />
+        </country>
+        <country id="646" name="Rwanda">
+            <seriesData year="1990" value="96.0" nature="E" footnotes="45" />
+            <seriesData year="1995" value="87.9" nature="E" footnotes="45" />
+            <seriesData year="2000" value="79.7" nature="E" footnotes="45" />
+            <seriesData year="2005" value="71.6" nature="E" footnotes="76" />
+            <seriesData year="2007" value="68.3" nature="E" footnotes="76" />
+            <seriesData year="2009" value="65.1" nature="E" footnotes="76,113" />
+        </country>
+        <country id="662" name="Saint Lucia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="11.9" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="682" name="Saudi Arabia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="18.0" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="686" name="Senegal">
+            <seriesData year="1990" value="70.6" nature="E" footnotes="46" />
+            <seriesData year="1995" value="59.8" nature="E" footnotes="46" />
+            <seriesData year="2000" value="48.9" nature="E" footnotes="46" />
+            <seriesData year="2005" value="43.3" nature="E" footnotes="12,76" />
+            <seriesData year="2007" value="41.1" nature="E" footnotes="99,113" />
+            <seriesData year="2009" value="38.8" nature="E" footnotes="99,113" />
+        </country>
+        <country id="694" name="Sierra Leone">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="97.0" nature="E" footnotes="14,81" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="706" name="Somalia">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="73.5" nature="E" footnotes="111" />
+            <seriesData year="2007" value="73.6" nature="E" footnotes="111,113" />
+            <seriesData year="2009" value="73.6" nature="E" footnotes="111,113" />
+        </country>
+        <country id="710" name="South Africa">
+            <seriesData year="1990" value="46.2" nature="E" footnotes="67" />
+            <seriesData year="1995" value="39.7" nature="E" footnotes="67" />
+            <seriesData year="2000" value="33.2" nature="E" footnotes="67" />
+            <seriesData year="2005" value="28.7" nature="E" footnotes="70,113" />
+            <seriesData year="2007" value="23.0" nature="E" footnotes="95" />
+            <seriesData year="2009" value="23.0" nature="E" footnotes="95" />
+        </country>
+        <country id="740" name="Suriname">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="3.9" nature="E" footnotes="4,81" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="760" name="Syrian Arab Republic">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="10.5" nature="E" footnotes="96" />
+            <seriesData year="2007" value="22.5" nature="E" footnotes="111" />
+            <seriesData year="2009" />
+        </country>
+        <country id="764" name="Thailand">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="26.0" nature="E" footnotes="5,86" />
+            <seriesData year="2007" value="26.5" nature="E" footnotes="111" />
+            <seriesData year="2009" value="27.0" nature="E" footnotes="111" />
+        </country>
+        <country id="768" name="Togo">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="62.1" nature="E" footnotes="12,108,113" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="780" name="Trinidad and Tobago">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="24.7" nature="E" footnotes="96" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="792" name="Turkey">
+            <seriesData year="1990" value="23.4" nature="E" footnotes="48" />
+            <seriesData year="1995" value="20.7" nature="E" footnotes="48" />
+            <seriesData year="2000" value="17.9" nature="E" footnotes="48" />
+            <seriesData year="2005" value="15.5" nature="E" footnotes="9,47" />
+            <seriesData year="2007" value="14.1" nature="E" footnotes="9,47" />
+            <seriesData year="2009" value="13.0" nature="E" footnotes="47,113" />
+        </country>
+        <country id="800" name="Uganda">
+            <seriesData year="1990" value="75.0" nature="E" footnotes="26" />
+            <seriesData year="1995" value="75.0" nature="E" footnotes="26" />
+            <seriesData year="2000" value="75.0" nature="E" footnotes="26" />
+            <seriesData year="2005" value="66.7" nature="E" footnotes="12,58,113" />
+            <seriesData year="2007" value="63.4" nature="E" footnotes="58,113" />
+            <seriesData year="2009" value="60.1" nature="E" footnotes="58,113" />
+        </country>
+        <country id="834" name="United Republic of Tanzania">
+            <seriesData year="1990" value="77.4" nature="E" footnotes="41" />
+            <seriesData year="1995" value="73.7" nature="E" footnotes="41" />
+            <seriesData year="2000" value="70.1" nature="E" footnotes="41" />
+            <seriesData year="2005" value="66.4" nature="E" footnotes="12,41,113" />
+            <seriesData year="2007" value="65.0" nature="E" footnotes="41,113" />
+            <seriesData year="2009" value="63.5" nature="E" footnotes="41,113" />
+        </country>
+        <country id="862" name="Venezuela">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="32.0" nature="E" footnotes="18" />
+            <seriesData year="2007" />
+            <seriesData year="2009" />
+        </country>
+        <country id="704" name="Viet Nam">
+            <seriesData year="1990" value="60.5" nature="E" footnotes="64" />
+            <seriesData year="1995" value="54.6" nature="E" footnotes="64" />
+            <seriesData year="2000" value="48.8" nature="E" footnotes="64" />
+            <seriesData year="2005" value="41.3" nature="E" footnotes="65" />
+            <seriesData year="2007" value="38.3" nature="E" footnotes="65" />
+            <seriesData year="2009" value="35.2" nature="E" footnotes="65" />
+        </country>
+        <country id="887" name="Yemen">
+            <seriesData year="1990" />
+            <seriesData year="1995" />
+            <seriesData year="2000" />
+            <seriesData year="2005" value="67.2" nature="E" footnotes="96" />
+            <seriesData year="2007" value="76.8" nature="E" footnotes="111" />
+            <seriesData year="2009" />
+        </country>
+        <country id="894" name="Zambia">
+            <seriesData year="1990" value="57.0" nature="E" footnotes="40" />
+            <seriesData year="1995" value="57.1" nature="E" footnotes="40" />
+            <seriesData year="2000" value="57.2" nature="E" footnotes="40" />
+            <seriesData year="2005" value="57.2" nature="E" footnotes="12,43" />
+            <seriesData year="2007" value="57.3" nature="E" footnotes="43" />
+            <seriesData year="2009" value="57.3" nature="E" footnotes="43" />
+        </country>
+        <country id="716" name="Zimbabwe">
+            <seriesData year="1990" value="4.0" nature="E" footnotes="54" />
+            <seriesData year="1995" value="3.7" nature="E" footnotes="54" />
+            <seriesData year="2000" value="3.3" nature="E" footnotes="54" />
+            <seriesData year="2005" value="17.9" nature="E" footnotes="76,91" />
+            <seriesData year="2007" value="21.0" nature="E" footnotes="101,113" />
+            <seriesData year="2009" value="24.1" nature="E" footnotes="101,113" />
+        </country>
+    </series>
+</indicator>

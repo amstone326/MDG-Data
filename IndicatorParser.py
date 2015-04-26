@@ -30,6 +30,7 @@ class IndicatorParser:
         earliest_value = 0
         latest_year = 0
         latest_value = 0
+        max_value = 0
         for data in country.findall('seriesData'):
             value = data.get('value')
             if value is not None:
@@ -41,11 +42,13 @@ class IndicatorParser:
                     earliest_year = int(year)
                     earliest_value = float(value)
                     first_year_found = True
+                if float(value) > max_value:
+                    max_value = float(value)
 
         # Since almost all evaluative metrics being used depend on an initial and final data point,
         # only making progress reports if 2 data points are available
         if latest_year != 0:
             return IPR.IndicatorProgressReport(self.comparison, country_id, country_name, earliest_year,
-                                               earliest_value, latest_year, latest_value)
+                                               earliest_value, latest_year, latest_value, max_value)
         else:
             return None

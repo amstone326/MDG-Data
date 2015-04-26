@@ -3,7 +3,7 @@
 class IndicatorProgressReport:
 
     def __init__(self, comparison_indicator, country_id, country_name, earliest_year, earliest_value,
-                 latest_year, latest_value):
+                 latest_year, latest_value, max_value):
         self.comparison_indicator = comparison_indicator  # of type Indicator
         self.country_id = country_id
         self.country_name = country_name
@@ -11,6 +11,7 @@ class IndicatorProgressReport:
         self.earliest_value = earliest_value
         self.latest_year = latest_year
         self.latest_value = latest_value
+        self.max_value = max_value
         self.progress_rate = 0
         self.comparative_progress_rate = 0
         self.absolute_status = 0
@@ -49,7 +50,8 @@ class IndicatorProgressReport:
     # and also compares it to the aggregate absolute status over all developing countries
     def compute_status_and_comparative_status(self):
         goal_threshold = self.comparison_indicator.get_goal_threshold()
-        self.absolute_status = goal_threshold.compute_absolute_status(self.earliest_value, self.latest_value)
+        self.absolute_status = goal_threshold.compute_absolute_status(self.earliest_value,
+                                                                      self.latest_value, self.max_value)
         aggr_status = self.comparison_indicator.get_aggr_status()
         self.comparative_absolute_status = self.absolute_status / aggr_status
 

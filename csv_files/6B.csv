@@ -92,6 +92,7 @@ c_id,c_name,rate,c_rate,a_rate,status,c_status,a_status,in
 0,Afghanistan,0,0,7.5,0,0,0.61,1
 0,Qatar,0,0,7.5,0,0,0.61,1
 0,Palau,0,0,7.5,0,0,0.61,1
+0,Northern Mariana Islands,0,0,7.5,0,0,0.61,1
 0,Solomon Islands,0,0,7.5,0,0,0.61,1
 0,Kuwait,0,0,7.5,0,0,0.61,1
 0,Saint Lucia,0,0,7.5,0,0,0.61,1
@@ -109,7 +110,7 @@ c_id,c_name,rate,c_rate,a_rate,status,c_status,a_status,in
 0,Bahrain,0,0,7.5,0,0,0.61,1
 0,Federated States of Micronesia,0,0,7.5,0,0,0.61,1
 0,Saudi Arabia,0,0,7.5,0,0,0.61,1
-0,Martinique,0,0,7.5,0,0,0.61,1
+0,Western Sahara,0,0,7.5,0,0,0.61,1
 0,Algeria,0,0,7.5,0,0,0.61,1
 0,Singapore,0,0,7.5,0,0,0.61,1
 0,Tuvalu,0,0,7.5,0,0,0.61,1
@@ -119,12 +120,14 @@ c_id,c_name,rate,c_rate,a_rate,status,c_status,a_status,in
 0,"China, Macao Special Administrative Region",0,0,7.5,0,0,0.61,1
 0,China,0,0,7.5,0,0,0.61,1
 0,Marshall Islands,0,0,7.5,0,0,0.61,1
+0,Netherlands Antilles,0,0,7.5,0,0,0.61,1
 0,Republic of Korea,0,0,7.5,0,0,0.61,1
 0,Iraq,0,0,7.5,0,0,0.61,1
 0,Dominica,0,0,7.5,0,0,0.61,1
 0,Tonga,0,0,7.5,0,0,0.61,1
 0,Montserrat,0,0,7.5,0,0,0.61,1
 0,Libya,0,0,7.5,0,0,0.61,1
+0,Mayotte,0,0,7.5,0,0,0.61,1
 0,Oman,0,0,7.5,0,0,0.61,1
 0,Cayman Islands,0,0,7.5,0,0,0.61,1
 0,New Caledonia,0,0,7.5,0,0,0.61,1
@@ -148,7 +151,9 @@ c_id,c_name,rate,c_rate,a_rate,status,c_status,a_status,in
 0,Guam,0,0,7.5,0,0,0.61,1
 0,India,0,0,7.5,0,0,0.61,1
 0,Brunei Darussalam,0,0,7.5,0,0,0.61,1
+0,Martinique,0,0,7.5,0,0,0.61,1
 0,Timor-Leste,0,0,7.5,0,0,0.61,1
+0,Falkland Islands (Malvinas),0,0,7.5,0,0,0.61,1
 0,Saint Vincent and the Grenadines,0,0,7.5,0,0,0.61,1
 0,Reunion,0,0,7.5,0,0,0.61,1
 0,British Virgin Islands,0,0,7.5,0,0,0.61,1
